@@ -148,6 +148,8 @@ def load_reports(date_str: str) -> dict[str, str]:
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
 
+import math as _math
+
 def _f(s) -> float:
     """Parse a formatted string like '1.23%' or '$5.2B' to a float."""
     try:
@@ -156,17 +158,65 @@ def _f(s) -> float:
         return float("nan")
 
 
-def compute_conviction(df: pd.DataFrame) -> pd.DataFrame:
-    """Add a 'Score' column (0–10) based on insider signal, P/B, short %, ROE, dividend."""
+def _parse_insider_val(s) -> float:
+    """Parse '+$5.6M' → 5_600_000, '-$1.2K' → -1_200, '—' → 0."""
+    if not s or str(s) in ("—", "", "nan"):
+        return 0.0
+    s = str(s).strip()
+    neg = s.startswith("-")
+    s = s.replace("$", "").replace("+", "").replace("-", "").strip()
+    try:
+        if "T" in s:
+            val = float(s.replace("T", "")) * 1e12
+        elif "B" in s:
+            val = float(s.replace("B", "")) * 1e9
+        elif "M" in s:
+            val = float(s.replace("M", "")) * 1e6
+        elif "K" in s:
+            val = float(s.replace("K", "")) * 1e3
+        else:
+            val = float(s)
+        return -val if neg else val
+    except (ValueError, AttributeError):
+        return 0.0
+
+
+def _insider_score(net_val: float) -> float:
+    """Log-scaled 0–3 pts on net buying amount. Selling = −1."""
+    if net_val < 0:
+        return -1.0
+    if net_val < 50_000:          # noise / no activity
+        return 0.0
+    # $50K → ~0 pts, $500K → ~1.3 pts, $5M → ~2.6 pts, $10M+ → 3 pts
+    return min(_math.log10(net_val / 50_000) / _math.log10(200) * 3, 3.0)
+
+
+def compute_conviction(df: pd.DataFrame, is_momentum: bool = False) -> pd.DataFrame:
+    """
+    Score each stock 0–10 based on:
+      - Insider net value  (0–3 pts, log-scaled on $ amount; selling = −1)
+      - P/B ratio          (0–2 pts, value screens only — lower is better)
+      - ROE                (0–3 pts — higher is better, capped at 30%)
+      - Dividend yield     (0–2 pts — scales with yield up to 5%+)
+
+    Momentum stocks skip the P/B factor (max raw = 8 vs 10 for value).
+    Both are normalised to 0–10.
+    """
     df = df.copy()
-    ins_map = {"BUYING": 3.0, "NEUTRAL": 1.0, "—": 0.0, "SELLING": -2.0}
-    ins   = df["Insider Signal"].map(ins_map).fillna(0)
-    pb    = df["P/B Ratio"].apply(_f).clip(0, 2)
-    short = df["Short % Float"].apply(_f).fillna(10).clip(0, 20)
-    roe   = df["ROE"].apply(_f).fillna(0).clip(0, 20)
-    div   = (df["Div Yield"].apply(_f) > 0).astype(float)
-    raw   = ins + (2 - pb) / 2 * 3 + (20 - short) / 20 + roe / 20 + div * 0.5
-    df.insert(0, "Score", (raw / 8.5 * 10).clip(0, 10).round(1))
+
+    ins_score  = df["Insider Net Value (6mo)"].apply(_parse_insider_val).apply(_insider_score)
+    roe_score  = df["ROE"].apply(_f).fillna(0).clip(0, 30) / 30 * 3
+    div_score  = df["Div Yield"].apply(_f).fillna(0).clip(0, 10) / 5 * 2
+
+    if is_momentum:
+        raw     = ins_score + roe_score + div_score
+        max_raw = 8.0
+    else:
+        pb_score = (2 - df["P/B Ratio"].apply(_f).clip(0, 2)) / 2 * 2
+        raw      = ins_score + pb_score + roe_score + div_score
+        max_raw  = 10.0
+
+    df.insert(0, "Score", (raw / max_raw * 10).clip(0, 10).round(1))
     return df.sort_values("Score", ascending=False)
 
 
@@ -379,10 +429,10 @@ if not selected_date:
 
 # ── Load & score data ──────────────────────────────────────────────────────────
 
-df_30q  = compute_conviction(df_30q)  if df_30q  is not None else None
-df_50q  = compute_conviction(df_50q)  if df_50q  is not None else None
-df_100q = compute_conviction(df_100q) if df_100q is not None else None
-df_mom  = compute_conviction(df_mom)  if df_mom  is not None else None
+df_30q  = compute_conviction(df_30q)                    if df_30q  is not None else None
+df_50q  = compute_conviction(df_50q)                    if df_50q  is not None else None
+df_100q = compute_conviction(df_100q)                   if df_100q is not None else None
+df_mom  = compute_conviction(df_mom, is_momentum=True)  if df_mom  is not None else None
 
 # Combined ranked list across all screens (deepest value wins on dedup)
 _frames = []
@@ -437,13 +487,12 @@ with st.expander("How is the conviction score calculated?"):
     st.markdown("""
 | Factor | Max pts | Logic |
 |---|---|---|
-| **Insider signal** | 3 | BUYING = 3 · NEUTRAL = 1 · — = 0 · SELLING = −2 |
-| **P/B ratio** | 3 | Lower is better — P/B 0 scores 3, P/B 2 scores 0 |
-| **Short % float** | 1 | Lower short interest = higher score (capped at 20%) |
-| **Return on equity** | 1 | ROE ≥ 20% earns the full point |
-| **Dividend** | 0.5 | Bonus for any dividend yield > 0 |
+| **Insider net buying** | 3 | Log-scaled on $ amount — $50K ≈ 0, $500K ≈ 1.3, $5M ≈ 2.6, $10M+ = 3. Net selling = −1 |
+| **P/B ratio** | 2 | Value screens only (not momentum) — P/B 0 = 2 pts, P/B 2 = 0 pts |
+| **Return on equity** | 3 | Scales linearly — ROE 15% = 1.5 pts, ROE 30%+ = 3 pts |
+| **Dividend yield** | 2 | Scales with yield — 2.5% = 1 pt, 5%+ = 2 pts |
 
-Raw score (max 8.5) is normalised to **0–10**. ⭐ marks stocks appearing in both a value screen and momentum — the rarest, highest-confidence signal.
+Value screen max = 10 pts · Momentum max = 8 pts (P/B excluded) — both normalised to **0–10**. ⭐ = appears in both a value screen and momentum.
     """)
 st.divider()
 
