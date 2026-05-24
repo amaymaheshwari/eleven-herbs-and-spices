@@ -42,6 +42,7 @@ SCREEN_META = {
 VALUE_COLS = [
     "Score", "Ticker", "Company", "Price", "% Off 52W High", "% Below SMA",
     "P/B Ratio", "Div Yield", "ROE",
+    "EPS Beats (4Q)", "Analyst (90d)",
     "Short % Float", "Short Ratio (Days)",
     "Insider Signal", "Insider Net Value (6mo)", "Insider Buys", "Insider Sells",
     "Market Cap", "Sector", "Exchange",
@@ -51,6 +52,7 @@ MOM_COLS = [
     "Score", "Ticker", "Company", "Price", "% Above 20Q SMA",
     "20Q SMA", "30Q SMA", "50Q SMA",
     "P/B Ratio", "Div Yield", "ROE",
+    "EPS Beats (4Q)", "Analyst (90d)",
     "Short % Float", "Short Ratio (Days)",
     "Insider Signal", "Insider Net Value (6mo)", "Insider Buys", "Insider Sells",
     "Market Cap", "Sector", "Exchange",
