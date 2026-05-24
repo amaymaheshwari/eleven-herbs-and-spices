@@ -643,8 +643,17 @@ with tab4:
 @st.cache_data(ttl=3600, show_spinner=False)
 def _fetch_financials(ticker: str) -> dict:
     import yfinance as yf
-    t   = yf.Ticker(ticker)
-    return {"income": t.income_stmt, "info": t.info}
+    t = yf.Ticker(ticker)
+    try:
+        eh = t.earnings_history
+    except Exception:
+        eh = None
+    try:
+        ud = t.upgrades_downgrades
+    except Exception:
+        ud = None
+    return {"income": t.income_stmt, "info": t.info,
+            "earnings_history": eh, "upgrades_downgrades": ud}
 
 
 def _run_diagnostic(ticker: str) -> None:
@@ -662,7 +671,7 @@ def _run_diagnostic(ticker: str) -> None:
         st.error(f"No financial data found for {ticker}.")
         return
 
-    # ── Extract series ─────────────────────────────────────────────────────────
+    # ── Extract financial series ───────────────────────────────────────────────
     def _row(label):
         for l in [label, label.replace(" ", ""), label.lower()]:
             if l in income.index:
@@ -674,16 +683,76 @@ def _run_diagnostic(ticker: str) -> None:
         st.error(f"No revenue data for {ticker}.")
         return
 
-    rev_b   = rev / 1e9
-    years   = [str(d.year) for d in rev_b.index]
-    gp      = _row("Gross Profit")
-    op      = _row("Operating Income")
+    rev_b    = rev / 1e9
+    years    = [str(d.year) for d in rev_b.index]
+    gp       = _row("Gross Profit")
+    op       = _row("Operating Income")
     g_margin = (gp / rev * 100).clip(-100, 100) if gp is not None else None
     o_margin = (op / rev * 100).clip(-100, 100) if op is not None else None
 
-    # ── Signals ────────────────────────────────────────────────────────────────
-    signals    = []
-    red_flags  = 0
+    # ── Pre-process earnings history ──────────────────────────────────────────
+    eh_raw = data.get("earnings_history")
+    eh_df  = None   # display DataFrame, built below
+    try:
+        if eh_raw is not None and not eh_raw.empty:
+            eh = eh_raw.sort_index(ascending=False).head(4).copy()
+            col_map = {}
+            for c in eh.columns:
+                cl = c.lower().replace(" ", "")
+                if "epsestimate" in cl or ("estimate" in cl and "eps" in cl):
+                    col_map[c] = "EPS Est"
+                elif "epsactual" in cl or ("actual" in cl and "eps" in cl):
+                    col_map[c] = "EPS Actual"
+                elif "epsdifference" in cl or "difference" in cl or "surprisepct" in cl:
+                    col_map[c] = "Surprise"
+            eh = eh.rename(columns=col_map)
+            if "EPS Est" in eh.columns and "EPS Actual" in eh.columns:
+                def _beat_label(row):
+                    try:
+                        diff = float(row["EPS Actual"]) - float(row["EPS Est"])
+                        if diff > 0.01:  return "✅ Beat"
+                        if diff < -0.01: return "🔴 Miss"
+                        return "🟡 In-line"
+                    except Exception:
+                        return "—"
+                eh["Result"] = eh.apply(_beat_label, axis=1)
+                eh.index = [str(i.date()) if hasattr(i, "date") else str(i) for i in eh.index]
+                eh_df = eh
+    except Exception:
+        pass
+
+    # ── Pre-process analyst upgrades / downgrades ─────────────────────────────
+    ud_raw  = data.get("upgrades_downgrades")
+    ud_df   = None   # display DataFrame, built below
+    upgrades = downgrades = 0
+    try:
+        if ud_raw is not None and not ud_raw.empty:
+            ud = ud_raw.copy()
+            ud.index = pd.to_datetime(ud.index, utc=True)
+            cutoff = pd.Timestamp.now(tz="UTC") - pd.Timedelta(days=90)
+            recent = ud[ud.index >= cutoff].sort_index(ascending=False)
+            if not recent.empty:
+                col_map2 = {}
+                for c in recent.columns:
+                    cl = c.lower().replace(" ", "")
+                    if cl == "firm":              col_map2[c] = "Firm"
+                    elif "tograde" in cl:         col_map2[c] = "To"
+                    elif "fromgrade" in cl:       col_map2[c] = "From"
+                    elif "action" in cl:          col_map2[c] = "Action"
+                recent = recent.rename(columns=col_map2)
+                recent.index = [str(i.date()) for i in recent.index]
+                upgrades   = sum(str(a).lower() in ("upgrade", "upgraded", "init", "initiated")
+                                 for a in recent.get("Action", []))
+                downgrades = sum(str(a).lower() in ("downgrade", "downgraded")
+                                 for a in recent.get("Action", []))
+                show_cols = [c for c in ["Firm", "From", "To", "Action"] if c in recent.columns]
+                ud_df = recent[show_cols].head(10)
+    except Exception:
+        pass
+
+    # ── Build ALL signals (feeds verdict) ─────────────────────────────────────
+    signals     = []
+    red_flags   = 0
     green_flags = 0
 
     def sig(icon, label, detail):
@@ -692,6 +761,7 @@ def _run_diagnostic(ticker: str) -> None:
         if icon == "🔴": red_flags  += 1
         if icon == "✅": green_flags += 1
 
+    # Revenue trend
     if len(rev_b) >= 3:
         delta = float(rev_b.iloc[-1] - rev_b.iloc[-3])
         pct   = delta / abs(float(rev_b.iloc[-3])) * 100 if rev_b.iloc[-3] != 0 else 0
@@ -702,6 +772,7 @@ def _run_diagnostic(ticker: str) -> None:
         else:
             sig("🟡", "Revenue trend", f"Roughly flat ({pct:+.0f}%) — watch for inflection")
 
+    # Gross margin
     if g_margin is not None and len(g_margin) >= 3:
         chg = float(g_margin.iloc[-1] - g_margin.iloc[-3])
         if chg > 1:
@@ -711,6 +782,7 @@ def _run_diagnostic(ticker: str) -> None:
         else:
             sig("🟡", "Gross margin", f"Stable ({chg:+.1f}pp)")
 
+    # Op margin
     if o_margin is not None and len(o_margin) >= 3:
         chg = float(o_margin.iloc[-1] - o_margin.iloc[-3])
         if chg > 1:
@@ -720,6 +792,7 @@ def _run_diagnostic(ticker: str) -> None:
         else:
             sig("🟡", "Op. margin", f"Stable ({chg:+.1f}pp)")
 
+    # Short interest
     short_pct = info.get("shortPercentOfFloat")
     if short_pct is not None:
         sp = short_pct * 100
@@ -730,6 +803,27 @@ def _run_diagnostic(ticker: str) -> None:
         else:
             sig("🟡", "Short interest", f"{sp:.1f}% of float — moderate")
 
+    # Earnings beats
+    if eh_df is not None:
+        beats  = sum("Beat" in str(r) for r in eh_df["Result"])
+        misses = sum("Miss" in str(r) for r in eh_df["Result"])
+        n = len(eh_df)
+        if beats >= 3:
+            sig("✅", "Earnings beat streak", f"Beat estimates in {beats} of last {n} quarters")
+        elif misses >= 2:
+            sig("🔴", "Earnings misses", f"Missed estimates in {misses} of last {n} quarters")
+        else:
+            sig("🟡", "Earnings", f"{beats} beat(s), {misses} miss(es) in last {n} quarters")
+
+    # Analyst sentiment
+    if ud_df is not None:
+        if upgrades > downgrades:
+            sig("✅", "Analyst sentiment", f"{upgrades} upgrade(s) vs {downgrades} downgrade(s) in 90 days")
+        elif downgrades > upgrades:
+            sig("🔴", "Analyst sentiment", f"{downgrades} downgrade(s) vs {upgrades} upgrade(s) in 90 days")
+        else:
+            sig("🟡", "Analyst sentiment", f"{upgrades} upgrade(s), {downgrades} downgrade(s) in 90 days")
+
     # In today's screen?
     if not combined.empty and ticker in combined["Ticker"].values:
         row    = combined[combined["Ticker"] == ticker].iloc[0]
@@ -737,7 +831,7 @@ def _run_diagnostic(ticker: str) -> None:
         score  = row.get("Score", "—")
         signals.append(("📊", "In today's screen", f"{screen} · conviction score {score}/10"))
 
-    # ── Verdict ────────────────────────────────────────────────────────────────
+    # ── Verdict (uses ALL signals) ─────────────────────────────────────────────
     if red_flags >= 2:
         verdict, vc = "🔴  Structural Risk", "#e05c6a"
         vdesc = "Multiple red flags. Investigate market-share trends and whether revenue peaks are getting lower before sizing."
@@ -760,7 +854,7 @@ def _run_diagnostic(ticker: str) -> None:
   <div style="font-size:0.87rem;opacity:0.85">{vdesc}</div>
 </div>""", unsafe_allow_html=True)
 
-    # Charts
+    # Revenue + margin charts
     cc1, cc2 = st.columns(2)
     with cc1:
         fig = px.bar(x=years, y=rev_b.values, title="Annual Revenue ($B)",
@@ -784,10 +878,26 @@ def _run_diagnostic(ticker: str) -> None:
                               paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
             st.plotly_chart(fig, use_container_width=True)
 
-    # Signals
+    # All signals
     st.markdown("**Signals**")
     for icon, label, detail in signals:
         st.markdown(f"{icon} &nbsp; **{label}** — {detail}", unsafe_allow_html=True)
+
+    st.markdown("")
+
+    # Earnings history table
+    if eh_df is not None:
+        st.markdown("**Earnings History (last 4 quarters)**")
+        disp_cols = [c for c in ["EPS Est", "EPS Actual", "Surprise", "Result"] if c in eh_df.columns]
+        st.dataframe(eh_df[disp_cols], use_container_width=True)
+
+    # Analyst actions table
+    if ud_df is not None:
+        st.markdown("**Recent Analyst Actions (last 90 days)**")
+        if ud_df.empty:
+            st.caption("No analyst actions in the last 90 days.")
+        else:
+            st.dataframe(ud_df, use_container_width=True)
 
     st.divider()
     with st.expander("Diagnostic framework reference"):
