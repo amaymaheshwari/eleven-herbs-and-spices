@@ -644,26 +644,41 @@ with tab4:
 
 @st.cache_data(ttl=3600, show_spinner=False)
 def _fetch_financials(ticker: str) -> dict:
+    """Fetch yfinance data with retry/backoff — Yahoo Finance rate-limits cloud IPs."""
+    import time
     import yfinance as yf
-    t = yf.Ticker(ticker)
-    try:
-        eh = t.earnings_history
-    except Exception:
-        eh = None
-    try:
-        ud = t.upgrades_downgrades
-    except Exception:
-        ud = None
-    return {"income": t.income_stmt, "info": t.info,
+
+    def _try(fn, retries=3, delay=4):
+        for attempt in range(retries):
+            try:
+                result = fn()
+                if result is not None:
+                    return result
+            except Exception:
+                pass
+            if attempt < retries - 1:
+                time.sleep(delay * (attempt + 1))   # 4s, 8s
+        return None
+
+    t      = yf.Ticker(ticker)
+    income = _try(lambda: t.income_stmt)
+    info   = _try(lambda: t.info) or {}
+    eh     = _try(lambda: t.earnings_history)
+    ud     = _try(lambda: t.upgrades_downgrades)
+    return {"income": income, "info": info,
             "earnings_history": eh, "upgrades_downgrades": ud}
 
 
 def _run_diagnostic(ticker: str) -> None:
-    with st.spinner(f"Loading {ticker} financials…"):
+    with st.spinner(f"Loading {ticker} financials… (may take a few seconds on first lookup)"):
         try:
             data = _fetch_financials(ticker)
         except Exception as exc:
-            st.error(f"Could not load data for {ticker}: {exc}")
+            st.error(
+                f"Could not load data for **{ticker}**. "
+                "Yahoo Finance rate-limits requests from cloud IPs — wait 10–15 seconds and try again. "
+                f"({exc})"
+            )
             return
 
     income = data["income"]
