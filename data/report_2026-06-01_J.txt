@@ -1,0 +1,963 @@
+Jacobs Solutions Inc. (J US EQUITY) — Investment Memo
+Generated 2026-06-01 16:55
+================================================================================
+
+# JACOBS SOLUTIONS INC. (J US EQUITY)
+## INVESTMENT MEMORANDUM — BUY-SIDE EQUITY RESEARCH
+### Prepared: June 2025 | Analyst: Senior Buy-Side Equity
+
+---
+
+> **PARAGRAPH TAGGING KEY:** [F] = Fact | [A] = Analysis | [I] = Inference
+> All dollar figures in USD unless stated. Fiscal year = October year-end (e.g., FY2024 = Oct 2023–Sep 2024).
+
+---
+
+# ═══════════════════════════════════════════════════════════
+# EXECUTIVE SUMMARY
+# ═══════════════════════════════════════════════════════════
+
+## RATING: HOLD / WATCH-FOR-ENTRY
+
+**Quality Score: 72/100 | Entry Posture: WATCH — Price Not Yet at Margin-of-Safety Gate**
+
+---
+
+### Rating, Fair-Value Band & Expected Total Return
+
+| Item | Value |
+|---|---|
+| **Rating** | **HOLD / Watch-for-Entry** |
+| **Current Price (approx. June 2025)** | ~$120–125 |
+| **Fair-Value Band (Low / Mid / High)** | **$118 / $148 / $178** |
+| **Buy Band (≥25% discount to mid FV)** | **≤ $111** |
+| **Trim Band (premium to high FV)** | **≥ $178** |
+| **Probability-Weighted E[TR] at current price** | **~18–22% over 24 months** |
+| **Bear-Case Drawdown** | **–22% to –28%** |
+| **Return ÷ Bear Drawdown Skew** | **~0.75–0.85×** |
+| **Dividend Yield (forward)** | **~1.0%** |
+| **Hurdle (30% / 24 months)** | ❌ Not met at current price |
+| **Margin-of-Safety Gate** | ❌ Not met at current price (~16–19% discount to mid) |
+| **Skew Gate (≥1.7×)** | ❌ Not met at current price |
+
+> **Decision:** Three of five hard gates FAIL at the current price of ~$120–125. The business quality score (72/100) clears the 70-point floor, and the investment thesis is intact, but **entry discipline requires waiting for the buy band of ≤$111** (approximately 25% below mid fair value of $148). Rating is formally **HOLD / Watch-for-Entry**.
+
+---
+
+### Investment Thesis in One Paragraph
+
+[A] Jacobs Solutions is executing a multi-year strategic transformation from a diversified engineering-and-construction (E&C) conglomerate into a pure-play, technology-enabled professional-services and critical-infrastructure advisory firm. The September 2023 sale of its Critical Mission Solutions (CMS) / Cyber & Intelligence government services segment to Amentum, combined with the spin-merge of its construction-heavy Divergent Solutions unit, has concentrated the remaining portfolio into two high-quality, capital-light segments: **Infrastructure & Advanced Facilities (I&AF)** and **People & Places Solutions (PPS)** — the latter now rebranded and folded into the **Jacobs Connect platform**. The variant perception is that consensus still applies an E&C multiple (~8–10× EV/EBITDA) to what is increasingly a consulting/advisory business deserving a 12–14× multiple. The re-rating, combined with secular tailwinds from U.S. infrastructure spending (Infrastructure Investment and Jobs Act (IIJA)), global water and environmental investment, semiconductor fab construction advisory, and data-center-linked critical infrastructure, provides a credible path to 30%+ total return — but only from a meaningfully lower entry point.
+
+---
+
+### Dated Catalysts (24-Month Window)
+
+| Date | Catalyst | Estimated Impact |
+|---|---|---|
+| **Q3 FY2025 earnings (July 2025)** | Backlog growth + margin confirmation post-Amentum deal | +5–8% upside if backlog >$15.5B |
+| **FY2025 Annual Report (Nov 2025)** | FCF conversion >80% confirmation; net leverage target achievement | Re-rating trigger |
+| **IIJA disbursement acceleration (2025–2026)** | DOT/EPA/water spending ramp drives I&AF revenue | +$400–600M revenue over 2 years |
+| **Semiconductor/data-center capex cycle (2025–2027)** | TSMC, Intel, Samsung fab advisory + critical facilities work | +$200–400M incremental revenue |
+| **Potential further portfolio simplification (2025–2026)** | Remaining non-core asset divestitures | Multiple expansion 0.5–1.5× EV/EBITDA |
+| **Capital return acceleration (H2 FY2025–FY2026)** | Buyback authorization usage; dividend increase | 2–3% per annum EPS accretion |
+
+---
+
+### What Would Change the Call
+
+**Upgrade to BUY:**
+1. Stock price falls to ≤$111 with thesis intact (all three gates pass)
+2. Backlog accelerates above $16B with book-to-bill consistently >1.1× for two consecutive quarters
+3. Operating margin in I&AF/PPS expands above 14% EBIT margin on a sustained basis, confirming consulting re-rate story
+
+**Downgrade to SELL:**
+1. Amentum transaction integration reveals material contingent liabilities or working-capital shortfalls exceeding $300M
+2. IIJA spending is rescinded, delayed, or redirected — reducing addressable revenue by >15%
+3. Net debt/EBITDA rises above 3.0× without a credible deleveraging plan within 12 months
+4. Quality score falls below 60 due to execution miss on two consecutive margin guidance ranges
+
+---
+
+---
+
+# ═══════════════════════════════════════════════════════════
+# FULL MEMORANDUM — SECTIONS 1–21
+# ═══════════════════════════════════════════════════════════
+
+---
+
+## SECTION 1 — THESIS FRAMING
+
+### Value-Creation Hurdle
+
+[A] Jacobs must compound intrinsic value at ≥12–14% annually over the next three to five years to justify current multiples and deliver the required 30% total return over 24 months from a buy-band entry of ≤$111. This requires: (1) margin expansion of ~100–150 basis points (bps) per year in the remaining segments; (2) backlog-to-revenue conversion ratio >0.95×; and (3) capital-allocation discipline (Free Cash Flow (FCF) conversion ≥80%, buybacks at prices ≤$140, dividends growing ≥5% annually).
+
+---
+
+### Thesis Pillars (Concrete If-Then Conditions)
+
+| # | Pillar | If-Then Condition |
+|---|---|---|
+| 1 | **Portfolio transformation to consulting/advisory** | IF the remaining I&AF and PPS segments generate blended EBIT margin ≥13% by FY2026, THEN the stock warrants ≥12× EV/EBITDA vs. current ~10×, implying ≥20% upside from mid-fair value |
+| 2 | **IIJA + infrastructure mega-cycle** | IF cumulative IIJA disbursements reach $400B+ by end of 2026 (on track per Congressional Budget Office (CBO) estimates), THEN Jacobs captures an incremental $300–500M in annual revenue in water/transportation/environmental advisory |
+| 3 | **Semiconductor & data-center capex supercycle** | IF U.S. semiconductor fab announcements (CHIPS Act) convert to engineering awards at ≥40% Jacobs capture rate on competed work, THEN I&AF revenue grows ≥8% annually through FY2027 |
+| 4 | **FCF inflection and capital return** | IF FCF conversion (FCF/EBITDA) reaches ≥80% by FY2026 vs. ~65–70% in FY2024, THEN management can return $1.5–2.0B to shareholders over 24 months, providing ~10–12% buyback-driven EPS accretion |
+| 5 | **Re-rating from E&C to consulting multiple** | IF the market assigns 12–13× EV/EBITDA (consensus professional-services median) vs. current ~10×, THEN fair value rises to $148–$168 mid-range |
+
+---
+
+### Falsification Facts (Conditions That Invalidate the Thesis)
+
+[F/A] The following facts, if observed, would falsify one or more pillars:
+
+1. Book-to-bill ratio falls below 1.0× for three consecutive quarters → pipeline is not replenishing
+2. EBIT margin in I&AF/PPS declines or stagnates below 11% → transformation thesis fails
+3. Net leverage rises above 2.5× EBITDA and management does not present credible deleveraging path → capital structure risk rises
+4. IIJA spending faces legislative clawback >20% of authorized amounts (scenario under current political debate)
+5. Key client concentration: if the top three government clients (DoD-adjacent, EPA, DOT) account for >35% of backlog and one undergoes agency reorganization, revenue risk is material
+
+---
+
+### Variant Perception vs. Consensus
+
+[A] **Consensus view:** Jacobs is an E&C company trading at a fair 9–11× EV/EBITDA with modest organic growth (3–5% revenue CAGR) and limited margin expansion potential, constrained by fixed-price contract risk and government spending uncertainty.
+
+**Variant perception:** The post-Amentum deal Jacobs is structurally different — a capital-light, recurring-revenue advisory/consulting firm with secular tailwinds from the largest U.S. infrastructure spending program since the Interstate Highway System. The market is applying stale-category multiples. As FCF visibility improves and EBIT margins demonstrate a consulting-like profile, the multiple should re-rate 20–30% higher. This is not yet reflected in sell-side price targets (median ~$130–140 as of mid-2025).
+
+---
+
+### Leading Metric and Breakpoint Threshold
+
+**Leading metric:** Trailing 12-month (TTM) book-to-bill ratio across I&AF and PPS segments combined.
+**Breakpoint threshold:** ≥1.10× for two consecutive quarters signals accelerating pipeline and validates the infrastructure-cycle thesis. A reading below 0.95× for two consecutive quarters would be the single most important negative signal.
+
+---
+
+## SECTION 2 — MARKET STRUCTURE AND SIZE
+
+### Total Addressable Market (TAM) by Segment
+
+[F] Jacobs operates primarily in professional services for critical infrastructure, environmental services, water, transportation, advanced facilities (semiconductor fabs, data centers, life sciences), and government/defense advisory.
+
+| Segment | Global TAM Estimate | Jacobs Serviceable Addressable Market (SAM) | Current Revenue Share | Key Growth Driver |
+|---|---|---|---|---|
+| **Infrastructure & Advanced Facilities (I&AF) — Transportation/Water/Environment** | ~$400–500B globally | ~$80–100B (U.S./UK/AUS/MENA) | ~3–4% | IIJA ($1.2T), U.K. National Infrastructure Strategy, Australian infrastructure pipeline |
+| **I&AF — Advanced Facilities (Semicon/Data Center/Life Sciences)** | ~$120–150B globally | ~$30–40B | ~2–3% | CHIPS Act ($52.7B), AI data center buildout, pharmaceutical GMP investment |
+| **People & Places Solutions (PPS) / Consulting** | ~$200–250B globally | ~$40–60B | ~3–5% | Smart city, climate adaptation, digital twin advisory |
+| **PA Consulting (49% stake)** | ~$50–80B (management consulting for government) | ~$15–20B | ~8–12% | U.K. public-sector digital transformation |
+
+[A] Total SAM across all segments: approximately $165–220B. Jacobs' FY2024 revenue of ~$11–12B implies a blended SAM penetration of approximately 5–7%. [I] Given the highly fragmented nature of infrastructure advisory, there is no structural ceiling preventing Jacobs from doubling SAM penetration over 10 years — but this requires consistent win rates and a differentiated technical offering.
+
+---
+
+### Demand vs. Supply as Binding Constraint
+
+[A] **Demand is NOT the binding constraint** — the pipeline of IIJA-funded projects, semiconductor fab construction, and water infrastructure modernization is large and well-documented. **Supply of qualified engineering labor and project-management bandwidth is the binding constraint.** Jacobs' ability to scale headcount, retain senior project leads, and deploy digital tools to improve per-employee revenue is the critical execution variable.
+
+---
+
+### TAM Shrinkage Scenarios
+
+[I] Key TAM shrinkage risks:
+1. **IIJA rescission/delay:** A Congressional rescission of 20% of IIJA discretionary appropriations would reduce the near-term SAM by ~$10–15B in committed project value, or approximately $500–800M in Jacobs' revenue pipeline over five years
+2. **Semiconductor capex cycle reversal:** If TSMC/Intel/Samsung pause U.S. fab construction (demand shortfall, technology risk), Jacobs loses ~$1–2B of potential advanced-facilities backlog
+3. **U.K. fiscal austerity:** PA Consulting and Jacobs' U.K. transport business are exposed to U.K. government spending cycles; a sustained austerity program reduces SAM by ~$5–8B
+
+---
+
+## SECTION 3 — CUSTOMER SEGMENTS AND JOBS
+
+### Customer Mix by Size/Industry
+
+[F] Based on FY2024 disclosures and segment reporting:
+
+| Customer Segment | Approx. % Revenue | Key Clients (Named) | Mission Criticality |
+|---|---|---|---|
+| **U.S. Federal Government** | ~25–30% | DoD, EPA, Army Corps of Engineers, DOT, NASA | Very High |
+| **U.S. State/Local Government** | ~20–25% | NYCDEP, LADWP, TxDOT, various water utilities | High |
+| **International Government (UK/AUS/MENA)** | ~20–25% | Network Rail, Transport for NSW, Saudi Aramco-adjacent | High |
+| **Private Sector (Advanced Facilities/Semicon)** | ~15–20% | Intel, Samsung, TSMC (indirectly via CHIPS programs) | High |
+| **Private Sector (Commercial/Industrial)** | ~5–10% | Life sciences, pharma, data centers | Medium-High |
+
+---
+
+### Workflow, Pain Points, and Mission-Criticality
+
+[F/A] Jacobs' customers face:
+1. **Aging infrastructure replacement** — U.S. water infrastructure median age >45 years; EPA estimates $744B needed over 20 years for water/wastewater (EPA, 2023 Drinking Water Infrastructure Needs Survey)
+2. **Regulatory complexity** — NEPA permitting, environmental impact assessments, and PFAS remediation require specialized advisory that cannot easily be in-sourced
+3. **Technology integration** — Digital twin deployment, Building Information Modeling (BIM), and cybersecurity for Operational Technology (OT) environments are increasingly required by federal contracting agencies
+
+---
+
+### Switching Costs
+
+[A] Switching costs are high for long-tenured advisory relationships because:
+- Multi-year project continuity: an average major infrastructure project runs 3–10 years; mid-project firm substitution is extremely costly (mobilization, knowledge transfer, permitting restarts)
+- Proprietary data: Jacobs retains institutional knowledge of site conditions, regulatory history, and agency preferences
+- Cleared personnel: Government security-clearance holders cannot be substituted without 6–18 month re-clearance timelines
+- PA Consulting's embedded advisory relationships in Whitehall/UK public sector are particularly sticky
+
+[I] Estimated switching cost equivalent: 8–15% of total project cost, implying a structurally high renewal rate of >85% on active projects.
+
+---
+
+### Do-Nothing Prevalence and Procurement Blockers
+
+[A] Do-nothing is relatively rare in Jacobs' core markets because:
+- Regulatory mandates (EPA consent decrees, FHWA requirements) force agency action
+- IIJA and CHIPS Act create use-it-or-lose-it funding windows
+
+**Key procurement blocker:** Federal and state procurement cycles average 12–24 months from Request for Proposal (RFP) to Notice to Proceed (NTP). Budget appropriation delays (Continuing Resolutions (CRs)) create lumpiness. The single most common unlock is a signed appropriations bill or agency task order issuance.
+
+---
+
+## SECTION 4 — PRODUCT AND ROADMAP
+
+### Core Modules and Adjacencies
+
+[F] Jacobs' service portfolio post-transformation:
+
+| Service Line | Description | Measurable Outcome | Revenue ~% |
+|---|---|---|---|
+| **Program Management / PMC** | Owner's representative, project controls, schedule/cost management | On-time/on-budget delivery; EBIT margin 12–15% | ~30% |
+| **Engineering & Design** | Front-end engineering design (FEED), detailed design, BIM | Design accuracy, rework reduction | ~25% |
+| **Environmental & Water** | PFAS remediation, watershed management, water treatment design | Regulatory compliance, permit success rate | ~20% |
+| **Technology & Digital (Jacobs Connect)** | Digital twin, data analytics, asset management software | Asset uptime, O&M cost reduction | ~10% |
+| **PA Consulting (49% stake)** | Management consulting, innovation advisory | Policy outcomes, technology adoption | ~15% |
+
+---
+
+### Depth vs. Breadth vs. Best-of-Breed
+
+[A] Jacobs occupies the "integrated advisory" tier — it offers breadth across the infrastructure lifecycle (planning → design → delivery → O&M advisory) but is not the deepest specialist in any single sub-discipline. Against pure-play competitors:
+- **Depth:** AECOM is comparably broad; WSP/Stantec are deeper in environmental/sustainability niche
+- **Breadth:** Jacobs matches or exceeds AECOM in life-sciences and advanced-facilities coverage
+- **Best-of-breed digital:** Arcadis/AECOM have made larger organic/inorganic digital investments; Jacobs' "Jacobs Connect" platform is credible but not yet industry-leading
+
+---
+
+### Implementation Time and Time-to-Value
+
+[F] Typical engagement timeline:
+- **FEED/Study phase:** 3–9 months; revenue recognition on percentage-of-completion
+- **Full design:** 12–36 months
+- **Program management:** 3–10 years for major infrastructure programs
+- **Consulting/advisory (PA):** 3–18 months per engagement
+
+[A] The long project durations create revenue visibility (backlog converts at 30–40% annually) but also limit revenue flexibility. Time-to-value for clients is measured in years, not months, which is a characteristic of the industry rather than a Jacobs-specific weakness.
+
+---
+
+### Hardest-to-Copy Capability
+
+[I] Jacobs' hardest-to-copy capability is the combination of:
+1. Security-cleared workforce for sensitive federal/defense-adjacent work
+2. PA Consulting's embedded UK public-sector relationships (built over 60+ years)
+3. Integrated data from decades of water/environmental project execution (proprietary site condition databases)
+
+---
+
+### Technical Debt / Scale Limiting Risks (24 Months)
+
+[A] Key technical/operational risks:
+- Legacy Enterprise Resource Planning (ERP) systems across acquired entities not yet fully integrated; creates revenue-recognition complexity on multi-entity projects
+- "Jacobs Connect" digital platform is early-stage; monetization is unclear; risk of competing with clients' own digital initiatives
+
+---
+
+## SECTION 5 — COMPETITIVE LANDSCAPE
+
+### Direct Competitors by Segment
+
+| Competitor | Primary Segment Overlap | Scale (Revenue) | Key Differentiator vs. Jacobs | Threat Level |
+|---|---|---|---|---|
+| **AECOM** | Transportation, water, environment, federal | ~$16B | Larger federal footprint; stronger construction-management legacy | High |
+| **WSP Global** | Environment, sustainability, transit | ~$14B | Superior ESG/sustainability positioning; strong European/Australian presence | Medium-High |
+| **Stantec** | Water, environmental, community infrastructure | ~$5B | Deeper community/municipal relationships; strong Canada + U.S. | Medium |
+| **Arcadis** | Water, environmental, digital | ~$4B | Best-in-class water digital; stronger Netherlands/European base | Medium |
+| **Tetra Tech** | Water, environment, federal | ~$4B | Specialized environmental/water; strong EPA relationships | Medium |
+| **Parsons Corporation** | Federal, defense-adjacent, digital | ~$6B | Stronger classified/cyber after Amentum; defense-digital | Medium-High |
+| **ICF International** | Consulting, federal advisory | ~$2B | Niche federal consulting; limited infrastructure scale | Low |
+
+[A] Post-Amentum spin, Jacobs' primary competitive battleground is the intersection of infrastructure engineering and technology-enabled advisory — where AECOM and WSP are the clearest threats. Parsons is a growing threat in the federal/digital space that Jacobs deliberately exited.
+
+---
+
+### Win/Loss Dynamics
+
+[I] Based on public contract award announcements and industry trade sources (ENR Top 500, 2024):
+- Jacobs wins on: (1) integrated team capability across design + program management; (2) PA Consulting's ability to add strategic advisory layer; (3) incumbent advantage on recompetes
+- Jacobs loses on: (1) price in purely commoditized design tasks; (2) pure environmental specialist work where Tetra Tech/Arcadis have deeper credentials; (3) size of classified work pool (post-Amentum)
+
+---
+
+### Anticipated Competitor Responses
+
+[I] AECOM is investing heavily in its "AECOM Venture" digital unit and could attempt to replicate a consulting-overlay model. WSP's acquisition of WOOD Group's environmental division (2023) deepens its environmental capabilities directly competitive with Jacobs' PPS segment.
+
+---
+
+## SECTION 6 — ECOSYSTEM AND PLATFORM HEALTH
+
+### Jacobs Connect Platform
+
+[F/A] Jacobs launched "Jacobs Connect" as its digital platform/ecosystem in FY2022–2023, integrating digital twin, asset management, and project-controls software. As of FY2024:
+- No disclosed API volume or active-developer metrics (unlike SaaS platforms)
+- Platform is primarily internal (used to differentiate project delivery) rather than an externally monetized marketplace
+- PA Consulting contributes technology advisory and digital-government capabilities
+
+[A] The "platform" narrative is more marketing than a defensible network-effect business. There is no disclosed third-party developer ecosystem, marketplace economics, or platform-mediated revenue share. This is a service-delivery digitization story, not a software platform story.
+
+**Minimum viable ecosystem health metric:** Percentage of projects using Jacobs Connect digital tools (target: >50% of active projects by FY2026 per management guidance). Currently estimated at 20–30% based on management commentary.
+
+---
+
+### Partner Quality
+
+[A] Jacobs maintains joint-venture (JV) and teaming arrangements with major construction firms (e.g., Fluor, Turner, Skanska) for delivery-heavy projects. These relationships are project-specific rather than platform-based and do not generate recurring ecosystem economics.
+
+---
+
+## SECTION 7 — GO-TO-MARKET AND DISTRIBUTION
+
+### Demand Sources and Mix
+
+[F] Jacobs' revenue is sourced through:
+1. **Direct pursuit:** Large program management and design contracts pursued directly with government agencies (~60–65% of revenue)
+2. **Recompetes/incumbent work:** ~40–50% of backlog is recompete work — highly sticky, lower cost-of-sales
+3. **Joint ventures/teaming:** ~15–20% of revenue through JV structures (lower margin, risk-sharing)
+4. **PA Consulting referrals:** Cross-selling into UK/European government clients (~5–8% of new work)
+
+---
+
+### Sales Productivity
+
+[A] Professional services sales productivity is best measured by:
+- **Win rate on major bids:** Industry average ~25–35% on competitive bids; Jacobs estimated at 30–40% based on backlog-to-bid ratio analysis
+- **Book-to-bill:** FY2024 TTM ~1.0–1.05× across combined segments (in-line, not accelerating)
+- **Revenue per employee:** ~$85,000–$95,000 per employee (FY2024 estimate; ~55,000 employees post-Amentum deal close)
+
+[I] Revenue-per-employee is lower than AECOM (~$100K) and meaningfully lower than WSP (~$120K), suggesting either a less-efficient mix or more hands-on execution work vs. pure advisory. Closing this gap to $100K+ would generate ~$400–500M in implied revenue uplift at constant headcount.
+
+---
+
+### Single Biggest Funnel Bottleneck
+
+[A] **Procurement cycle length.** The average time from RFP issuance to contract award for U.S. federal/state infrastructure work is 12–24 months. This means pipeline investments made today may not convert to revenue until FY2026–2027. The bottleneck is not internal — it is the government procurement bureaucracy.
+
+---
+
+## SECTION 8 — RETENTION AND EXPANSION
+
+### Gross and Net Dollar Retention
+
+[F/A] Jacobs does not formally disclose Net Revenue Retention (NRR) or Gross Revenue Retention (GRR) in SaaS terms. Using backlog analysis as a proxy:
+- **Estimated GRR (project continuation rate):** ~85–90% annually on active multi-year programs
+- **Estimated NRR (expansion including new task orders):** ~95–105% on incumbent program accounts
+- **Logo churn:** Low (<5% of active client relationships per year); primary churn driver is project completion (natural termination, not dissatisfaction)
+
+---
+
+### Expansion Vectors
+
+| Vector | Revenue Impact (Estimated) | Timeline |
+|---|---|---|
+| New task orders on existing IDIQ contracts | High ($200–400M/year incremental) | Near-term (6–18 months) |
+| Cross-sell PA Consulting advisory into infrastructure clients | Medium ($50–150M/year) | Medium-term (12–36 months) |
+| Digital/Connect upsell to existing project clients | Low–Medium ($30–80M/year) | Medium-term (18–36 months) |
+| Geographic expansion (MENA, Asia-Pacific water) | Medium ($100–200M/year over 3–5 years) | Long-term |
+
+---
+
+### Contract Length and Renewal Mechanics
+
+[F] Indefinite Delivery/Indefinite Quantity (IDIQ) contracts (dominant vehicle for U.S. federal work): 5–10 year ordering periods with annual task order renewals. Single-award IDIQs provide highest revenue visibility; multi-award IDIQs require competitive task-order proposals. Jacobs holds significant IDIQ capacity with DoD, EPA, and DOT agencies.
+
+---
+
+### Leading Churn Indicator (60–90 Days Ahead)
+
+[A] **Leading churn indicator:** Decline in task-order issuance volume under existing IDIQs, which typically precedes a 60–90 day revenue shortfall. This is proxied by Jacobs' "remaining performance obligations" (RPO) and backlog burn rate disclosed quarterly.
+
+---
+
+## SECTION 9 — MONETIZATION MODEL AND REVENUE QUALITY
+
+### Revenue Architecture
+
+[F] FY2024 estimated revenue breakdown (~$11.5–12.0B total, post-Amentum, pro-forma):
+
+| Revenue Type | % of Revenue | Gross Margin | Notes |
+|---|---|---|---|
+| **Cost-plus/Time & Materials (T&M)** | ~55–60% | ~18–22% | Government advisory; highest visibility |
+| **Fixed-price/lump-sum (design, FEED)** | ~20–25% | ~10–15% | Execution risk; margin volatility |
+| **Reimbursable (PCM, program management)** | ~15–20% | ~15–20% | Recurring; low capital intensity |
+| **PA Consulting (consulting fees)** | ~10–12% | ~30–35% | Highest margin; management consulting |
+
+[A] The mix shift toward T&M and consulting (away from fixed-price construction management) is the single most important positive driver of blended margin expansion. Each 5% shift from fixed-price to T&M at these margin differentials improves blended gross margin by ~25–50 bps.
+
+---
+
+### Revenue Recognition, Seasonality, Backlog
+
+[F] Revenue is recognized on the percentage-of-completion method under ASC 606. Backlog (funded + unfunded) as of Q2 FY2025 (March 2025): approximately $15.0–15.5B (estimated; precise figure from most recent earnings). Backlog burn rate: ~30–35% per year, implying ~2.5–3 years of forward revenue coverage. Seasonal pattern: Q4 (July–September) typically strongest due to government fiscal year-end spending.
+
+---
+
+### Revenue Concentration
+
+[F/A] U.S. federal government revenues represent ~25–30% of total. No single client likely exceeds 10% of total revenue based on disclosed data. State/local and international diversification reduces concentration risk meaningfully vs. pure-play federal services firms.
+
+---
+
+## SECTION 10 — PRICING POWER AND ELASTICITY TESTING
+
+### Pricing Governance
+
+[F/A] Jacobs' pricing is primarily market-determined through competitive bid processes. However:
+- **T&M contracts:** Labor rates are typically escalated annually at CPI or negotiated rate increases of 2–4%; real pricing power exists here
+- **Fixed-price contracts:** Pricing set at bid; limited ability to pass through cost increases mid-project (creates margin risk during inflationary periods)
+- **PA Consulting:** Day-rates for senior consultants have increased ~5–8% annually in recent years (UK consulting market data)
+
+---
+
+### Elasticity Evidence
+
+[A] Price elasticity in infrastructure advisory is low (inelastic) because:
+1. Agency clients are budget-constrained but regulatory-compelled; they have limited ability to substitute Jacobs' services for internal capability
+2. Switching costs are high (see Section 3)
+3. Government procurement rules often mandate best-value (not lowest-cost) selection
+
+[I] Estimated price increase capacity without demand destruction: 3–5% annually in T&M/advisory lines; 0–2% in fixed-price competed work.
+
+---
+
+### ARPU Ceiling Before Churn Inflects
+
+[I] Not applicable in traditional sense. Proxy: contract ceiling utilization rate. If Jacobs' T&M contract billing rates approach the ceiling negotiated rate, further utilization is capped. In practice, under-utilized IDIQ ceilings represent upside, not a constraint.
+
+---
+
+## SECTION 11 — UNIT ECONOMICS AND EFFICIENCY
+
+### Relevant Unit Economics (Professional Services Framework)
+
+[F/A] Jacobs does not report Customer Acquisition Cost (CAC)/Lifetime Value (LTV) in SaaS format. Proxies:
+
+| Metric | Estimate | Notes |
+|---|---|---|
+| **Bid & Proposal (B&P) cost as % of revenue** | ~1.5–2.5% | Industry standard for E&C/advisory; ~$170–290M/year |
+| **Revenue per B&P dollar spent** | ~40–65× | Competitive win rate × contract value |
+| **Revenue per employee (FTE)** | ~$85–95K | ~55,000 employees; see Section 7 |
+| **EBIT per employee** | ~$10–12K | ~$600–700M EBIT / 55,000 FTE |
+| **Project gross margin range** | 10–35% | Wide range by contract type |
+| **Blended EBITDA margin** | ~11–13% | Post-transformation target ~13–15% |
+
+---
+
+### Structurally Unprofitable Cohorts
+
+[A] Fixed-price legacy contracts signed in 2021–2022 during peak input-cost inflation (labor, materials) are likely the lowest-margin cohort. As these roll off the backlog over FY2024–2026, blended margins should improve organically. Jacobs has been actively reducing its fixed-price exposure.
+
+---
+
+### Main Constraint Blocking 20–30% Payback Improvement
+
+[A] **The primary constraint is labor cost inflation outpacing billing rate increases on fixed-price contracts.** Resolution: (1) natural roll-off of low-margin legacy contracts; (2) increased T&M mix; (3) use of digital tools to reduce labor hours per project deliverable (Jacobs Connect).
+
+---
+
+## SECTION 12 — FINANCIAL PROFILE
+
+### Revenue Mix and Growth
+
+[F] FY2024 (Oct 2023 – Sep 2024) pro-forma for Amentum deal close (estimated based on segment disclosures and management guidance):
+
+| Segment | FY2024E Revenue | YoY Growth | EBIT Margin |
+|---|---|---|---|
+| **Infrastructure & Advanced Facilities (I&AF)** | ~$7.5–8.0B | +7–9% | ~11–13% |
+| **People & Places Solutions (PPS)** | ~$3.0–3.5B | +3–5% | ~9–11% |
+| **PA Consulting (49% equity income)** | ~$0.3B (equity pickup) | +5–8% | ~25–30% |
+| **Corporate / Eliminations** | (~$0.2B) | N/A | N/A |
+| **Total** | ~$10.6–11.3B | **+5–8%** | **~11–12%** |
+
+---
+
+### GAAP-to-Cash-Flow Bridge (FY2024E)
+
+[A] Estimated:
+
+```
+Revenue:                                ~$11.0B
+EBIT (reported):                        ~$0.65–0.75B    (~6.5% EBIT margin incl. amortization)
+Adjusted EBIT:                          ~$0.90–1.05B    (ex. transaction costs, amortization)
+Adjusted EBITDA:                        ~$1.15–1.30B    (~11–12% margin)
+D&A:                                    ~$0.25–0.30B
+Interest expense (net):                 ~$0.12–0.18B
+Cash taxes (effective ~22–25%):         ~$0.20–0.25B
+Working capital change:                 ~($0.05–0.15B)
+Capex (light: ~0.5–0.7% of revenue):   ~$0.06–0.08B
+Free Cash Flow (FCF):                   ~$0.55–0.75B    (~5–7% FCF margin)
+FCF/EBITDA conversion:                  ~50–60%
+```
+
+[A] FCF conversion of 50–60% is below the management's stated target of "≥80% over time." The gap is primarily driven by: (1) elevated transaction costs from the Amentum deal; (2) working capital build on large program ramp-ups; (3) cash taxes. As these normalize, FCF should converge toward management's target by FY2026.
+
+---
+
+### Stock-Based Compensation (SBC) and Dilution
+
+[F] SBC expense: ~$120–150M/year (FY2024 estimate), representing approximately 1.1–1.4% of revenue. Share count (diluted): ~128–132M shares. Annual dilution from SBC: ~1.5–2.0M shares/year, partially offset by buybacks.
+
+---
+
+### Rule-of-40 and Growth-Profit Trade-off
+
+[A] Rule of 40 is not the primary framework for an infrastructure services firm. However, for comparability:
+- Revenue growth rate: ~6–8%
+- EBITDA margin: ~11–12%
+- Rule-of-40 score: ~17–20 (below 40, but appropriate for a capital-light services company; not a software business)
+
+---
+
+### Accounting Judgments That Could Swing EBIT by >200 bps
+
+[A] Key accounting judgments:
+1. **Percentage-of-completion revenue recognition:** A 5% shift in project-completion estimates across the backlog could swing revenue by $300–500M and EBIT by $30–60M (~25–55 bps on EBIT margin)
+2. **Goodwill impairment:** Jacobs carries ~$4–5B of goodwill (est.); a segment impairment (e.g., if PPS margins deteriorate) could result in a non-cash charge of $500M–$1B, impacting GAAP EBIT by 400–900 bps in the impairment year
+3. **Defined benefit pension liability:** UK/international pension obligations create mark-to-market volatility under IAS 19; rate changes of ±100 bps could swing OCI by $100–200M
+
+---
+
+## SECTION 13 — CAPITAL STRUCTURE AND COST OF CAPITAL
+
+### Debt Stack (FY2024 Estimated)
+
+[F/A]
+
+| Instrument | Amount (Est.) | Maturity | Rate | Notes |
+|---|---|---|---|---|
+| **Revolving credit facility** | $0–500M drawn | 2027–2028 | SOFR + 125–150 bps | Undrawn capacity ~$1.5–2.0B |
+| **Senior notes** | ~$1.5–2.0B | 2025–2032 | 5.0–6.5% fixed | Mix of maturities |
+| **Term loan** | ~$0.5–1.0B | 2026–2028 | SOFR + 150–200 bps | |
+| **Total gross debt** | **~$2.0–3.0B** | | | |
+| **Cash & equivalents** | ~$0.5–0.8B | | | |
+| **Net debt** | **~$1.5–2.2B** | | | |
+| **Net Debt / EBITDA** | **~1.3–1.8×** | | | |
+
+---
+
+### WACC Estimation
+
+[A] Jacobs Solutions Weighted Average Cost of Capital (WACC):
+
+```
+Risk-free rate (10Y UST, June 2025):        ~4.3%
+Equity risk premium:                         ~5.5%
+Beta (5Y monthly, estimated):               ~1.0–1.1
+Cost of equity:                              ~9.8–10.3%
+Pre-tax cost of debt:                        ~5.5–6.0%
+Tax rate:                                    ~23%
+After-tax cost of debt:                      ~4.2–4.6%
+Debt weight in capital structure:            ~25–30%
+Equity weight:                               ~70–75%
+WACC:                                        ~8.5–9.5%
+Central WACC estimate:                       ~9.0%
+```
+
+---
+
+### Rating Agency Posture
+
+[F/A] Jacobs holds investment-grade credit ratings. Moody's: Baa2 (estimated, stable outlook); S&P: BBB (estimated). Net leverage of 1.3–1.8× is well within investment-grade parameters. Covenant headroom is ample; no near-term refinancing cliff.
+
+---
+
+### Liquidity Runway and Funding Shock Threshold
+
+[A] With ~$0.5–0.8B cash + ~$1.5–2.0B revolving credit facility (RCF) undrawn, Jacobs has ~$2.0–2.8B of readily available liquidity. This is more than sufficient to:
+- Fund operations for 24+ months without capital markets access
+- Execute $500–700M in acquisitions without incremental leverage beyond 2.0× Net Debt/EBITDA
+- Return $300–400M/year to shareholders via dividends and buybacks
+
+**Liquidity runway threshold for Sell/Wait signal:** Net leverage rising above 3.0× EBITDA without a credible 12-month deleveraging path.
+
+---
+
+## SECTION 14 — MOAT AND DATA ADVANTAGE
+
+### Moat Assessment
+
+[A] Jacobs' economic moat is **moderate and improving**, built on four reinforcing elements:
+
+| Moat Source | Strength | Evidence | Durability |
+|---|---|---|---|
+| **Switching costs** | High | Multi-year project continuity; cleared personnel | Durable (10+ years) |
+| **Intangible assets (relationships/reputation)** | High | PA Consulting's 60-year Whitehall relationships; incumbent IDIQ holder across major agencies | Durable |
+| **Proprietary data** | Medium | Site-condition databases; environmental remediation histories; project-controls data | Moderate (5–10 years) |
+| **Network effects** | Low | No meaningful network effects in core services | Limited |
+| **Cost advantage** | Low–Medium | Scale advantage in overhead absorption; limited vs. smaller specialists | Narrow |
+
+---
+
+### Event Most Likely to Collapse the Moat Within Two Years
+
+[I] The single most likely moat-erosion event is **the loss of a major IDIQ recompete** (e.g., an EPA Superfund program or DoD AFCEC environmental services contract) to AECOM or Tetra Tech. A major recompete loss could:
+- Reduce backlog by $1–2B
+- Signal a weakening of the incumbent relationship moat
+- Trigger 10–15% negative stock reaction
+
+Monitoring trigger: Protest filings and contract award announcements in ENR and SAM.gov (Contract Award Announcements).
+
+---
+
+## SECTION 15 — DATA AND AI ECONOMICS
+
+### Data Sources and Ownership
+
+[F/A] Jacobs' proprietary data assets:
+1. **Project delivery data:** 80+ years of project cost, schedule, and performance data across thousands of infrastructure projects — used for parametric estimating and risk modeling
+2. **Environmental site data:** Soil/groundwater condition databases for remediated sites (relevant for PFAS and Superfund work)
+3. **PA Consulting research:** Policy and technology research data used to advise governments on digital transformation
+
+---
+
+### AI Investment and Marginal Economics
+
+[A] Jacobs has disclosed investment in AI/ML tools for:
+- Automated environmental impact screening (reduces man-hours by estimated 15–25%)
+- Predictive project controls (schedule risk algorithms)
+- Digital twin integration for water/wastewater asset management
+
+[I] Quantified AI economics are not formally disclosed. Industry benchmarks suggest digital tools can reduce engineering labor hours per deliverable by 10–20%, implying a potential $150–250M annual labor-cost saving at scale (estimated over 3–5 years). Monetization beyond internal efficiency has not been demonstrated.
+
+---
+
+### Vendor and IP Risk
+
+[A] Jacobs relies on Autodesk, Bentley, and Oracle for core engineering software platforms. Vendor concentration in design tools is an industry-wide risk. No disclosed proprietary software licensing revenue. AI model development is primarily through Microsoft Azure/OpenAI partnerships — standard enterprise AI stack with limited IP ownership risk.
+
+---
+
+## SECTION 16 — EXECUTION QUALITY AND ORGANIZATION
+
+### Leadership Track Record
+
+[F] Bob Pragada became President and CEO in March 2022, succeeding Steve Demetriou. Pragada has been with Jacobs since 2014, overseeing the CH2M Hill acquisition integration (2017, $3.3B) and the Amentum transaction structure. The leadership team is largely tenured, with low turnover in the C-suite since 2022.
+
+[A] Key positives: Pragada has driven the portfolio transformation thesis credibly — the Amentum deal closed on schedule and the strategic rationale has been consistent. Key risk: Pragada's tenure is relatively short (3 years as CEO); succession depth below the C-suite is not publicly visible.
+
+---
+
+### Organizational Design
+
+[F] Post-Amentum, Jacobs operates with two main reporting segments (I&AF and PPS) plus the PA Consulting equity investment. The streamlined structure reduces complexity but also reduces revenue diversification. Headcount: approximately 52,000–58,000 (post-deal, estimated).
+
+---
+
+### Engineering Velocity and Customer Sentiment
+
+[A] No formal engineering velocity metrics disclosed. Customer sentiment proxies:
+- J.D. Power / industry awards: Not disclosed
+- ENR Top 500 rankings: Jacobs consistently in Top 5 globally for professional services
+- Government Past Performance Information Retrieval System (PPIRS/CPARS) scores: Primarily positive based on recompete win rates
+
+---
+
+### Single Leadership Gap That Is Existential Within 12–24 Months
+
+[I] The most critical leadership gap is at the **Chief Information Officer (CIO)/Chief Digital Officer (CDO) level** — the ability to credibly execute on the Jacobs Connect digital platform strategy requires a senior technology executive with both infrastructure domain knowledge and software product development experience. If the current digital strategy stalls or is perceived as superficial by clients, the multiple re-rating thesis is at risk.
+
+---
+
+## SECTION 17 — SUPPLY CHAIN AND OPERATIONS
+
+### Critical Suppliers and Single-Source Exposures
+
+[F/A] As a professional-services firm, Jacobs' primary "supply chain" is its workforce. Key supply-chain considerations:
+
+| Resource | Risk Level | Mitigant |
+|---|---|---|
+| **Senior project managers / engineers** | High | Multi-year employment contracts; competitive compensation |
+| **Security-cleared personnel** | High | Active cleared workforce of ~15,000–20,000 (estimated); clearance takes 12–18 months to restore |
+| **Specialty subcontractors (drilling, sampling)** | Medium | Multiple vendors; no single-source exposure |
+| **Software licenses (Autodesk, Oracle)** | Low | Industry-standard; alternatives available |
+
+---
+
+### Manufacturing Economics
+
+[A] Not applicable (professional services). Gross margin per billable hour is the relevant metric:
+- Senior principal engineer: billing rate ~$250–350/hr; fully-loaded cost ~$150–200/hr; gross margin ~30–40%
+- Junior engineer: billing rate ~$120–160/hr; fully-loaded cost ~$80–110/hr; gross margin ~25–35%
+- Consultant (PA): day-rates ~£1,500–3,000/day; gross margin ~35–45%
+
+---
+
+### Single Point of Failure
+
+[I] **Concentration of cleared personnel in specific federal agencies.** If DoD or EPA undergoes significant budget restructuring (e.g., DOGE-driven agency consolidation in 2025), the redeployment of ~5,000–8,000 cleared Jacobs employees would be logistically challenging and could create 6–12 months of revenue disruption.
+
+---
+
+## SECTION 18 — RISK INVENTORY AND MITIGANTS
+
+### Top 12 Risks, Quantified
+
+| # | Risk | Category | Probability (12M) | P&L Impact | Mitigant |
+|---|---|---|---|---|---|
+| 1 | **IIJA spending rescission/delay** | Macro/Political | 20–30% | –$300–600M revenue/year | Geographic diversification; private sector mix |
+| 2 | **Labor cost inflation > billing rate growth** | Operational | 35–45% | –50–100 bps EBIT margin | T&M escalation clauses; workforce automation |
+| 3 | **Major IDIQ recompete loss** | Competitive | 15–25% | –$500M–1.5B backlog | Incumbent advantage; PA Consulting differentiation |
+| 4 | **Amentum contingent liabilities** | Legal/Financial | 10–20% | –$100–400M one-time | Reps and warranties insurance; indemnification |
+| 5 | **UK fiscal austerity (PA Consulting)** | Macro | 25–35% | –$50–150M equity income | Private-sector PA expansion |
+| 6 | **Semiconductor capex cycle reversal** | Industry | 20–30% | –$200–400M revenue | Diversified I&AF client base |
+| 7 | **Goodwill impairment (PPS segment)** | Accounting | 10–15% | –$500M–1B non-cash GAAP | Maintain margin performance |
+| 8 | **Key executive departure** | Organizational | 10–15% | Sentiment/multiple impact | Succession planning |
+| 9 | **Cyber/data breach** | Operational | 10–15% | –$50–200M; reputational | SOC 2 compliance; zero-trust architecture |
+| 10 | **Interest rate sensitivity** | Financial | 30–40% | –$20–40M annual interest cost if rates rise 100 bps | Fixed-rate debt refinancing |
+| 11 | **Currency (GBP/AUD/SAR vs USD)** | FX | 40–50% | ±$100–200M revenue | Natural hedging; FX derivatives |
+| 12 | **DOGE-driven federal agency restructuring** | Political | 25–35% | –$200–500M if significant DoD/EPA cuts | Private-sector shift; IIJA state/local |
+
+---
+
+### Top 12-Month Risk: DOGE/Federal Agency Restructuring
+
+[F/A] The U.S. Department of Government Efficiency (DOGE) initiative, active through H1 2025, has targeted federal agency consolidation and contract terminations. As of June 2025, EPA has faced proposed budget cuts of 30–40% in some scenarios, which would directly impact Jacobs' environmental services backlog. DoD base operations and environmental programs are also under review.
+
+**Recovery playbook:** Shift pursuit resources to IIJA-funded state/local programs and private-sector advanced facilities work within 6–9 months of a confirmed federal budget cut.
+
+**Objective stop-loss trigger:** If federal government revenue declines >15% for two consecutive quarters, initiate a portfolio review and reassess Buy recommendation regardless of price.
+
+---
+
+## SECTION 19 — M&A STRATEGY AND OPTIONALITY
+
+### Past Deals vs. Plan
+
+[F]
+
+| Deal | Year | Value | Rationale | Outcome |
+|---|---|---|---|---|
+| **CH2M Hill acquisition** | 2017 | $3.3B | Water, environmental, program management capabilities; scale | Successful integration; strong capability add |
+| **PA Consulting stake (49%)** | 2021 | ~£1.0B ($1.4B) | Management consulting overlay; UK government access | Performing above acquisition EBIT margins |
+| **Amentum/CMS divestiture** | 2023 | ~$3.0B equivalent | Focus on non-defense infrastructure; delever | Clean portfolio; proceeds returned/redeployed |
+| **KeyW (cyber)** | 2019 | $815M | Cyber/intelligence capability (now part of Amentum) | Non-core; correctly divested |
+
+[A] Jacobs has demonstrated discipline: the CH2M Hill and PA Consulting acquisitions have been strategically sound; the exit from defense/cyber via Amentum was timely and well-structured. The M&A track record earns a score of 3.5/5.
+
+---
+
+### Build-Buy-Partner Framework
+
+[A] For the next 24 months:
+- **Build:** Digital/AI tools for project delivery efficiency (Jacobs Connect expansion); organic headcount growth in semiconductor/data-center advisory
+- **Buy:** Targeted tuck-in acquisitions in water digital (e.g., similar to Arcadis' InfraSuite), life-sciences design, or MENA market access (~$200–500M deal size range)
+- **Partner:** Joint ventures with construction firms for delivery-heavy projects; technology partnerships with Microsoft, Esri, Autodesk
+
+---
+
+### Capability Gaps That Cannot Be Built Organically in Time
+
+[I] Two gaps are likely tuck-in acquisition candidates:
+1. **Dedicated water digital/IoT platform** — Jacobs lacks a proprietary sensor-data platform for smart-water management; companies like Xylem/Sensus or smaller specialists fill this gap
+2. **Life sciences Good Manufacturing Practice (GMP) specialist** — Deep GMP design/validation capability for pharmaceutical clients requires talent that is extremely scarce; acquisition of a specialist firm (e.g., CRB Group-type) would accelerate market entry
+
+---
+
+## SECTION 20 — VALUATION FRAMEWORK
+
+### Outside-View Baseline: Peer Median Multiples
+
+[F/A] Professional-services infrastructure and engineering firms:
+
+| Company | EV/EBITDA (FY+1) | EV/EBIT (FY+1) | P/E (FY+1) | FCF Yield | EBITDA Margin |
+|---|---|---|---|---|---|
+| **AECOM** | ~11–12× | ~14–16× | ~18–20× | ~5–6% | ~10–11% |
+| **WSP Global** | ~14–15× | ~17–19× | ~22–25× | ~4–5% | ~12–13% |
+| **Stantec** | ~12–13× | ~15–17× | ~20–23× | ~4–5% | ~13–14% |
+| **Arcadis** | ~10–11× | ~13–15× | ~18–20× | ~5–6% | ~11–12% |
+| **Tetra Tech** | ~15–17× | ~18–21× | ~25–28× | ~3–4% | ~12–14% |
+| **PA Consulting (private)** | ~18–22× | N/A | N/A | N/A | ~25–30% |
+| **Peer Median** | **~12–14×** | **~15–18×** | **~20–23×** | **~4–5%** | **~12–13%** |
+| **Jacobs (current, est.)** | **~10–11×** | **~13–15×** | **~17–19×** | **~5–6%** | **~11–12%** |
+
+[A] **Jacobs trades at a 15–25% discount to peer medians** on EV/EBITDA. The discount reflects: (1) residual E&C-firm perception; (2) post-transaction integration uncertainty; (3) lower current EBITDA margins than WSP/Tetra Tech. As margins converge and the portfolio is cleaner, we expect a gradual re-rating.
+
+---
+
+### DCF Valuation — Central Case
+
+[A] Discounted Cash Flow (DCF) with explicit drivers:
+
+**Assumptions:**
+```
+FY2025E Revenue:            $11.5B       (+5% organic growth)
+FY2026E Revenue:            $12.4B       (+8%)
+FY2027E Revenue:            $13.3B       (+7%)
+FY2028E Revenue:            $14.0B       (+5%)
+FY2029E Revenue:            $14.7B       (+5%)
+
+EBITDA Margin trajectory:
+  FY2025E:    11.5%  → EBITDA $1.32B
+  FY2026E:    12.0%  → EBITDA $1.49B
+  FY2027E:    12.5%  → EBITDA $1.66B
+  FY2028E:    13.0%  → EBITDA $1.82B
+  FY2029E:    13.0%  → EBITDA $1.91B
+
+Capex % revenue:             0.6%
+D&A % revenue:               2.4%
+NWC change % revenue delta:  2.0%
+Cash tax rate:               23%
+Terminal growth rate:        2.5%
+WACC:                        9.0%
+PA Consulting equity income: $60–80M/year (growing 5%/year)
+```
+
+**FCF Build:**
+```
+FY2025E EBITDA:              $1,320M
+Less: D&A:                   (276M)
+EBIT:                        $1,044M
+Less: Taxes (23%):           (240M)
+NOPAT:                       $804M
+Add back D&A:                276M
+Less: Capex:                 (69M)
+Less: NWC build:             (46M)
+FCF (FY2025E):               $965M
+(Note: Adjusted upward to remove estimated non-recurring transaction costs)
+More conservative FCF (reported basis): ~$600–700M FY2025E
+```
+
+**Terminal Value:**
+```
+FY2029 FCF (normalized):     ~$1,050M
+Terminal value = FCF × (1+g) / (WACC-g) = $1,050M × 1.025 / (0.09-0.025)
+               = $1,076M / 0.065
+               = $16,554M
+PV of terminal value (discounted 4 years at 9%): $16,554M / 1.09^4 = $11,732M
+```
+
+**Sum of PV of FCFs (FY2025–2029) + PV of Terminal Value:**
+```
+PV FCFs (5 years):     ~$3,200–3,500M (estimated)
+PV Terminal Value:     ~$11,700M
+Enterprise Value:      ~$14,900–15,200M
+Less: Net Debt:        ~$1,800M
+Plus: PA Consulting (49% at ~18× EBITDA × $300M PA EBITDA × 49%): ~$2,600M
+Equity Value:          ~$15,700–16,000M
+Diluted shares:        ~130M
+Intrinsic value/share: ~$121–123 (base DCF)
+```
+
+[A] **The base DCF yields ~$121–123/share — very close to current market price.** This confirms the stock is roughly fairly valued at ~$120–125, not cheap enough for a Buy. The **mid fair value of ~$148** is derived by applying the peer-median multiple (12.5× FY2026 EBITDA of ~$1.49B = ~$18.6B EV → ~$148/share) — this reflects the re-rating scenario, which requires execution.
+
+---
+
+### Fair-Value Band Construction
+
+| Scenario | Method | Value/Share | Key Driver |
+|---|---|---|---|
+| **Bear (DCF, no re-rating)** | DCF at 9% WACC, 1.5% TGR, flat margins | ~$90–95 | Margin stagnation; multiple compression |
+| **Base (DCF)** | DCF at 9% WACC, 2.5% TGR, gradual margin expansion | ~$121–123 | Current consensus |
+| **Mid Fair Value (re-rating)** | Peer-median 12.5× EV/EBITDA FY2026 | ~$145–150 | Consulting multiple attribution |
+| **Bull (full re-rating + margin)** | 14× EV/EBITDA FY2027, margin at 13.5% | ~$175–180 | Full transformation credit |
+
+**Buy band:** ≤ $111 (25% discount to mid FV of $148)
+**Trim band:** ≥ $178 (at or above bull-case)
+
+---
+
+### Reverse DCF
+
+[A] At current price of ~$122:
+```
+Implied EV at $122/share = $122 × 130M shares + $1.8B net debt − $2.6B PA stake = ~$15.0B
+Implied EBITDA multiple = $15.0B / $1.32B (FY2025E EBITDA) = ~11.4×
+Implied FCF yield = ~$650M FCF / ($122 × 130M) = ~4.1%
+Implied growth rate in DCF to justify price = ~5–6% revenue growth + stable 11.5% EBITDA margin
+```
+
+[A] The reverse DCF shows the current price implies modest growth (5–6% revenue CAGR) and flat margins — essentially no transformation premium. **This is either a value trap or a patient re-rating opportunity**. The difference is execution.
+
+---
+
+### Sensitivity Table 1: Fair Value vs. EBITDA Margin × Revenue Growth
+
+| Revenue CAGR (FY25–29) → | 3% | 5% | 7% | 9% |
+|---|---|---|---|---|
+| **EBITDA Margin 10.5%** | $88 | $101 | $114 | $128 |
+| **EBITDA Margin 11.5%** | $103 | $118 | $133 | $149 |
+| **EBITDA Margin 12.5%** | $118 | $135 | $152 | $170 |
+| **EBITDA Margin 13.5%** | $133 | $152 | $171 | $192 |
+
+*Assumes 9% WACC, 2.5% TGR, $1.8B net debt, 130M diluted shares. Mid fair value highlighted at 12.5% margin / 7% growth = $152.*
+
+---
+
+### Sensitivity Table 2: EV/EBITDA Multiple × FY2026E EBITDA
+
+| EV/EBITDA Multiple → | 9× | 10× | 11× | 12× | 13× | 14× |
+|---|---|---|---|---|---|---|
+| **FY2026E EBITDA $1.35B** | $79 | $93 | $107 | $121 | $135 | $149 |
+| **FY2026E EBITDA $1.49B** | $91 | $107 | $122 | $137 | $153 | $168 |
+| **FY2026E EBITDA $1.63B** | $103 | $120 | $137 | $154 | $170 | $187 |
+
+*Net debt $1.8B, PA stake $2.6B, 130M shares.*
+
+---
+
+## SECTION 21 — SCENARIOS, CATALYSTS, AND MONITORING PLAN
+
+### Scenario Analysis
+
+| Scenario | Probability | 24M Total Return | Key Assumptions |
+|---|---|---|---|
+| **Bull** | 25% | +55–65% | IIJA acceleration, 13%+ EBIT margin, 13× re-rating, buybacks executed |
+| **Base** | 50% | +18–25% | Steady 6–8% growth, margin expansion to 12%, 11–12× multiple, stable buybacks |
+| **Bear** | 25% | –22 to –28% | IIJA delay, federal budget cuts, margin stagnation, multiple compression to 9×, goodwill impairment |
+
+**Expected Total Return (E[TR]) at current price (~$122):**
+```
+E[TR] = 0.25 × 60% + 0.50 × 21% + 0.25 × (−25%)
+      = 15% + 10.5% − 6.25%
+      = +19.25%
+```
+
+**Return ÷ Bear Drawdown Skew:**
+```
+E[TR] / |Bear drawdown| = 19.25% / 25% = 0.77×
+```
+
+[A] **Gates check at current price (~$122):**
+- ❌ E[TR] = 19.25% vs. hurdle of 30%: FAIL
+- ❌ Margin of safety = ($148 − $122) / $148 = 17.6% vs. required 25%: FAIL
+- ❌ Skew = 0.77× vs. required 1.7×: FAIL
+- ✅ Quality score = 72/100 vs. floor of 70: PASS
+- ✅ Why-now catalyst (IIJA disbursements, FY2025 earnings): PASS
+
+**→ Rating: HOLD / Watch-for-Entry. Three of five gates fail. Rating cannot be Buy until price ≤ $111.**
+
+---
+
+### Gate Analysis at Buy Band (≤$111)
+
+```
+At $111 entry price:
+E[TR] = 0.25 × 71% + 0.50 × 31% + 0.25 × (−14%)
+      = 17.75% + 15.5% − 3.5%
+      = 29.75% ≈ 30% (borderline PASS)
+Margin of safety = ($148 − $111) / $148 = 25.0%: PASS (at threshold)
+Skew = 29.75% / 14% = 2.12×: PASS
+```
+
+[A] At $111, all five gates pass (marginally). A price of $105–108 would provide more comfortable skew of 2.5–3.0×. **Ideal entry: $105–111.**
+
+---
+
+### Dated Near-Term Catalysts
+
+| Catalyst | Date | Quantified Impact | Confidence |
+|---|---|---|---|
+| **Q3 FY2025 Earnings Release** | ~July 2025 |
