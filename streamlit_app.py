@@ -110,9 +110,10 @@ st.markdown("""
 
 # ── Data loading ───────────────────────────────────────────────────────────────
 
-def available_dates() -> list[str]:
-    files = glob.glob(os.path.join(DATA_DIR, "screen_*_below30Q.csv"))
-    dates = []
+def available_dates(market_prefix: str = "") -> list[str]:
+    pattern = f"screen_*_{market_prefix}below30Q.csv"
+    files   = glob.glob(os.path.join(DATA_DIR, pattern))
+    dates   = []
     for f in files:
         m = re.search(r"screen_(\d{4}-\d{2}-\d{2})_", os.path.basename(f))
         if m:
@@ -121,16 +122,16 @@ def available_dates() -> list[str]:
 
 
 @st.cache_data(ttl=300)
-def load_csv(date_str: str, screen_type: str) -> pd.DataFrame | None:
-    path = os.path.join(DATA_DIR, f"screen_{date_str}_{screen_type}.csv")
+def load_csv(date_str: str, screen_type: str, market_prefix: str = "") -> pd.DataFrame | None:
+    path = os.path.join(DATA_DIR, f"screen_{date_str}_{market_prefix}{screen_type}.csv")
     if not os.path.exists(path):
         return None
     return pd.read_csv(path, dtype=str).fillna("—")
 
 
 @st.cache_data(ttl=300)
-def load_brief(date_str: str) -> str | None:
-    path = os.path.join(DATA_DIR, f"brief_{date_str}.txt")
+def load_brief(date_str: str, market_prefix: str = "") -> str | None:
+    path = os.path.join(DATA_DIR, f"brief_{market_prefix}{date_str}.txt")
     if not os.path.exists(path):
         return None
     with open(path, encoding="utf-8") as f:
@@ -154,20 +155,20 @@ def load_reports(date_str: str) -> dict[str, str]:
 import math as _math
 
 def _f(s) -> float:
-    """Parse a formatted string like '1.23%' or '$5.2B' to a float."""
+    """Parse a formatted string like '1.23%', '$5.2B', or '₹1.2T' to a float."""
     try:
-        return float(str(s).replace("%", "").replace("+", "").replace("$", "").strip())
+        return float(str(s).replace("%", "").replace("+", "").replace("$", "").replace("₹", "").strip())
     except (ValueError, AttributeError):
         return float("nan")
 
 
 def _parse_insider_val(s) -> float:
-    """Parse '+$5.6M' → 5_600_000, '-$1.2K' → -1_200, '—' → 0."""
+    """Parse '+$5.6M' / '+₹5.6M' → 5_600_000, '-$1.2K' → -1_200, '—' → 0."""
     if not s or str(s) in ("—", "", "nan"):
         return 0.0
     s = str(s).strip()
     neg = s.startswith("-")
-    s = s.replace("$", "").replace("+", "").replace("-", "").strip()
+    s = s.replace("$", "").replace("₹", "").replace("+", "").replace("-", "").strip()
     try:
         if "T" in s:
             val = float(s.replace("T", "")) * 1e12
@@ -387,11 +388,20 @@ def trigger_workflow(force: bool) -> None:
 
 with st.sidebar:
     st.title("📈 Stock Screener")
-    st.caption("NYSE + NASDAQ · Market Cap ≥ $2B")
 
-    dates = available_dates()
+    # ── Market toggle ──────────────────────────────────────────────────────────
+    market = st.radio(
+        "Market", ["🇺🇸 United States", "🇮🇳 India (NSE)"],
+        horizontal=True, label_visibility="collapsed"
+    )
+    is_india      = "India" in market
+    market_prefix = "india_" if is_india else ""
+    currency_sym  = "₹" if is_india else "$"
+    st.caption("NSE · Market Cap ≥ ₹50B" if is_india else "NYSE + NASDAQ · Market Cap ≥ $2B")
+
+    dates = available_dates(market_prefix)
     if not dates:
-        st.warning("No data yet.")
+        st.warning("No data yet for this market.")
         selected_date = prev_date = None
     else:
         selected_date = st.selectbox(
@@ -401,14 +411,14 @@ with st.sidebar:
         prev_date = dates[1] if len(dates) > 1 else None
 
     if selected_date:
-        df_30q  = load_csv(selected_date, "below30Q")
-        df_50q  = load_csv(selected_date, "below50Q")
-        df_100q = load_csv(selected_date, "below100Q")
-        df_mom  = load_csv(selected_date, "momentum")
-        p30  = load_csv(prev_date, "below30Q")  if prev_date else None
-        p50  = load_csv(prev_date, "below50Q")  if prev_date else None
-        p100 = load_csv(prev_date, "below100Q") if prev_date else None
-        pmom = load_csv(prev_date, "momentum")  if prev_date else None
+        df_30q  = load_csv(selected_date, "below30Q",  market_prefix)
+        df_50q  = load_csv(selected_date, "below50Q",  market_prefix)
+        df_100q = load_csv(selected_date, "below100Q", market_prefix)
+        df_mom  = load_csv(selected_date, "momentum",  market_prefix)
+        p30  = load_csv(prev_date, "below30Q",  market_prefix) if prev_date else None
+        p50  = load_csv(prev_date, "below50Q",  market_prefix) if prev_date else None
+        p100 = load_csv(prev_date, "below100Q", market_prefix) if prev_date else None
+        pmom = load_csv(prev_date, "momentum",  market_prefix) if prev_date else None
 
         st.divider()
         st.subheader("Counts")
@@ -459,7 +469,7 @@ overlap_tickers = value_tickers & mom_tickers
 fmt_date = datetime.strptime(selected_date, "%Y-%m-%d").strftime("%B %d, %Y")
 st.markdown(f"### {fmt_date}")
 
-brief = load_brief(selected_date)
+brief = load_brief(selected_date, market_prefix)
 if brief:
     st.markdown(f"""
 <div class="brief-card">
