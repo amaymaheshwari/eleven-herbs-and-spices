@@ -1,0 +1,17 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+VEDL,Vedanta Limited,₹328.20,7.2%,306.17,228.05,165.64,,12.74%,18.5%,—,—,NEUTRAL,—,0,0,—,—,₹1.30T,Non-Energy Minerals,NSE
+UPL,UPL Limited,₹646.05,1.8%,634.70,599.07,497.01,,0.93%,6.0%,—,—,NEUTRAL,—,0,0,—,—,₹542.17B,Process Industries,NSE
+IRB,IRB Infrastructure Developers Limited,₹21.28,7.3%,19.84,14.94,12.93,,5.08%,4.2%,—,—,NEUTRAL,—,0,0,✅ 4/4,—,₹261.61B,Industrial Services,NSE
+JWL,Jupiter Wagons Limited,₹280.35,6.6%,262.92,180.95,115.18,,0.35%,6.0%,—,—,NEUTRAL,—,0,0,—,—,₹121.44B,Producer Manufacturing,NSE
+RKFORGE,Ramkrishna Forgings Ltd,₹554.90,8.7%,510.62,368.09,259.31,,0.35%,2.3%,—,—,NEUTRAL,—,0,0,—,—,₹102.98B,Producer Manufacturing,NSE
+IFBIND,IFB Industries Ltd,₹1279.70,4.1%,1229.48,1075.10,890.76,,—,15.6%,—,—,NEUTRAL,—,0,0,—,—,₹53.40B,Consumer Durables,NSE
+ICRA,ICRA Limited,₹5140.00,1.5%,5065.32,4270.99,3873.49,,1.36%,16.3%,—,—,NEUTRAL,—,0,0,—,—,₹49.72B,Commercial Services,NSE
+GUJALKALI,Gujarat Alkalies & Chemicals Ltd.,₹670.75,2.5%,654.21,550.07,447.41,0.95,2.66%,-0.0%,—,—,NEUTRAL,—,0,0,—,—,₹48.85B,Process Industries,NSE
+AGI,AGI Greenpac Limited,₹610.35,3.3%,590.97,422.51,280.84,,1.15%,15.6%,—,—,NEUTRAL,—,0,0,—,—,₹39.50B,Process Industries,NSE
+WSTCSTPAPR,West Coast Paper Mills Limited,₹520.60,9.2%,476.95,384.82,280.77,0.95,0.58%,4.2%,—,—,NEUTRAL,—,0,0,🔴 0/2,—,₹34.41B,Producer Manufacturing,NSE
+PANAMAPET,Panama Petrochem Limited,₹337.80,9.2%,309.25,239.71,169.53,,0.95%,15.6%,—,—,NEUTRAL,—,0,0,🔴 2/4,—,₹19.11B,Process Industries,NSE
+BFINVEST,BF Investment Limited,₹440.80,1.0%,436.48,386.85,301.82,,—,3.7%,—,—,NEUTRAL,—,0,0,—,—,₹16.43B,Finance,NSE
+ROHLTD,Royal Orchid Hotels Limited,₹326.30,8.5%,300.83,223.88,169.97,,0.76%,13.2%,—,—,NEUTRAL,—,0,0,—,—,₹9.03B,Consumer Services,NSE
+KECL,Kirloskar Electric Co. Ltd.,₹110.80,6.7%,103.84,73.57,57.46,,—,11.3%,—,—,NEUTRAL,—,0,0,—,—,₹7.47B,Producer Manufacturing,NSE
+JAYAGROGN,Jayant Agro-Organics Limited,₹229.71,5.4%,217.94,187.02,179.29,,1.49%,8.5%,—,—,NEUTRAL,—,0,2,—,—,₹7.04B,Process Industries,NSE
+GOKUL,Gokul Refoils & Solvent Ltd.,₹40.47,2.5%,39.47,31.78,26.11,,—,5.2%,—,—,NEUTRAL,—,0,0,—,—,₹4.11B,Process Industries,NSE
