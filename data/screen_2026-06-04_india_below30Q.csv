@@ -1,3 +1,14 @@
 Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+NIACL,New India Assurance Co. Ltd.,₹147.15,₹214.75,31.5%,150.91,150.91,,,2.5%,0.63,1.02%,3.4%,—,—,—,—,0,0,—,—,₹246.13B,Finance,BSE
+NIACL,New India Assurance Co. Ltd.,₹147.18,₹214.74,31.5%,150.91,150.91,,,2.5%,0.63,1.02%,3.4%,—,—,—,—,0,0,—,—,₹246.13B,Finance,NSE
 BIRLACORPN,Birla Corporation Limited,₹970.00,₹1537.15,36.9%,995.09,995.09,817.39,,2.5%,1.01,1.28%,7.8%,—,—,—,—,0,0,—,—,₹75.12B,Non-Energy Minerals,BSE
 BIRLACORPN,Birla Corporation Limited,₹974.00,₹1535.30,36.6%,995.09,995.09,817.39,,2.1%,1.02,1.28%,7.8%,—,—,—,—,0,0,—,—,₹75.12B,Non-Energy Minerals,NSE
+SAGCEM,Sagar Cements Ltd,₹181.30,₹300.00,39.6%,186.88,186.88,156.02,,3.0%,1.40,—,-0.6%,—,—,—,—,0,0,—,—,₹23.59B,Non-Energy Minerals,BSE
+SAGCEM,Sagar Cements Ltd,₹179.81,₹299.40,39.9%,186.88,186.88,156.02,,3.8%,1.39,—,-0.6%,—,—,—,—,0,0,—,—,₹23.59B,Non-Energy Minerals,NSE
+RIIL,Reliance Industrial Infrastructure Limited,₹752.55,₹1047.90,28.2%,753.45,753.45,616.02,506.40,0.1%,2.40,0.47%,2.6%,—,—,—,—,0,0,—,—,₹11.24B,Industrial Services,NSE
+RIIL,Reliance Industrial Infrastructure Limited,₹751.20,₹1047.20,28.3%,753.45,753.45,616.02,506.40,0.3%,2.39,0.47%,2.6%,—,—,—,—,0,0,—,—,₹11.24B,Industrial Services,BSE
+XELPMOC,Xelpmoc Design And Tech Ltd,₹97.66,₹155.50,37.2%,159.78,159.78,,,38.9%,1.93,—,-10.9%,—,—,—,—,0,0,—,—,₹1.41B,Technology Services,NSE
+XELPMOC,Xelpmoc Design And Tech Ltd,₹97.85,₹165.00,40.7%,159.78,159.78,,,38.8%,1.93,—,-10.9%,—,—,—,—,0,0,—,—,₹1.41B,Technology Services,BSE
+DHARAN,Dharan Infra-EPC Ltd,₹0.19,₹0.62,69.4%,4.85,4.85,,,96.1%,0.10,—,-3.8%,—,—,—,—,0,0,—,—,₹993.46M,Finance,BSE
+DHARAN,Dharan Infra-EPC Ltd,₹0.16,₹0.61,73.8%,4.85,4.85,,,96.7%,0.09,—,-3.8%,—,—,—,—,0,0,—,—,₹993.46M,Finance,NSE
+RKEC,RKEC Projects Ltd.,₹31.26,₹89.99,65.3%,61.72,61.72,,,49.4%,0.38,—,4.8%,—,—,—,—,0,0,—,—,₹753.78M,Industrial Services,NSE
