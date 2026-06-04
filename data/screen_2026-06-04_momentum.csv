@@ -1,20 +1,18 @@
 Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
-KKR,KKR & Co Inc,$90.53,4.8%,86.41,68.35,47.57,2.88,0.83%,10.2%,2.3%,3.3,BUYING,$+50.9M,8,0,✅ 3/4,↑0 ↓0,$81.28B,Finance,NYSE
-PSA,Public Storage,$301.97,9.4%,275.99,246.03,204.63,10.88,4.01%,20.3%,5.1%,6.9,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$53.01B,Finance,NYSE
-A,"Agilent Technologies, Inc.",$137.40,5.7%,129.99,118.25,89.96,5.44,0.76%,21.3%,2.2%,2.7,NEUTRAL,—,0,0,🟡 1/4,↑1 ↓0,$38.81B,Health Technology,NYSE
-SYY,Sysco Corporation,$75.24,3.4%,72.79,68.87,57.27,15.66,2.97%,82.3%,3.3%,3.1,BUYING,$+314K,1,2,✅ 3/4,↑0 ↓0,$35.98B,Distribution Services,NYSE
-AVB,"AvalonBay Communities, Inc.",$183.19,1.0%,181.36,172.76,153.43,2.22,3.88%,9.7%,3.9%,3.9,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$25.99B,Finance,NYSE
-WSO,"Watsco, Inc.",$368.36,4.5%,352.63,294.49,217.87,4.88,3.63%,17.0%,0.0%,—,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$14.90B,Producer Manufacturing,NYSE
-J,Jacobs Solutions Inc.,$121.28,4.8%,115.73,103.98,79.21,4.35,1.18%,11.5%,6.3%,4.8,BUYING,$+285K,3,1,✅ 4/4,↑0 ↓0,$14.32B,Technology Services,NYSE
-PNFP,"Pinnacle Financial Partners, Inc.",$93.50,9.8%,85.14,75.63,64.37,1.02,2.08%,6.2%,3.5%,3.5,BUYING,$+95K,1,0,✅ 3/4,↑1 ↓0,$14.13B,Finance,NYSE
-STN,Stantec Inc,$73.56,1.3%,72.65,58.49,44.55,3.46,0.96%,15.3%,—,4.4,NEUTRAL,—,0,0,🟡 2/4,—,$8.39B,Industrial Services,NYSE
-CAE,CAE Inc.,$24.91,4.1%,23.93,23.63,19.79,2.10,—,6.1%,—,4.2,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$8.02B,Commercial Services,NYSE
-MIDD,Middleby Corporation,$156.22,5.5%,148.14,140.87,130.09,3.07,—,-7.7%,6.7%,3.4,BUYING,$+15.1M,2,0,✅ 4/4,↑0 ↓0,$7.06B,Producer Manufacturing,NASDAQ
-GBCI,"Glacier Bancorp, Inc.",$46.01,9.2%,42.13,40.34,33.94,1.41,2.83%,7.1%,5.3%,6.9,BUYING,$+9K,1,0,🟡 2/4,↑0 ↓0,$5.99B,Finance,NYSE
-BCPC,Balchem Corp,$156.62,4.6%,149.70,134.22,108.51,3.92,0.61%,12.7%,1.6%,1.7,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$5.03B,Consumer Non-Durables,NASDAQ
-SLM,SLM Corp,$21.62,6.2%,20.35,17.04,13.57,1.86,2.36%,30.9%,13.9%,6.9,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$4.08B,Finance,NASDAQ
-GPI,"Group 1 Automotive, Inc.",$305.75,7.1%,285.36,221.58,158.90,1.28,0.71%,11.1%,11.2%,6.0,NEUTRAL,—,0,0,🔴 1/4,↑1 ↓0,$3.64B,Retail Trade,NYSE
-CVBF,CVB Financial Corp.,$19.88,8.1%,18.40,17.54,16.05,1.16,3.91%,9.1%,5.4%,3.0,BUYING,$+3.0M,4,0,✅ 3/4,↑0 ↓0,$3.51B,Finance,NASDAQ
-SFNC,Simmons First National Corporation Class A,$20.84,8.1%,19.27,19.14,18.97,0.88,4.02%,-10.4%,4.2%,4.1,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$3.02B,Finance,NASDAQ
-AGYS,"Agilysys, Inc.",$88.35,7.6%,82.11,66.60,44.83,7.61,—,13.1%,4.8%,4.3,BUYING,$+78K,2,0,🔴 2/4,↑1 ↓0,$2.49B,Technology Services,NASDAQ
-CENT,Central Garden & Pet Company,$37.78,4.4%,36.20,33.84,27.81,1.43,—,10.7%,6.4%,6.9,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$2.13B,Consumer Non-Durables,NASDAQ
+KKR,KKR & Co Inc,93.69,8.2%,86.57,68.46,47.64,2.98,0.86%,10.2%,2.3%,3.3,BUYING,$+50.9M,8,0,✅ 3/4,↑0 ↓0,$84.13B,Finance,NYSE
+WCN,"Waste Connections, Inc.",153.71,0.8%,152.52,133.71,99.68,4.83,0.93%,12.8%,0.9%,1.1,BUYING,$+5.5M,1,6,✅ 4/4,↑1 ↓0,$39.05B,Industrial Services,NYSE
+SYY,Sysco Corporation,75.75,4.0%,72.82,68.89,57.28,15.77,2.92%,82.3%,3.3%,3.1,BUYING,$+314K,1,2,✅ 3/4,↑0 ↓0,$36.22B,Distribution Services,NYSE
+AVB,"AvalonBay Communities, Inc.",185.25,2.1%,181.48,172.84,153.47,2.24,3.89%,9.7%,3.9%,3.9,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$26.28B,Finance,NYSE
+WTW,Willis Towers Watson Public Limited Company,259.32,1.0%,256.72,235.09,187.78,3.06,1.53%,20.7%,3.4%,3.1,BUYING,$+1.2M,4,1,✅ 4/4,↑0 ↓0,$24.49B,Finance,NASDAQ
+WSO,"Watsco, Inc.",375.08,6.3%,352.85,294.63,217.96,4.97,3.58%,17.0%,0.0%,—,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$15.28B,Producer Manufacturing,NYSE
+J,Jacobs Solutions Inc.,123.79,6.8%,115.92,104.10,79.28,4.44,1.19%,11.5%,6.3%,4.8,BUYING,$+285K,3,1,✅ 4/4,↑0 ↓0,$14.62B,Technology Services,NYSE
+STN,Stantec Inc,74.33,2.2%,72.72,58.54,44.57,3.49,0.97%,15.3%,—,4.4,NEUTRAL,—,0,0,🟡 2/4,—,$8.48B,Industrial Services,NYSE
+CAE,CAE Inc.,25.53,6.5%,23.97,23.65,19.80,2.15,—,6.1%,—,4.2,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$8.22B,Commercial Services,NYSE
+MIDD,Middleby Corporation,157.92,6.5%,148.24,140.94,130.13,3.10,—,-7.7%,6.7%,3.4,BUYING,$+15.1M,2,0,✅ 4/4,↑0 ↓0,$7.14B,Producer Manufacturing,NASDAQ
+BCPC,Balchem Corp,158.96,6.1%,149.84,134.31,108.57,3.97,0.61%,12.7%,1.6%,1.7,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$5.11B,Consumer Non-Durables,NASDAQ
+SLM,SLM Corp,22.24,9.1%,20.38,17.06,13.58,1.92,2.41%,30.9%,13.9%,6.9,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$4.19B,Finance,NASDAQ
+CVBF,CVB Financial Corp.,20.21,9.7%,18.42,17.56,16.06,1.18,4.02%,9.1%,5.4%,3.0,BUYING,$+3.0M,4,0,✅ 3/4,↑0 ↓0,$3.57B,Finance,NASDAQ
+KBH,KB Home,52.39,1.9%,51.39,45.03,33.79,0.85,1.95%,8.8%,17.9%,7.0,NEUTRAL,—,0,0,🔴 2/4,↑1 ↓0,$3.28B,Consumer Durables,NYSE
+AGYS,"Agilysys, Inc.",90.30,9.8%,82.27,66.71,44.89,7.78,—,13.1%,4.8%,4.3,BUYING,$+78K,2,0,🔴 2/4,↑1 ↓0,$2.54B,Technology Services,NASDAQ
+HTO,H2O America,56.56,0.3%,56.40,56.18,47.94,1.29,3.14%,6.5%,15.2%,8.2,BUYING,$+10.6M,3,1,🟡 2/4,↑3 ↓0,$2.37B,Utilities,NASDAQ
+CENT,Central Garden & Pet Company,37.98,4.8%,36.24,33.86,27.83,1.44,—,10.7%,6.4%,6.9,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$2.15B,Consumer Non-Durables,NASDAQ
