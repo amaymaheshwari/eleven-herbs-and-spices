@@ -208,15 +208,19 @@ def compute_conviction(df: pd.DataFrame, is_momentum: bool = False) -> pd.DataFr
     """
     df = df.copy()
 
-    ins_score  = df["Insider Net Value (6mo)"].apply(_parse_insider_val).apply(_insider_score)
-    roe_score  = df["ROE"].apply(_f).fillna(0).clip(0, 30) / 30 * 3
-    div_score  = df["Div Yield"].apply(_f).fillna(0).clip(0, 10) / 5 * 2
+    # Cast to float64 explicitly — Arrow-backed pandas (Python 3.14) fails on
+    # scalar division otherwise.
+    def _s(series): return series.astype("float64")
+
+    ins_score  = _s(df["Insider Net Value (6mo)"].apply(_parse_insider_val).apply(_insider_score))
+    roe_score  = _s(df["ROE"].apply(_f).fillna(0)).clip(0, 30) / 30 * 3
+    div_score  = _s(df["Div Yield"].apply(_f).fillna(0)).clip(0, 10) / 5 * 2
 
     if is_momentum:
         raw     = ins_score + roe_score + div_score
         max_raw = 8.0
     else:
-        pb_score = (2 - df["P/B Ratio"].apply(_f).clip(0, 2)) / 2 * 2
+        pb_score = (2 - _s(df["P/B Ratio"].apply(_f)).clip(0, 2)) / 2 * 2
         raw      = ins_score + pb_score + roe_score + div_score
         max_raw  = 10.0
 
