@@ -307,9 +307,11 @@ def render_top_cards(df: pd.DataFrame, overlap_tickers: set, n: int = 5) -> None
 
 
 def render_table(df: pd.DataFrame, col_order: list[str]) -> None:
-    cols = [c for c in col_order if c in df.columns]
+    cols   = [c for c in col_order if c in df.columns]
     styled = df[cols].style.map(_style_insider, subset=["Insider Signal"])
-    st.dataframe(styled, use_container_width=True, hide_index=True, height=460)
+    # Auto-size height to content (38px/row + 38px header), capped at 700px
+    height = min(38 * (len(df) + 1) + 10, 700)
+    st.dataframe(styled, use_container_width=True, hide_index=True, height=height)
 
 
 def render_charts(df: pd.DataFrame) -> None:
