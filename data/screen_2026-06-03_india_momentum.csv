@@ -1,0 +1,7 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+VEDL,Vedanta Limited,₹328.20,7.2%,306.17,228.05,165.64,,12.74%,18.5%,—,—,NEUTRAL,—,0,0,🔴 2/4,—,₹1.30T,Non-Energy Minerals,NSE
+UPL,UPL Limited,₹646.05,1.8%,634.70,599.07,497.01,,0.93%,6.0%,—,—,NEUTRAL,—,0,0,🔴 2/4,—,₹542.17B,Process Industries,NSE
+IRB,IRB Infrastructure Developers Limited,₹21.28,7.3%,19.84,14.94,12.93,,5.08%,4.2%,—,—,NEUTRAL,—,0,0,✅ 4/4,—,₹261.61B,Industrial Services,NSE
+JWL,Jupiter Wagons Limited,₹280.35,6.6%,262.92,180.95,115.18,,0.35%,6.0%,—,—,NEUTRAL,—,0,0,—,—,₹121.44B,Producer Manufacturing,NSE
+RKFORGE,Ramkrishna Forgings Ltd,₹554.90,8.7%,510.62,368.09,259.31,,0.35%,2.3%,—,—,NEUTRAL,—,0,0,—,—,₹102.98B,Producer Manufacturing,NSE
+IFBIND,IFB Industries Ltd,₹1279.70,4.1%,1229.48,1075.10,890.76,,—,15.6%,—,—,NEUTRAL,—,0,0,🔴 2/4,—,₹53.40B,Consumer Durables,NSE

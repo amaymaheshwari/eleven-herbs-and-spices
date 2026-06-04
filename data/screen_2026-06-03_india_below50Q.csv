@@ -1,0 +1,5 @@
+Ticker,Company,Price,52W High,% Off 52W High,50Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+UCOBANK,UCO Bank,₹25.10,₹34.65,27.6%,31.62,24.07,31.62,,20.6%,0.95,1.77%,8.6%,—,—,—,—,0,0,—,—,₹311.36B,Finance,NSE
+ACC,ACC Limited,₹1350.90,₹2028.80,33.4%,1640.92,1838.87,1640.92,,17.7%,1.23,0.55%,10.9%,—,—,—,—,0,0,🔴 1/4,—,₹257.23B,Non-Energy Minerals,NSE
+PSB,Punjab & Sind Bank Ltd.,₹23.41,₹34.45,32.0%,33.20,27.42,33.20,,29.5%,1.18,1.65%,9.6%,—,—,—,—,0,0,—,—,₹167.88B,Finance,NSE
+IBULLSLTD,Indiabulls Limited,₹24.33,₹24.33,0.0%,56.93,40.38,56.93,,57.3%,1.83,—,19.5%,—,—,SELLING,$-37K,0,1,🟡 1/1,—,₹51.64B,Finance,NSE
