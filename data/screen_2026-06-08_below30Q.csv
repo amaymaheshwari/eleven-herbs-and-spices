@@ -1,0 +1,25 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+PFE,Pfizer Inc.,26.07,28.75,9.3%,28.62,28.62,25.74,18.35,8.9%,1.65,6.61%,8.3%,2.8%,4.3,NEUTRAL,—,0,0,✅ 4/4,↑1 ↓0,$148.56B,Health Technology,NYSE
+CNC,Centene Corporation,62.59,63.50,1.4%,63.98,63.98,54.29,,2.2%,1.44,—,-26.1%,3.5%,2.1,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$30.91B,Health Services,NYSE
+LEN,Lennar Corporation Class A,90.78,144.24,37.1%,95.37,95.37,73.97,49.26,4.8%,1.02,2.21%,7.9%,0.3%,0.2,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$22.30B,Consumer Durables,NYSE
+TSN,"Tyson Foods, Inc. Class A",57.81,69.48,16.8%,59.50,59.50,53.67,32.89,2.8%,1.10,3.47%,2.5%,4.3%,4.1,NEUTRAL,—,0,0,✅ 4/4,↑1 ↓0,$19.95B,Consumer Non-Durables,NYSE
+BRO,"Brown & Brown, Inc.",57.93,111.10,47.9%,65.39,65.39,46.99,28.16,11.4%,1.54,1.12%,11.7%,6.3%,4.7,BUYING,$+114K,1,0,✅ 4/4,↑1 ↓0,$19.64B,Finance,NYSE
+DOC,"Healthpeak Properties, Inc.",19.82,20.27,2.2%,20.09,20.09,19.52,15.19,1.3%,1.76,6.16%,2.8%,6.1%,3.5,SELLING,$-214K,0,1,🟡 2/4,↑1 ↓0,$14.00B,Finance,NYSE
+RVTY,"Revvity, Inc.",102.19,118.30,13.6%,117.17,117.17,94.14,57.25,12.8%,1.59,0.28%,3.2%,12.8%,6.7,SELLING,$-4.7M,0,6,✅ 4/4,↑0 ↓0,$11.40B,Health Technology,NYSE
+WLK,Westlake Corporation,85.36,124.23,31.3%,90.24,90.24,78.72,,5.4%,1.28,2.50%,-17.2%,11.0%,3.0,SELLING,$-7.1M,0,4,🔴 1/4,↑0 ↓0,$10.94B,Process Industries,NYSE
+WTRG,"Essential Utilities, Inc.",37.07,42.37,12.5%,37.43,37.43,32.01,21.15,0.9%,1.52,3.67%,8.3%,1.6%,1.7,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$10.51B,Utilities,NYSE
+UHS,"Universal Health Services, Inc. Class B",141.63,246.32,42.5%,149.56,149.56,135.64,83.37,5.3%,1.15,0.55%,21.3%,7.1%,3.2,SELLING,$-128K,0,1,✅ 3/4,↑0 ↓0,$8.57B,Health Services,NYSE
+EMN,Eastman Chemical Company,71.34,83.47,14.5%,76.49,76.49,69.56,45.20,6.7%,1.36,4.68%,6.7%,6.0%,4.2,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$8.16B,Process Industries,NYSE
+BLDR,"Builders FirstSource, Inc.",73.13,151.03,51.6%,86.37,86.37,56.95,,15.3%,1.96,—,7.0%,9.6%,3.1,BUYING,$+4.0M,1,1,🔴 2/4,↑0 ↓0,$7.87B,Retail Trade,NYSE
+REXR,"Rexford Industrial Realty, Inc.",33.77,44.38,23.9%,42.75,42.75,32.39,,21.0%,0.94,5.11%,2.7%,6.2%,4.7,SELLING,$-1.5M,3,2,✅ 3/4,↑0 ↓0,$7.62B,Finance,NYSE
+WFG,West Fraser Timber Co. Ltd.,65.01,78.55,17.2%,66.23,66.23,56.95,,1.8%,0.90,1.94%,-18.1%,—,11.4,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$5.09B,Non-Energy Minerals,NYSE
+SON,Sonoco Products Company,47.05,58.44,19.5%,48.52,48.52,43.10,29.70,3.0%,1.30,4.55%,20.2%,9.8%,4.5,BUYING,$+650K,2,2,🟡 1/4,↑1 ↓0,$4.65B,Process Industries,NYSE
+SLGN,Silgan Holdings Inc.,36.31,57.04,36.3%,39.74,39.74,33.10,21.40,8.6%,1.65,2.29%,12.9%,9.0%,10.1,NEUTRAL,—,0,0,🟡 2/4,↑1 ↓0,$3.84B,Process Industries,NYSE
+FUL,H.B. Fuller Company,59.85,68.63,12.8%,60.08,60.08,52.73,35.27,0.4%,1.58,1.64%,8.3%,5.4%,4.9,BUYING,$+295K,1,0,✅ 4/4,↑0 ↓0,$3.26B,Process Industries,NYSE
+VAC,Marriott Vacations Worldwide Corporation,90.69,91.61,1.0%,95.49,95.49,85.66,,5.0%,1.56,3.58%,-15.5%,11.1%,5.1,BUYING,$+1.4M,3,0,✅ 3/4,↑0 ↓0,$3.11B,Consumer Services,NYSE
+AVNT,Avient Corporation,33.95,44.85,24.3%,35.92,35.92,33.36,20.68,5.5%,1.29,3.24%,6.7%,2.8%,3.0,—,—,0,0,✅ 4/4,—,$3.11B,Process Industries,NYSE
+PPLI,People Incorporated,41.84,45.00,7.0%,57.15,57.15,41.46,23.26,26.8%,0.69,—,2.4%,19.0%,5.7,SELLING,$-279K,0,1,🔴 0/4,↑0 ↓0,$3.11B,Technology Services,NASDAQ
+CWT,California Water Service Group,45.83,50.44,9.1%,47.83,47.83,39.51,25.40,4.2%,1.63,2.92%,7.2%,3.9%,2.7,SELLING,$-453K,0,5,🔴 2/4,—,$2.74B,Utilities,NYSE
+LCII,LCI Industries,94.75,159.66,40.7%,99.45,99.45,83.29,48.63,4.7%,1.66,4.88%,14.7%,11.1%,4.6,SELLING,$-13.1M,0,3,✅ 4/4,↑1 ↓0,$2.30B,Producer Manufacturing,NYSE
+CXT,"Crane NXT, Co.",36.77,69.00,46.7%,39.47,39.47,32.08,20.48,6.8%,1.71,1.99%,11.1%,17.9%,10.5,BUYING,$+141K,5,1,✅ 4/4,↑0 ↓0,$2.12B,Producer Manufacturing,NYSE
+IOSP,Innospec Inc.,81.30,92.14,11.8%,88.53,88.53,72.93,43.72,8.2%,1.49,2.22%,8.8%,1.9%,1.6,SELLING,$-902K,0,13,✅ 4/4,—,$2.00B,Process Industries,NASDAQ
