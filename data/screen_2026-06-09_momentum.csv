@@ -1,0 +1,19 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+KKR,KKR & Co Inc,94.00,8.4%,86.71,68.55,47.69,2.99,0.84%,10.2%,2.3%,3.3,BUYING,$+50.9M,8,0,✅ 3/4,↑0 ↓0,$84.40B,Finance,NYSE
+WCN,"Waste Connections, Inc.",153.96,0.9%,152.55,133.73,99.69,4.84,0.91%,12.8%,0.9%,1.1,BUYING,$+5.8M,1,5,✅ 4/4,↑1 ↓0,$39.12B,Industrial Services,NYSE
+SYY,Sysco Corporation,76.48,4.9%,72.87,68.93,57.30,15.92,2.88%,82.3%,3.3%,3.1,BUYING,$+314K,1,2,✅ 3/4,↑0 ↓0,$36.57B,Distribution Services,NYSE
+AVB,"AvalonBay Communities, Inc.",187.61,3.4%,181.50,172.85,153.48,2.27,3.80%,9.7%,3.9%,3.9,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$26.62B,Finance,NYSE
+GEN,Gen Digital Inc.,25.67,9.1%,23.54,21.21,16.92,5.88,1.93%,39.9%,5.9%,3.6,BUYING,$+62K,1,1,🟡 2/4,↑0 ↓0,$15.46B,Technology Services,NASDAQ
+WSO,"Watsco, Inc.",376.12,6.4%,353.49,295.06,218.21,4.98,3.55%,17.0%,0.0%,—,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$15.35B,Producer Manufacturing,NYSE
+J,Jacobs Solutions Inc.,120.68,4.2%,115.83,104.04,79.25,4.33,1.20%,11.5%,6.3%,4.8,BUYING,$+285K,3,1,✅ 4/4,↑0 ↓0,$14.25B,Technology Services,NYSE
+STN,Stantec Inc,74.00,1.8%,72.68,58.51,44.56,3.48,0.97%,15.3%,—,4.4,NEUTRAL,—,0,0,🟡 2/4,—,$8.44B,Industrial Services,NYSE
+CAE,CAE Inc.,25.20,5.2%,23.96,23.64,19.80,2.13,—,6.1%,—,4.2,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$8.11B,Commercial Services,NYSE
+MIDD,Middleby Corporation,158.25,6.6%,148.39,141.04,130.19,3.11,—,-7.7%,6.7%,3.4,BUYING,$+15.0M,1,0,✅ 4/4,↑0 ↓0,$7.16B,Producer Manufacturing,NASDAQ
+MTDR,Matador Resources Company,54.88,8.0%,50.83,38.85,32.61,1.22,2.71%,8.9%,8.9%,6.4,BUYING,$+541K,8,0,✅ 4/4,↑1 ↓0,$6.81B,Energy Minerals,NYSE
+EXP,Eagle Materials Inc.,209.89,7.6%,195.09,162.71,131.16,4.44,0.48%,28.9%,8.0%,5.7,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$6.50B,Non-Energy Minerals,NYSE
+BCPC,Balchem Corp,159.90,6.7%,149.93,134.37,108.61,4.00,0.60%,12.7%,1.6%,1.7,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$5.14B,Consumer Non-Durables,NASDAQ
+HRI,"Herc Holdings, Inc.",146.84,8.0%,136.01,108.30,83.72,2.58,1.93%,-0.3%,8.6%,3.3,BUYING,$+427K,1,0,✅ 3/4,↑0 ↓0,$4.90B,Finance,NYSE
+KBH,KB Home,51.90,0.9%,51.43,45.06,33.81,0.84,1.94%,8.8%,17.9%,7.0,NEUTRAL,—,0,0,🔴 2/4,↑1 ↓0,$3.25B,Consumer Durables,NYSE
+MGEE,"MGE Energy, Inc.",76.13,1.4%,75.08,70.84,59.84,2.07,2.50%,10.9%,5.6%,4.8,BUYING,$+29K,1,0,🟡 2/4,↑0 ↓0,$2.87B,Utilities,NASDAQ
+APAM,"Artisan Partners Asset Management, Inc. Class A",35.15,7.4%,32.73,29.32,23.42,6.41,9.74%,69.7%,10.9%,7.9,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$2.85B,Finance,NYSE
+AGYS,"Agilysys, Inc.",87.97,7.0%,82.19,66.65,44.86,7.58,—,13.1%,4.8%,4.3,BUYING,$+78K,2,0,🔴 2/4,↑1 ↓0,$2.48B,Technology Services,NASDAQ
