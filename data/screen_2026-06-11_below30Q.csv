@@ -1,0 +1,22 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+PFE,Pfizer Inc.,26.43,28.75,8.1%,28.63,28.63,25.74,18.35,7.7%,1.67,6.72%,8.3%,2.8%,4.6,SELLING,$-51K,0,1,✅ 4/4,↑1 ↓0,$150.61B,Health Technology,NYSE
+CNC,Centene Corporation,63.81,66.55,4.1%,64.03,64.03,54.32,,0.3%,1.47,—,-26.1%,3.4%,2.4,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$31.51B,Health Services,NYSE
+LEN,Lennar Corporation Class A,91.70,144.24,36.4%,95.40,95.40,73.99,49.27,3.9%,1.03,2.23%,7.9%,0.3%,0.2,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$22.52B,Consumer Durables,NYSE
+BRO,"Brown & Brown, Inc.",60.41,111.10,45.6%,65.46,65.46,47.04,28.19,7.7%,1.61,1.10%,11.7%,6.4%,4.5,BUYING,$+164K,2,0,✅ 4/4,↑1 ↓0,$20.48B,Finance,NYSE
+TSN,"Tyson Foods, Inc. Class A",56.24,69.48,19.1%,59.43,59.43,53.63,32.87,5.4%,1.07,3.63%,2.5%,3.5%,3.2,NEUTRAL,—,0,0,✅ 4/4,↑1 ↓0,$19.41B,Consumer Non-Durables,NYSE
+CNH,CNH Industrial NV,10.18,14.27,28.7%,10.71,10.71,9.23,,5.0%,1.62,0.98%,4.9%,7.1%,4.2,SELLING,$-490K,0,1,🟡 2/4,↑1 ↓0,$12.62B,Producer Manufacturing,NYSE
+WLK,Westlake Corporation,89.06,124.23,28.3%,90.36,90.36,78.80,,1.4%,1.33,2.43%,-17.2%,11.4%,3.1,SELLING,$-7.1M,0,4,🔴 1/4,↑0 ↓0,$11.41B,Process Industries,NYSE
+RVTY,"Revvity, Inc.",100.26,118.30,15.2%,117.10,117.10,94.10,57.23,14.4%,1.56,0.28%,3.2%,11.8%,5.3,SELLING,$-4.7M,0,6,✅ 4/4,↑0 ↓0,$11.18B,Health Technology,NYSE
+UHS,"Universal Health Services, Inc. Class B",145.05,246.32,41.1%,149.46,149.46,135.52,83.28,3.0%,1.18,0.55%,21.3%,7.0%,2.5,SELLING,$-128K,0,1,✅ 3/4,↑0 ↓0,$8.78B,Health Services,NYSE
+EMN,Eastman Chemical Company,72.27,83.47,13.4%,76.52,76.52,69.58,45.21,5.6%,1.37,4.71%,6.7%,6.5%,4.4,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$8.26B,Process Industries,NYSE
+REXR,"Rexford Industrial Realty, Inc.",34.94,44.38,21.3%,42.79,42.79,32.42,,18.4%,0.98,5.03%,2.7%,6.1%,5.8,SELLING,$-1.5M,3,2,✅ 3/4,↑0 ↓0,$7.89B,Finance,NYSE
+WFG,West Fraser Timber Co. Ltd.,65.95,78.55,16.0%,66.24,66.24,56.96,,0.4%,0.91,1.94%,-18.1%,—,10.6,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$5.16B,Non-Energy Minerals,NYSE
+SLGN,Silgan Holdings Inc.,39.79,57.04,30.2%,39.86,39.86,33.17,21.44,0.2%,1.81,2.13%,12.9%,9.6%,10.1,NEUTRAL,—,0,0,🟡 2/4,↑1 ↓0,$4.20B,Process Industries,NYSE
+AVNT,Avient Corporation,35.65,44.85,20.5%,35.97,35.97,33.39,20.70,0.9%,1.36,3.15%,6.7%,2.6%,2.4,—,—,0,0,✅ 4/4,↑1 ↓0,$3.27B,Process Industries,NYSE
+PPLI,People Incorporated,41.82,45.00,7.1%,57.16,57.16,41.46,23.27,26.8%,0.69,—,2.4%,19.0%,5.7,SELLING,$-279K,0,1,🔴 0/4,↑0 ↓0,$3.11B,Technology Services,NASDAQ
+VAC,Marriott Vacations Worldwide Corporation,90.00,92.74,3.0%,95.53,95.53,85.68,,5.8%,1.55,3.65%,-15.5%,11.1%,4.8,BUYING,$+1.4M,3,0,✅ 3/4,↑0 ↓0,$3.09B,Consumer Services,NYSE
+CALY,Callaway Golf Company,16.63,18.00,7.6%,17.89,17.89,15.60,12.92,7.0%,1.42,—,0.6%,4.5%,1.8,SELLING,$-149.8M,0,4,✅ 4/4,↑0 ↓0,$2.99B,Consumer Durables,NYSE
+CWT,California Water Service Group,45.95,50.44,8.9%,47.83,47.83,39.51,25.40,3.9%,1.64,2.91%,7.2%,4.5%,3.6,SELLING,$-453K,0,5,🔴 2/4,—,$2.75B,Utilities,NYSE
+CXT,"Crane NXT, Co.",39.45,69.00,42.8%,39.57,39.57,32.14,20.51,0.3%,1.83,1.92%,11.1%,19.2%,9.3,BUYING,$+141K,5,1,✅ 4/4,↑0 ↓0,$2.27B,Producer Manufacturing,NYSE
+LCII,LCI Industries,91.19,159.66,42.9%,99.32,99.32,83.21,48.59,8.2%,1.60,5.07%,14.7%,11.4%,6.0,SELLING,$-13.1M,0,3,✅ 4/4,↑1 ↓0,$2.21B,Producer Manufacturing,NYSE
+IOSP,Innospec Inc.,84.70,92.14,8.1%,88.63,88.63,72.99,43.75,4.4%,1.56,2.15%,8.8%,2.1%,1.6,SELLING,$-902K,0,13,✅ 4/4,—,$2.09B,Process Industries,NASDAQ
