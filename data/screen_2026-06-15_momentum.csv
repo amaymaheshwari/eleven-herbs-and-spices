@@ -1,0 +1,24 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+SPGI,"S&P Global, Inc.",428.84,0.6%,426.14,385.56,280.35,4.07,0.93%,14.8%,1.5%,2.2,BUYING,$+3.6M,4,0,✅ 3/4,↑0 ↓0,$126.94B,Commercial Services,NYSE
+MELI,"MercadoLibre, Inc.",1667.98,5.3%,1583.81,1393.59,917.11,11.61,—,31.3%,2.2%,1.5,BUYING,$+1.1M,2,0,🔴 1/4,↑0 ↓0,$84.56B,Retail Trade,NASDAQ
+CNI,Canadian National Railway Company,117.27,9.2%,107.44,100.19,83.54,4.62,2.25%,21.8%,—,5.6,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$71.14B,Transportation,NYSE
+HUM,Humana Inc.,372.55,1.6%,366.70,359.11,295.46,2.41,0.93%,6.2%,5.8%,3.5,BUYING,$+150K,1,0,✅ 4/4,↑0 ↓0,$44.73B,Health Services,NYSE
+KDP,Keurig Dr Pepper Inc.,31.54,1.2%,31.18,29.40,22.34,1.70,2.90%,7.4%,5.3%,6.4,NEUTRAL,—,0,0,🟡 2/4,↑2 ↓0,$42.91B,Consumer Non-Durables,NASDAQ
+WCN,"Waste Connections, Inc.",154.97,1.6%,152.59,133.76,99.71,4.87,0.90%,12.8%,0.9%,1.2,BUYING,$+4.4M,1,7,✅ 4/4,↑0 ↓0,$39.37B,Industrial Services,NYSE
+SYY,Sysco Corporation,79.14,8.4%,72.99,69.01,57.35,16.48,2.78%,82.3%,3.9%,4.4,BUYING,$+314K,1,2,✅ 3/4,↑0 ↓0,$37.85B,Distribution Services,NYSE
+WAT,Waters Corporation,357.96,9.7%,326.17,298.67,240.62,2.30,—,5.2%,4.6%,3.7,BUYING,$+451K,2,0,✅ 3/4,↑1 ↓0,$35.15B,Health Technology,NYSE
+AVB,"AvalonBay Communities, Inc.",186.34,2.7%,181.51,172.86,153.49,2.26,3.81%,9.7%,3.5%,3.1,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$26.44B,Finance,NYSE
+WTW,Willis Towers Watson Public Limited Company,260.62,1.5%,256.79,235.13,187.80,3.08,1.46%,20.7%,3.6%,3.2,BUYING,$+1.2M,4,1,✅ 4/4,↑0 ↓0,$24.62B,Finance,NASDAQ
+SMCI,"Super Micro Computer, Inc.",31.29,0.3%,31.18,21.69,14.03,2.48,—,17.9%,16.5%,1.7,NEUTRAL,—,0,0,🔴 2/4,—,$18.82B,Electronic Technology,NASDAQ
+J,Jacobs Solutions Inc.,126.38,8.9%,116.01,104.16,79.32,4.54,1.13%,11.5%,6.9%,4.6,BUYING,$+285K,3,1,✅ 4/4,↑0 ↓0,$14.92B,Technology Services,NYSE
+WTRG,"Essential Utilities, Inc.",37.72,0.3%,37.61,37.44,32.03,1.55,3.65%,8.3%,1.7%,2.3,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$10.70B,Utilities,NYSE
+CAE,CAE Inc.,25.59,6.8%,23.97,23.65,19.80,2.16,—,6.1%,—,3.5,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$8.23B,Commercial Services,NYSE
+MIDD,Middleby Corporation,163.06,9.8%,148.50,141.11,130.23,3.20,—,-7.7%,6.7%,3.5,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$7.37B,Producer Manufacturing,NASDAQ
+MTDR,Matador Resources Company,51.95,2.5%,50.70,38.76,32.56,1.16,2.78%,8.9%,10.0%,6.9,BUYING,$+694K,11,0,✅ 4/4,↑1 ↓0,$6.45B,Energy Minerals,NYSE
+BCPC,Balchem Corp,164.35,9.5%,150.08,134.48,108.67,4.11,0.58%,12.7%,1.8%,2.3,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$5.28B,Consumer Non-Durables,NASDAQ
+SON,Sonoco Products Company,50.84,2.5%,49.61,48.65,43.18,1.41,4.27%,20.2%,11.1%,6.6,BUYING,$+650K,2,2,🟡 1/4,↑1 ↓0,$5.03B,Process Industries,NYSE
+LOPE,"Grand Canyon Education, Inc.",146.88,9.9%,133.62,120.20,98.19,5.63,—,29.8%,5.6%,5.6,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$3.89B,Commercial Services,NASDAQ
+KBH,KB Home,54.45,5.7%,51.50,45.11,33.84,0.88,1.85%,8.8%,17.5%,7.0,NEUTRAL,—,0,0,🔴 2/4,↑1 ↓0,$3.41B,Consumer Durables,NYSE
+WDFC,WD-40 Company,224.91,6.5%,211.20,206.07,162.46,11.26,1.83%,31.2%,5.8%,3.9,BUYING,$+105K,1,0,✅ 3/4,↑1 ↓0,$3.03B,Process Industries,NASDAQ
+MGEE,"MGE Energy, Inc.",76.97,2.5%,75.11,70.86,59.85,2.10,2.45%,10.9%,5.5%,4.0,BUYING,$+29K,1,0,🟡 2/4,↑0 ↓0,$2.91B,Utilities,NASDAQ
+HTO,H2O America,56.99,1.0%,56.43,56.20,47.95,1.30,3.08%,6.5%,15.3%,10.0,BUYING,$+10.6M,3,1,🟡 2/4,↑2 ↓0,$2.38B,Utilities,NASDAQ
