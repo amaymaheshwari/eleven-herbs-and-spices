@@ -1,0 +1,19 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+MELI,"MercadoLibre, Inc.",1589.45,0.6%,1580.06,1391.09,915.61,11.07,—,31.3%,2.2%,1.5,BUYING,$+1.3M,3,0,🔴 1/4,↑0 ↓0,$80.58B,Retail Trade,NASDAQ
+CNI,Canadian National Railway Company,114.13,6.4%,107.29,100.09,83.48,4.50,2.34%,21.8%,—,5.6,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$69.23B,Transportation,NYSE
+WCN,"Waste Connections, Inc.",153.43,0.5%,152.63,133.79,99.72,4.82,0.91%,12.8%,0.9%,1.2,BUYING,$+4.4M,1,7,✅ 4/4,↑0 ↓0,$38.98B,Industrial Services,NYSE
+SYY,Sysco Corporation,77.98,6.9%,72.97,68.99,57.34,16.23,2.82%,82.3%,3.9%,4.4,BUYING,$+314K,1,2,✅ 3/4,↑0 ↓0,$37.29B,Distribution Services,NYSE
+WAT,Waters Corporation,358.25,9.8%,326.41,298.84,240.72,2.30,—,5.2%,4.6%,3.7,BUYING,$+451K,2,0,✅ 3/4,↑1 ↓0,$35.18B,Health Technology,NYSE
+KR,Kroger Co.,55.76,7.2%,52.01,44.01,36.46,5.28,2.51%,13.6%,5.1%,5.4,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$34.38B,Retail Trade,NYSE
+J,Jacobs Solutions Inc.,118.70,2.7%,115.60,103.89,79.16,4.26,1.21%,11.5%,6.9%,4.6,BUYING,$+285K,3,1,✅ 4/4,↑0 ↓0,$14.02B,Technology Services,NYSE
+CAE,CAE Inc.,24.93,4.2%,23.93,23.63,19.79,2.10,—,6.1%,—,3.5,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$8.02B,Commercial Services,NYSE
+MTDR,Matador Resources Company,50.66,0.1%,50.63,38.72,32.53,1.13,2.96%,8.9%,10.0%,6.9,BUYING,$+720K,12,0,✅ 4/4,↑0 ↓0,$6.29B,Energy Minerals,NYSE
+SON,Sonoco Products Company,50.46,1.8%,49.59,48.63,43.17,1.40,4.28%,20.2%,11.1%,6.6,BUYING,$+650K,2,2,🟡 1/4,↑1 ↓0,$4.99B,Process Industries,NYSE
+LOPE,"Grand Canyon Education, Inc.",142.06,6.4%,133.51,120.13,98.14,5.45,—,29.8%,5.6%,5.6,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$3.77B,Commercial Services,NASDAQ
+KBH,KB Home,52.52,2.1%,51.42,45.05,33.80,0.85,1.90%,8.8%,17.5%,7.0,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$3.29B,Consumer Durables,NYSE
+WDFC,WD-40 Company,223.11,5.6%,211.25,206.11,162.48,11.17,1.83%,31.2%,5.8%,3.9,BUYING,$+105K,1,0,✅ 3/4,↑1 ↓0,$3.00B,Process Industries,NASDAQ
+APAM,"Artisan Partners Asset Management, Inc. Class A",35.98,9.9%,32.75,29.33,23.43,6.57,9.42%,69.7%,8.6%,6.0,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$2.92B,Finance,NYSE
+MGEE,"MGE Energy, Inc.",76.01,1.2%,75.10,70.85,59.85,2.07,2.50%,10.9%,5.5%,4.0,BUYING,$+29K,1,0,🟡 2/4,↑0 ↓0,$2.87B,Utilities,NASDAQ
+HUBG,"Hub Group, Inc. Class A",43.98,9.5%,40.15,35.36,29.50,1.58,1.14%,6.3%,7.4%,3.8,NEUTRAL,—,0,0,🟡 1/4,↑0 ↓0,$2.69B,Transportation,NASDAQ
+HTO,H2O America,56.70,0.4%,56.45,56.21,47.96,1.29,3.10%,6.5%,15.3%,10.0,BUYING,$+10.6M,3,1,🟡 2/4,↑2 ↓0,$2.37B,Utilities,NASDAQ
+TGLS,Tecnoglass Inc.,46.17,1.9%,45.31,32.76,22.90,2.79,1.30%,21.0%,10.7%,5.3,BUYING,$+27.0M,4,0,🔴 2/4,↑0 ↓0,$2.14B,Producer Manufacturing,NYSE
