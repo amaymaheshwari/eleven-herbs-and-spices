@@ -1,0 +1,34 @@
+Ticker,Company,Price,52W High,% Off 52W High,100Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+AIG,"American International Group, Inc.",74.85,87.29,14.3%,236.70,56.48,51.49,236.70,68.4%,0.99,2.67%,7.7%,2.3%,2.9,BUYING,$+3K,2,0,✅ 4/4,↑0 ↓0,$39.69B,Finance,NYSE
+PCG,PG&E Corporation,17.08,19.16,10.8%,26.75,14.40,27.84,26.75,36.1%,1.19,1.17%,9.2%,0.0%,—,SELLING,$-4.9M,0,9,🟡 2/4,↑1 ↓0,$37.61B,Utilities,NYSE
+FISV,"Fiserv, Inc.",47.53,175.92,73.0%,52.91,117.55,92.70,52.91,10.2%,0.97,—,12.3%,—,—,BUYING,$+1.7M,6,0,✅ 3/4,↑2 ↓0,$25.35B,Commercial Services,NASDAQ
+FIS,"Fidelity National Information Services, Inc.",37.86,82.74,54.2%,47.91,84.47,77.39,47.91,21.0%,1.23,4.65%,17.2%,4.0%,2.5,BUYING,$+1.1M,3,0,🟡 2/4,↑0 ↓0,$19.57B,Technology Services,NYSE
+VTRS,"Viatris, Inc.",16.07,17.53,8.3%,18.73,11.49,21.09,18.73,14.2%,1.28,2.99%,-2.0%,3.9%,4.7,—,—,0,0,✅ 4/4,↑0 ↓0,$18.86B,Health Technology,NASDAQ
+CDE,"Coeur Mining, Inc.",15.99,27.77,42.4%,17.78,7.51,7.19,17.78,10.1%,1.59,0.25%,12.1%,4.6%,1.7,SELLING,$-715K,1,1,🟡 2/4,↑0 ↓0,$16.54B,Non-Energy Minerals,NYSE
+APA,APA Corporation,33.42,45.66,26.8%,42.01,25.01,31.36,42.01,20.4%,1.83,2.99%,25.8%,10.3%,5.2,SELLING,$-833K,0,1,✅ 4/4,↑0 ↓0,$11.81B,Energy Minerals,NASDAQ
+CSGP,"CoStar Group, Inc.",28.64,97.43,70.6%,29.02,71.75,52.74,29.02,1.3%,1.47,—,0.3%,4.2%,2.0,BUYING,$+6.0M,5,0,✅ 4/4,↑1 ↓0,$11.70B,Technology Services,NASDAQ
+BAX,Baxter International Inc.,21.55,31.75,32.1%,33.38,50.02,47.78,33.38,35.4%,1.84,0.19%,-14.9%,12.7%,6.1,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$11.13B,Health Technology,NYSE
+SIRI,SiriusXM Holdings Inc.,27.76,30.11,7.8%,31.21,40.36,39.83,31.21,11.1%,0.80,3.83%,7.4%,18.2%,5.8,SELLING,$-740K,0,2,🔴 1/4,↑0 ↓0,$9.34B,Consumer Services,NASDAQ
+ARE,"Alexandria Real Estate Equities, Inc.",53.29,88.24,39.6%,66.36,109.77,95.56,66.36,19.7%,0.58,5.40%,-6.4%,4.7%,3.0,BUYING,$+2.0M,4,3,🔴 2/4,↑0 ↓0,$9.29B,Finance,NYSE
+MOS,Mosaic Company,21.73,38.23,43.2%,28.98,28.79,28.31,28.98,25.0%,0.59,4.05%,0.4%,10.0%,2.6,NEUTRAL,—,0,0,🔴 1/4,↑1 ↓0,$6.91B,Process Industries,NYSE
+NOV,NOV Inc.,18.94,21.55,12.1%,27.03,15.72,24.83,27.03,29.9%,1.10,1.74%,1.4%,15.6%,9.3,—,—,0,0,🔴 0/4,↑0 ↓0,$6.80B,Industrial Services,NYSE
+CPB,Campbell's Company,22.35,34.17,34.6%,27.15,36.61,35.89,27.15,17.7%,1.65,6.98%,15.4%,35.8%,6.0,SELLING,$-390K,1,2,✅ 3/3,↑2 ↓0,$6.66B,Consumer Non-Durables,NASDAQ
+CAG,"Conagra Brands, Inc.",13.78,21.37,35.5%,16.60,23.77,23.24,16.60,17.0%,0.81,10.16%,-0.5%,14.3%,3.4,BUYING,$+250K,1,0,🔴 2/4,↑1 ↓0,$6.59B,Consumer Non-Durables,NYSE
+SM,SM Energy Company,26.52,35.88,26.1%,29.80,24.90,26.90,29.80,11.0%,0.93,3.32%,2.3%,6.5%,3.3,SELLING,$-834K,0,1,✅ 3/4,↑0 ↓0,$6.36B,Energy Minerals,NYSE
+FLG,"Flagstar Bank, National Association",15.15,15.37,1.4%,20.81,21.51,23.71,20.81,27.2%,0.83,0.26%,-0.7%,0.0%,—,NEUTRAL,—,0,0,🟡 1/4,↑0 ↓0,$6.31B,Finance,NYSE
+CLF,Cleveland-Cliffs Inc,10.76,16.70,35.6%,19.35,13.81,11.23,19.35,44.4%,1.05,—,-20.0%,13.6%,4.0,SELLING,$-42.0M,1,3,✅ 3/4,↑1 ↓0,$6.14B,Non-Energy Minerals,NYSE
+RIG,Transocean Ltd.,5.21,7.66,32.0%,29.84,4.36,8.36,29.84,82.5%,0.70,—,-30.1%,21.8%,7.1,SELLING,$-1.5M,0,3,🔴 2/4,↑0 ↓0,$5.82B,Industrial Services,NYSE
+TFX,Teleflex Incorporated,127.79,139.67,8.5%,133.32,249.08,218.83,133.32,4.1%,1.83,1.06%,-8.2%,8.0%,3.6,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$5.66B,Health Technology,NYSE
+CRK,"Comstock Resources, Inc.",13.87,28.77,51.8%,61.90,11.41,15.57,61.90,77.6%,1.48,—,25.4%,30.5%,8.6,SELLING,$-1.0M,0,1,✅ 3/4,↑0 ↓0,$4.07B,Energy Minerals,NYSE
+MAT,"Mattel, Inc.",13.81,22.48,38.6%,17.89,17.68,19.67,17.89,22.8%,1.91,—,23.6%,14.4%,6.7,BUYING,$+1.0M,1,0,🔴 1/4,↑0 ↓0,$4.01B,Consumer Durables,NASDAQ
+PTEN,"Patterson-UTI Energy, Inc.",9.77,13.08,25.3%,13.12,8.49,11.63,13.12,25.5%,1.17,4.09%,-3.6%,6.7%,2.5,SELLING,$-17.0M,0,9,✅ 3/4,↑0 ↓0,$3.71B,Industrial Services,NASDAQ
+PVH,PVH Corp.,72.01,100.75,28.5%,72.44,86.28,97.39,72.44,0.6%,0.68,0.21%,3.3%,13.8%,3.4,SELLING,$-642K,0,1,✅ 4/4,↑0 ↓0,$3.32B,Consumer Non-Durables,NYSE
+SBCF,Seacoast Banking Corporation of Florida,32.46,35.55,8.7%,34.07,26.24,22.85,34.07,4.7%,1.17,2.34%,5.4%,5.9%,7.2,SELLING,$-1.6M,2,8,✅ 3/4,↑0 ↓0,$3.16B,Finance,NASDAQ
+HOG,"Harley-Davidson, Inc.",25.46,31.25,18.5%,32.45,30.46,34.52,32.45,21.5%,0.88,2.95%,7.4%,21.0%,7.2,BUYING,$+99K,3,5,🔴 1/4,↑0 ↓0,$2.68B,Consumer Durables,NYSE
+NWL,Newell Brands Inc,5.89,6.63,11.2%,13.92,10.72,16.08,13.92,57.7%,1.07,4.75%,-11.2%,18.8%,5.2,SELLING,$-1.3M,0,4,🟡 1/4,↑0 ↓0,$2.50B,Producer Manufacturing,NASDAQ
+WHR,Whirlpool Corporation,37.74,111.96,66.3%,76.58,108.80,109.47,76.58,50.7%,0.65,—,5.2%,0.2%,0.0,BUYING,$+199K,1,0,🔴 1/4,↑2 ↓0,$2.45B,Consumer Durables,NYSE
+ACHC,"Acadia Healthcare Company, Inc.",26.24,30.20,13.1%,30.31,49.90,49.61,30.31,13.4%,1.22,—,-44.3%,34.1%,8.6,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$2.41B,Health Services,NASDAQ
+HE,"Hawaiian Electric Industries, Inc.",13.27,17.38,23.6%,18.79,25.83,25.37,18.79,29.4%,1.40,—,8.2%,12.5%,9.3,—,—,0,0,🟡 1/4,↑0 ↓0,$2.29B,Utilities,NYSE
+KSS,Kohl's Corporation,19.09,25.22,24.3%,27.43,23.56,27.46,27.43,30.4%,0.54,2.62%,7.0%,31.3%,4.8,SELLING,$-65K,0,6,✅ 4/4,↑0 ↓0,$2.16B,Retail Trade,NYSE
+XRAY,"DENTSPLY SIRONA, Inc.",10.78,17.09,36.9%,32.09,32.75,38.37,32.09,66.4%,1.64,—,-37.7%,13.8%,4.3,BUYING,$+1.6M,10,0,🔴 1/4,↑1 ↓0,$2.16B,Health Technology,NASDAQ
+NEOG,Neogen Corp,9.51,11.43,16.8%,14.60,23.43,23.86,14.60,34.9%,0.98,—,-25.6%,7.3%,4.5,BUYING,$+2K,3,0,🟡 2/4,—,$2.07B,Health Technology,NASDAQ
