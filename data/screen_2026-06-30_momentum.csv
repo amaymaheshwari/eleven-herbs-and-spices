@@ -1,0 +1,25 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+MELI,"MercadoLibre, Inc.",1683.13,6.2%,1584.72,1394.19,917.48,11.72,—,31.3%,1.9%,1.8,BUYING,$+1.3M,3,0,🔴 1/4,↑0 ↓0,$85.33B,Retail Trade,NASDAQ
+KKR,KKR & Co Inc,88.94,3.0%,86.33,68.30,47.54,2.83,0.88%,10.2%,2.2%,3.5,BUYING,$+50.9M,8,0,✅ 3/4,↑0 ↓0,$79.86B,Finance,NYSE
+HUM,Humana Inc.,388.90,6.1%,366.66,358.81,295.09,2.51,0.91%,6.2%,6.0%,4.9,BUYING,$+150K,1,0,✅ 4/4,↑0 ↓0,$46.69B,Health Services,NYSE
+KDP,Keurig Dr Pepper Inc.,33.50,7.8%,31.07,29.27,22.22,1.80,2.75%,7.4%,5.5%,5.5,NEUTRAL,—,0,0,🟡 2/4,↑2 ↓0,$45.58B,Consumer Non-Durables,NASDAQ
+WCN,"Waste Connections, Inc.",167.13,9.1%,153.18,134.15,99.94,5.26,0.84%,12.8%,1.1%,1.4,BUYING,$+4.4M,1,7,✅ 4/4,↑0 ↓0,$42.46B,Industrial Services,NYSE
+MSCI,MSCI Inc. Class A,558.00,6.3%,525.14,459.53,309.60,,1.47%,—,2.9%,2.9,BUYING,$+1.4M,3,3,✅ 4/4,↑0 ↓0,$40.62B,Commercial Services,NYSE
+KR,Kroger Co.,55.91,7.1%,52.21,44.20,36.61,5.30,2.79%,13.5%,5.0%,4.2,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$34.25B,Retail Trade,NYSE
+AVB,"AvalonBay Communities, Inc.",192.64,5.9%,181.84,173.08,153.61,2.33,3.70%,9.7%,3.2%,2.8,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$27.33B,Finance,NYSE
+WTW,Willis Towers Watson Public Limited Company,264.70,3.0%,256.99,235.27,187.89,3.13,1.45%,20.7%,3.7%,4.4,BUYING,$+1.2M,4,1,✅ 4/4,↑0 ↓0,$25.00B,Finance,NASDAQ
+J,Jacobs Solutions Inc.,123.81,6.9%,115.86,104.06,79.26,4.44,1.16%,11.5%,6.6%,5.6,BUYING,$+285K,3,1,✅ 4/4,↑0 ↓0,$14.62B,Technology Services,NYSE
+WTRG,"Essential Utilities, Inc.",38.43,2.1%,37.64,37.47,32.04,1.58,3.56%,8.3%,1.9%,3.0,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$10.90B,Utilities,NYSE
+CAE,CAE Inc.,25.20,5.2%,23.95,23.64,19.79,2.13,—,6.1%,—,4.3,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$8.10B,Commercial Services,NYSE
+RLI,RLI Corp.,58.40,0.3%,58.22,51.02,38.82,2.99,1.23%,23.2%,8.0%,6.4,BUYING,$+1.5M,9,0,✅ 4/4,↑0 ↓0,$5.37B,Finance,NYSE
+FFIN,First Financial Bankshares Inc,34.48,2.5%,33.65,33.04,26.61,2.52,2.55%,14.6%,7.9%,10.2,BUYING,$+912K,14,0,✅ 3/4,↑1 ↓0,$4.94B,Finance,NASDAQ
+SLGN,Silgan Holdings Inc.,46.26,4.4%,44.31,40.07,33.30,2.11,1.82%,12.9%,10.3%,10.2,NEUTRAL,—,0,0,🟡 2/4,↑1 ↓0,$4.89B,Process Industries,NYSE
+HRI,"Herc Holdings, Inc.",146.29,7.7%,135.86,108.20,83.66,2.57,1.91%,-0.3%,7.5%,3.6,BUYING,$+427K,1,0,✅ 3/4,↑1 ↓0,$4.89B,Finance,NYSE
+LOPE,"Grand Canyon Education, Inc.",141.75,6.3%,133.37,120.04,98.09,5.44,—,29.8%,6.6%,6.1,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$3.76B,Commercial Services,NASDAQ
+GPI,"Group 1 Automotive, Inc.",297.85,4.5%,284.97,221.32,158.74,1.25,0.74%,11.1%,11.5%,5.2,NEUTRAL,—,0,0,🔴 1/4,↑1 ↓0,$3.54B,Retail Trade,NYSE
+MGEE,"MGE Energy, Inc.",80.24,6.6%,75.27,70.97,59.92,2.19,2.37%,10.9%,5.1%,4.5,BUYING,$+29K,1,0,🟡 2/4,↑0 ↓0,$3.03B,Utilities,NASDAQ
+APAM,"Artisan Partners Asset Management, Inc. Class A",34.99,7.0%,32.70,29.29,23.41,6.38,9.69%,69.7%,8.5%,6.1,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$2.84B,Finance,NYSE
+CXT,"Crane NXT, Co.",49.14,3.0%,47.70,39.88,32.33,2.28,1.47%,11.1%,18.2%,8.0,BUYING,$+1.2M,6,1,✅ 4/4,↑0 ↓0,$2.83B,Producer Manufacturing,NYSE
+HUBG,"Hub Group, Inc. Class A",43.98,9.5%,40.16,35.37,29.50,1.58,1.14%,6.3%,8.1%,4.4,NEUTRAL,—,0,0,🟡 1/4,↑0 ↓0,$2.69B,Transportation,NASDAQ
+HTO,H2O America,61.01,7.7%,56.63,56.34,48.03,1.39,2.88%,6.5%,15.9%,11.7,BUYING,$+10.6M,3,1,🟡 2/4,↑2 ↓0,$2.55B,Utilities,NASDAQ
+TGLS,Tecnoglass Inc.,46.21,1.9%,45.34,32.78,22.91,2.79,1.30%,21.0%,10.5%,7.0,BUYING,$+27.0M,4,0,🔴 2/4,↑0 ↓0,$2.14B,Producer Manufacturing,NYSE
