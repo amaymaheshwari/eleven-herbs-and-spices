@@ -1,0 +1,17 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+BDX,"Becton, Dickinson and Company",158.08,187.35,15.6%,171.43,171.43,150.48,94.61,7.8%,1.80,2.66%,5.7%,3.0%,2.9,SELLING,$-1.3M,0,11,✅ 4/4,↑0 ↓0,$43.56B,Health Technology,NYSE
+ROP,"Roper Technologies, Inc.",364.20,575.77,36.7%,437.13,437.13,342.89,198.14,16.7%,1.98,1.00%,9.0%,5.6%,4.7,BUYING,$+502K,1,0,✅ 4/4,↑0 ↓0,$36.75B,Technology Services,NASDAQ
+LEN,Lennar Corporation Class A,88.21,144.24,38.8%,93.37,93.37,72.84,48.93,5.5%,0.98,2.27%,7.2%,0.3%,0.2,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$21.19B,Consumer Durables,NYSE
+TSN,"Tyson Foods, Inc. Class A",58.89,69.48,15.2%,58.94,58.94,53.62,32.99,0.1%,1.12,3.46%,2.5%,3.6%,2.7,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$20.32B,Consumer Non-Durables,NYSE
+COO,"Cooper Companies, Inc.",74.20,89.83,17.4%,85.51,85.51,71.12,42.68,13.2%,1.76,—,2.9%,4.2%,2.1,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$14.47B,Health Technology,NASDAQ
+CNH,CNH Industrial NV,10.72,14.27,24.9%,10.78,10.78,9.29,,0.6%,1.71,0.93%,4.9%,7.7%,6.0,SELLING,$-490K,0,1,🟡 2/4,↑1 ↓0,$13.29B,Producer Manufacturing,NYSE
+ICLR,ICON Plc,173.06,211.00,18.0%,206.92,206.92,158.89,89.09,16.4%,1.43,—,1.9%,4.3%,2.8,—,—,0,0,✅ 3/4,↑0 ↓0,$13.25B,Commercial Services,NASDAQ
+RVTY,"Revvity, Inc.",113.76,118.30,3.8%,118.18,118.18,95.00,57.76,3.7%,1.77,0.25%,3.2%,11.2%,5.7,SELLING,$-4.7M,0,6,✅ 4/4,↑0 ↓0,$12.69B,Health Technology,NYSE
+EMN,Eastman Chemical Company,68.86,83.47,17.5%,75.13,75.13,68.40,44.69,8.3%,1.31,4.88%,6.7%,7.0%,5.3,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$7.87B,Process Industries,NYSE
+REXR,"Rexford Industrial Realty, Inc.",34.21,44.38,22.9%,42.66,42.66,32.67,,19.8%,0.96,5.09%,2.7%,6.1%,4.9,SELLING,$-1.5M,3,2,✅ 3/4,↑1 ↓0,$7.72B,Finance,NYSE
+RYN,Rayonier Inc.,21.49,27.34,21.4%,23.38,23.38,21.23,15.66,8.1%,1.22,4.84%,12.9%,3.8%,4.2,SELLING,$-3.7M,0,2,✅ 4/4,↑0 ↓0,$6.50B,Finance,NYSE
+ICL,ICL Group Ltd.,5.03,7.25,30.7%,5.28,5.28,4.62,,4.8%,1.07,3.73%,4.4%,0.5%,2.8,—,—,0,0,🟡 0/4,↑0 ↓0,$6.49B,Process Industries,NYSE
+PPLI,People Incorporated,46.75,46.88,0.3%,56.23,56.23,40.99,23.07,16.9%,0.77,—,2.4%,15.9%,8.0,SELLING,$-279K,0,1,🔴 0/4,↑0 ↓0,$3.48B,Technology Services,NASDAQ
+FUL,H.B. Fuller Company,58.06,68.63,15.4%,59.19,59.19,51.98,35.06,1.9%,1.50,1.69%,9.4%,5.7%,3.0,BUYING,$+295K,1,0,✅ 4/4,↑0 ↓0,$3.12B,Process Industries,NYSE
+ASH,Ashland Inc.,67.01,68.25,1.8%,74.06,74.06,65.73,42.45,9.5%,1.64,2.51%,-31.0%,13.8%,5.2,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$3.07B,Consumer Non-Durables,NYSE
+IOSP,Innospec Inc.,83.10,92.14,9.8%,88.89,88.89,73.21,43.89,6.5%,1.53,2.15%,8.8%,2.3%,2.1,SELLING,$-902K,0,13,✅ 4/4,—,$2.05B,Process Industries,NASDAQ

@@ -1,0 +1,18 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+T,AT&T Inc,20.58,8.0%,19.06,18.02,16.39,1.31,5.39%,20.1%,1.8%,2.8,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$143.00B,Communications,NYSE
+SPGI,"S&P Global, Inc.",439.89,9.4%,401.97,364.09,264.73,4.18,0.88%,14.8%,1.7%,2.3,BUYING,$+3.6M,4,0,✅ 3/4,↑0 ↓0,$130.21B,Commercial Services,NYSE
+KKR,KKR & Co Inc,93.84,6.2%,88.39,70.94,49.32,2.99,0.83%,10.2%,2.2%,3.5,BUYING,$+50.9M,8,0,✅ 3/4,↑0 ↓0,$84.26B,Finance,NYSE
+HUM,Humana Inc.,396.75,8.5%,365.64,359.37,294.44,2.56,0.89%,6.2%,6.0%,4.9,BUYING,$+150K,1,0,✅ 4/4,↑0 ↓0,$47.63B,Health Services,NYSE
+KDP,Keurig Dr Pepper Inc.,33.30,6.6%,31.25,29.44,22.68,1.79,2.76%,7.4%,5.5%,5.5,NEUTRAL,—,0,0,🟡 2/4,↑2 ↓0,$45.31B,Consumer Non-Durables,NASDAQ
+WCN,"Waste Connections, Inc.",168.82,10.0%,153.50,134.43,100.15,5.31,0.83%,12.8%,1.1%,1.4,BUYING,$+4.4M,1,7,✅ 4/4,↑0 ↓0,$42.89B,Industrial Services,NYSE
+KR,Kroger Co.,58.22,9.8%,53.04,44.82,36.87,5.51,2.68%,13.5%,5.0%,4.2,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$35.67B,Retail Trade,NYSE
+AVB,"AvalonBay Communities, Inc.",193.96,6.6%,182.00,171.69,153.48,2.35,3.67%,9.7%,3.2%,2.8,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$27.52B,Finance,NYSE
+AWK,"American Water Works Company, Inc.",136.86,2.4%,133.62,130.10,102.18,2.42,2.62%,10.2%,6.6%,4.7,NEUTRAL,—,0,0,🔴 1/4,↑1 ↓0,$26.73B,Utilities,NYSE
+IP,International Paper Company,38.79,3.3%,37.57,36.25,33.96,1.39,4.77%,-16.0%,17.1%,8.1,BUYING,$+4.3M,4,0,🔴 0/4,↑0 ↓0,$20.54B,Process Industries,NYSE
+WTRG,"Essential Utilities, Inc.",39.38,3.8%,37.94,37.67,32.32,1.62,3.48%,8.3%,1.9%,3.0,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$11.17B,Utilities,NYSE
+RLI,RLI Corp.,62.52,5.4%,59.30,51.87,39.59,3.20,1.15%,23.2%,8.0%,6.4,BUYING,$+1.5M,9,0,✅ 4/4,↑0 ↓0,$5.75B,Finance,NYSE
+FFIN,First Financial Bankshares Inc,34.88,5.4%,33.09,32.79,26.45,2.55,2.52%,14.6%,7.9%,10.2,BUYING,$+912K,14,0,✅ 3/4,↑1 ↓0,$5.00B,Finance,NASDAQ
+SLGN,Silgan Holdings Inc.,46.39,4.3%,44.48,40.22,33.40,2.11,1.81%,12.9%,10.3%,10.2,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$4.90B,Process Industries,NYSE
+APAM,"Artisan Partners Asset Management, Inc. Class A",35.41,6.1%,33.38,29.91,23.91,6.46,9.57%,69.7%,8.5%,6.1,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$2.87B,Finance,NYSE
+HTO,H2O America,62.42,9.2%,57.14,56.57,48.47,1.42,2.82%,6.5%,15.9%,11.7,BUYING,$+10.7M,4,2,🟡 2/4,↑2 ↓0,$2.61B,Utilities,NASDAQ
+TGLS,Tecnoglass Inc.,45.62,0.8%,45.25,32.73,22.89,2.75,1.32%,21.0%,10.5%,7.0,BUYING,$+27.0M,4,0,🔴 2/4,↑0 ↓0,$2.12B,Producer Manufacturing,NYSE
