@@ -1,0 +1,18 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+T,AT&T Inc,20.58,8.0%,19.06,18.02,16.39,1.31,5.39%,20.1%,1.8%,2.8,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$143.00B,Communications,NYSE
+KKR,KKR & Co Inc,95.97,8.4%,88.50,71.01,49.36,3.05,0.81%,10.2%,2.2%,3.5,BUYING,$+50.9M,8,0,✅ 3/4,↑0 ↓0,$86.17B,Finance,NYSE
+HUM,Humana Inc.,392.86,7.5%,365.44,359.24,294.36,2.54,0.90%,6.2%,6.0%,4.9,BUYING,$+150K,1,0,✅ 4/4,↑0 ↓0,$47.17B,Health Services,NYSE
+KDP,Keurig Dr Pepper Inc.,31.75,1.8%,31.17,29.38,22.65,1.71,2.90%,7.4%,5.5%,5.5,NEUTRAL,—,0,0,🟡 2/4,↑2 ↓0,$43.20B,Consumer Non-Durables,NASDAQ
+WCN,"Waste Connections, Inc.",167.62,9.2%,153.44,134.39,100.13,5.27,0.84%,12.8%,1.1%,1.4,BUYING,$+4.4M,1,7,✅ 4/4,↑0 ↓0,$42.59B,Industrial Services,NYSE
+KR,Kroger Co.,58.25,9.8%,53.05,44.83,36.87,5.52,2.68%,13.5%,5.0%,4.2,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$35.69B,Retail Trade,NYSE
+AVB,"AvalonBay Communities, Inc.",194.35,6.8%,182.02,171.70,153.48,2.35,3.66%,9.7%,3.2%,2.8,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$27.57B,Finance,NYSE
+IP,International Paper Company,38.58,2.7%,37.56,36.24,33.95,1.38,4.80%,-16.0%,17.1%,8.1,BUYING,$+4.3M,4,0,🔴 0/4,↑0 ↓0,$20.43B,Process Industries,NYSE
+WTRG,"Essential Utilities, Inc.",38.66,2.0%,37.90,37.65,32.31,1.59,3.54%,8.3%,1.9%,3.0,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$10.97B,Utilities,NYSE
+RLI,RLI Corp.,61.78,4.2%,59.26,51.85,39.58,3.16,1.17%,23.2%,8.0%,6.4,BUYING,$+1.5M,9,0,✅ 4/4,↑0 ↓0,$5.68B,Finance,NYSE
+FFIN,First Financial Bankshares Inc,34.75,5.0%,33.09,32.79,26.45,2.54,2.53%,14.6%,7.9%,10.2,BUYING,$+912K,14,0,✅ 3/4,↑1 ↓0,$4.98B,Finance,NASDAQ
+SLGN,Silgan Holdings Inc.,46.17,3.3%,44.71,40.43,33.58,2.10,1.82%,12.9%,10.3%,10.2,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$4.88B,Process Industries,NYSE
+GPI,"Group 1 Automotive, Inc.",296.81,1.9%,291.23,229.66,163.93,1.24,0.74%,11.1%,11.5%,5.2,NEUTRAL,—,0,0,🔴 1/4,↑1 ↓0,$3.53B,Retail Trade,NYSE
+MGEE,"MGE Energy, Inc.",82.96,8.1%,76.76,72.25,61.33,2.26,2.29%,10.9%,5.1%,4.5,BUYING,$+29K,1,0,🟡 2/4,↑0 ↓0,$3.13B,Utilities,NASDAQ
+CXT,"Crane NXT, Co.",51.98,9.0%,47.68,39.92,32.30,2.41,1.39%,11.1%,18.2%,8.0,BUYING,$+1.2M,6,1,✅ 4/4,↑0 ↓0,$2.99B,Producer Manufacturing,NYSE
+APAM,"Artisan Partners Asset Management, Inc. Class A",36.18,8.3%,33.42,29.94,23.92,6.60,9.37%,69.7%,8.5%,6.1,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$2.93B,Finance,NYSE
+HTO,H2O America,61.21,7.2%,57.08,56.53,48.44,1.40,2.88%,6.5%,15.9%,11.7,BUYING,$+10.7M,4,2,🟡 2/4,↑2 ↓0,$2.56B,Utilities,NASDAQ
