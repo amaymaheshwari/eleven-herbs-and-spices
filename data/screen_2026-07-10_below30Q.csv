@@ -1,0 +1,19 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+BDX,"Becton, Dickinson and Company",150.85,187.35,19.5%,171.19,171.19,150.34,94.54,11.9%,1.72,2.78%,5.7%,3.0%,2.9,SELLING,$-1.3M,0,11,✅ 4/4,↑0 ↓0,$41.57B,Health Technology,NYSE
+ROP,"Roper Technologies, Inc.",355.94,566.24,37.1%,435.80,435.80,341.88,197.57,18.3%,1.94,1.02%,9.0%,5.6%,4.7,BUYING,$+502K,1,0,✅ 4/4,↑1 ↓0,$35.92B,Technology Services,NASDAQ
+MSTR,Strategy Inc Class A,93.89,457.22,79.5%,97.66,97.66,65.01,36.37,3.9%,0.89,—,-30.8%,12.2%,2.2,SELLING,$-27.5M,1,31,🔴 1/4,↑1 ↓0,$32.90B,Technology Services,NASDAQ
+LEN,Lennar Corporation Class A,84.35,144.24,41.5%,93.24,93.24,72.76,48.89,9.5%,0.94,2.37%,7.2%,0.3%,0.2,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$20.27B,Consumer Durables,NYSE
+TSN,"Tyson Foods, Inc. Class A",57.71,69.48,16.9%,59.36,59.36,54.03,33.24,2.8%,1.10,3.53%,2.5%,3.6%,2.7,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$19.92B,Consumer Non-Durables,NYSE
+AMCR,Amcor PLC,42.70,50.94,16.2%,44.08,44.08,40.30,,3.1%,1.69,6.09%,8.7%,6.3%,7.2,—,—,0,0,🟡 2/4,↑0 ↓0,$19.74B,Process Industries,NYSE
+ALB,Albemarle Corporation,128.42,221.00,41.9%,134.90,134.90,109.72,68.62,4.8%,1.99,1.26%,-2.3%,0.1%,0.0,SELLING,$-7.4M,0,4,✅ 3/4,↑0 ↓0,$15.15B,Process Industries,NYSE
+ICLR,ICON Plc,168.77,211.00,20.0%,206.78,206.78,158.80,89.04,18.4%,1.39,—,1.9%,4.3%,2.8,—,—,0,0,✅ 3/4,↑0 ↓0,$12.92B,Commercial Services,NASDAQ
+CNH,CNH Industrial NV,10.28,13.68,24.9%,10.77,10.77,9.28,,4.5%,1.64,0.97%,4.9%,—,—,—,—,0,0,—,—,$12.75B,Producer Manufacturing,NYSE
+RVTY,"Revvity, Inc.",112.95,118.30,4.5%,118.15,118.15,94.98,57.75,4.4%,1.76,0.25%,3.2%,11.2%,5.7,SELLING,$-4.7M,0,6,✅ 4/4,↑0 ↓0,$12.60B,Health Technology,NYSE
+GME,GameStop Corp. Class A,21.95,28.10,21.9%,21.99,21.99,15.41,,0.2%,1.69,—,14.1%,13.9%,9.6,BUYING,$+20.9M,4,6,✅ 3/3,—,$9.85B,Retail Trade,NYSE
+REXR,"Rexford Industrial Realty, Inc.",34.03,44.38,23.3%,42.65,42.65,32.67,,20.2%,0.95,5.11%,2.7%,6.1%,4.9,SELLING,$-1.5M,3,2,✅ 3/4,↑1 ↓0,$7.68B,Finance,NYSE
+ICL,ICL Group Ltd.,4.85,7.10,31.7%,5.32,5.32,4.66,,8.8%,1.04,3.87%,4.4%,0.5%,2.8,—,—,0,0,🟡 0/4,↑0 ↓0,$6.26B,Process Industries,NYSE
+POST,"Post Holdings, Inc.",84.70,117.28,27.8%,84.91,84.91,69.89,,0.2%,1.20,—,9.6%,17.6%,8.1,SELLING,$-1.4M,0,2,✅ 4/4,↑1 ↓0,$3.84B,Consumer Non-Durables,NYSE
+PPLI,People Incorporated,47.51,48.32,1.7%,56.26,56.26,41.00,23.07,15.6%,0.78,—,2.4%,15.9%,8.0,SELLING,$-279K,0,1,🔴 0/4,↑0 ↓0,$3.53B,Technology Services,NASDAQ
+FUL,H.B. Fuller Company,55.10,68.63,19.7%,59.09,59.09,51.92,35.03,6.8%,1.42,1.78%,9.4%,5.7%,3.0,—,—,0,0,—,—,$2.96B,Process Industries,NYSE
+FSK,FS KKR Capital Corp.,10.56,22.68,53.4%,11.25,11.25,10.50,,6.1%,0.56,15.91%,-9.3%,5.3%,5.2,BUYING,$+75K,2,0,🔴 0/4,↑0 ↓0,$2.96B,Miscellaneous,NYSE
+KWR,Quaker Houghton,147.29,183.00,19.5%,167.37,167.37,144.70,84.00,12.0%,1.86,1.38%,0.3%,—,—,—,—,0,0,—,—,$2.56B,Process Industries,NYSE
