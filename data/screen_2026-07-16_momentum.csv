@@ -1,0 +1,18 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+AVB,"AvalonBay Communities, Inc.",190.29,4.7%,181.82,171.57,153.40,2.30,3.74%,9.7%,2.9%,2.4,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$27.03B,Finance,NYSE
+WTRG,"Essential Utilities, Inc.",37.93,0.2%,37.87,37.62,32.30,1.56,3.61%,8.3%,1.9%,2.2,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$10.76B,Utilities,NYSE
+MTDR,Matador Resources Company,52.64,3.4%,50.91,38.91,32.64,1.17,2.85%,8.9%,11.0%,7.0,BUYING,$+720K,12,0,✅ 4/4,↑0 ↓0,$6.54B,Energy Minerals,NYSE
+EXP,Eagle Materials Inc.,206.53,8.1%,191.02,159.60,128.82,4.37,0.48%,28.9%,8.3%,4.1,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$6.38B,Non-Energy Minerals,NYSE
+SON,Sonoco Products Company,53.73,9.0%,49.28,48.57,43.28,1.49,4.02%,20.2%,13.5%,7.8,BUYING,$+650K,2,2,🟡 1/4,↑0 ↓0,$5.31B,Process Industries,NYSE
+BCPC,Balchem Corp,162.70,10.0%,147.93,134.49,108.83,4.07,0.59%,12.7%,2.2%,1.9,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$5.23B,Consumer Non-Durables,NASDAQ
+HRB,"H&R Block, Inc.",41.14,2.6%,40.10,32.30,27.01,,4.08%,—,24.2%,8.4,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$5.21B,Consumer Services,NYSE
+FFIN,First Financial Bankshares Inc,35.22,6.4%,33.11,32.81,26.46,2.58,2.50%,14.6%,8.1%,7.3,BUYING,$+912K,14,0,✅ 3/4,↑1 ↓0,$5.05B,Finance,NASDAQ
+HRI,"Herc Holdings, Inc.",148.94,9.1%,136.54,108.66,83.94,2.62,1.88%,-0.3%,7.4%,2.9,BUYING,$+427K,1,0,✅ 3/4,↑1 ↓0,$4.97B,Finance,NYSE
+SLGN,Silgan Holdings Inc.,45.58,2.6%,44.44,40.19,33.39,2.08,1.84%,12.9%,10.1%,9.4,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$4.82B,Process Industries,NYSE
+ABG,"Asbury Automotive Group, Inc.",218.43,1.0%,216.34,184.65,137.75,1.03,—,14.5%,10.9%,4.8,BUYING,$+1.2M,3,0,🟡 2/4,↑1 ↓0,$4.07B,Retail Trade,NYSE
+GPI,"Group 1 Automotive, Inc.",319.40,9.4%,291.91,230.05,164.12,1.34,0.69%,11.1%,11.9%,4.5,NEUTRAL,—,0,0,🔴 1/4,↑1 ↓0,$3.80B,Retail Trade,NYSE
+LOPE,"Grand Canyon Education, Inc.",141.77,6.3%,133.37,120.04,98.09,5.44,—,29.8%,6.5%,4.1,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$3.76B,Commercial Services,NASDAQ
+MGEE,"MGE Energy, Inc.",80.50,5.6%,76.21,71.75,60.91,2.19,2.36%,10.9%,6.3%,5.0,BUYING,$+29K,1,0,🟡 2/4,↑0 ↓0,$3.04B,Utilities,NASDAQ
+CXT,"Crane NXT, Co.",51.41,7.9%,47.65,39.90,32.28,2.39,1.40%,11.1%,20.0%,6.0,BUYING,$+1.2M,6,1,✅ 4/4,—,$2.96B,Producer Manufacturing,NYSE
+HTO,H2O America,62.65,9.6%,57.15,56.58,48.47,1.43,2.81%,6.5%,17.3%,11.7,BUYING,$+11.0M,6,2,🟡 2/4,↑1 ↓0,$2.62B,Utilities,NASDAQ
+TGLS,Tecnoglass Inc,45.67,0.9%,45.25,32.73,22.90,2.76,1.31%,21.0%,9.4%,5.6,BUYING,$+27.0M,4,0,🔴 2/4,↑0 ↓0,$2.12B,Producer Manufacturing,NYSE
