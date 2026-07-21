@@ -1,0 +1,9 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+WAT,Waters Corporation,357.54,9.6%,326.14,298.65,240.61,2.30,—,5.2%,3.8%,3.7,BUYING,$+451K,2,0,✅ 3/4,↑2 ↓0,$35.11B,Health Technology,NYSE
+AWK,"American Water Works Company, Inc.",133.65,0.1%,133.46,129.99,102.11,2.36,2.65%,10.2%,7.3%,4.6,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$26.10B,Utilities,NYSE
+RPM,RPM International Inc.,101.63,3.1%,98.56,88.76,70.24,4.13,2.06%,22.8%,3.7%,4.9,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$12.97B,Process Industries,NYSE
+WTRG,"Essential Utilities, Inc.",39.39,3.8%,37.94,37.67,32.32,1.62,3.45%,8.3%,1.9%,2.2,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$11.17B,Utilities,NYSE
+SLGN,Silgan Holdings Inc.,46.07,3.6%,44.47,40.21,33.40,2.10,1.78%,12.9%,10.1%,9.4,NEUTRAL,—,0,0,🟡 2/4,↑1 ↓0,$4.87B,Process Industries,NYSE
+LOPE,"Grand Canyon Education, Inc.",139.46,4.7%,133.26,119.96,98.04,5.35,—,29.8%,6.5%,4.1,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$3.70B,Commercial Services,NASDAQ
+GPI,"Group 1 Automotive, Inc.",305.95,5.1%,291.24,229.60,163.85,1.28,0.67%,11.1%,11.9%,4.5,NEUTRAL,—,0,0,🔴 1/4,↑1 ↓0,$3.64B,Retail Trade,NYSE
+CXT,"Crane NXT, Co.",51.09,7.3%,47.63,39.89,32.28,2.37,1.40%,11.1%,20.0%,6.0,BUYING,$+1.2M,6,1,✅ 4/4,—,$2.94B,Producer Manufacturing,NYSE

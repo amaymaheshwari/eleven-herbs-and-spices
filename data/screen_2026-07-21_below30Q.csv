@@ -1,0 +1,28 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+BDX,"Becton, Dickinson and Company",154.48,187.35,17.5%,171.31,171.31,150.41,94.57,9.8%,1.76,2.66%,5.7%,4.6%,3.9,SELLING,$-980K,0,10,✅ 4/4,↑0 ↓0,$42.57B,Health Technology,NYSE
+ROP,"Roper Technologies, Inc.",362.84,566.24,35.9%,436.03,436.03,342.02,197.64,16.8%,1.97,1.00%,9.0%,6.6%,4.3,BUYING,$+502K,1,0,—,↑1 ↓0,$36.62B,Technology Services,NASDAQ
+TSN,"Tyson Foods, Inc. Class A",58.00,69.48,16.5%,58.91,58.91,53.61,32.98,1.5%,1.11,3.53%,2.5%,3.7%,2.5,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$20.02B,Consumer Non-Durables,NYSE
+AMCR,Amcor PLC,43.23,50.94,15.1%,44.10,44.10,40.31,,2.0%,1.71,5.92%,8.7%,6.7%,8.2,—,—,0,0,🟡 2/4,↑1 ↓0,$19.99B,Process Industries,NYSE
+LEN,Lennar Corporation Class A,82.90,144.24,42.5%,92.66,92.66,72.31,48.59,10.5%,0.92,2.38%,7.2%,0.3%,0.2,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$19.92B,Consumer Durables,NYSE
+LYB,LyondellBasell Industries NV,60.73,83.94,27.7%,64.79,64.79,60.21,,6.3%,1.95,4.66%,-6.1%,5.0%,2.4,SELLING,$-27.0M,0,2,🔴 2/4,↑0 ↓0,$19.60B,Process Industries,NYSE
+RCI,Rogers Communications Inc. Class B,34.85,41.14,15.3%,37.17,37.17,34.81,25.00,6.2%,1.46,4.06%,49.3%,—,12.1,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$18.90B,Communications,NYSE
+COO,"Cooper Companies, Inc.",71.59,89.83,20.3%,85.43,85.43,71.07,42.65,16.2%,1.69,—,2.9%,4.3%,1.9,NEUTRAL,—,0,0,✅ 4/4,—,$13.96B,Health Technology,NASDAQ
+ALB,Albemarle Corporation,118.20,221.00,46.5%,134.56,134.56,109.52,68.51,12.2%,1.83,1.34%,-2.3%,0.1%,0.0,SELLING,$-7.4M,0,4,✅ 3/4,↑0 ↓0,$13.94B,Process Industries,NYSE
+CNH,CNH Industrial NV,10.33,13.47,23.3%,10.77,10.77,9.28,,4.1%,1.65,0.94%,4.9%,8.9%,6.7,SELLING,$-490K,0,1,🟡 2/4,↑1 ↓0,$12.81B,Producer Manufacturing,NYSE
+ICLR,ICON Plc,166.18,211.00,21.2%,206.69,206.69,158.75,89.02,19.6%,1.37,—,1.9%,4.4%,2.5,—,—,0,0,✅ 3/4,↑0 ↓0,$12.72B,Commercial Services,NASDAQ
+RVTY,"Revvity, Inc.",106.44,118.30,10.0%,117.86,117.86,94.80,57.65,9.7%,1.65,0.25%,3.2%,10.3%,4.9,SELLING,$-4.7M,0,6,✅ 4/4,↑0 ↓0,$11.87B,Health Technology,NYSE
+GME,GameStop Corp. Class A,21.76,28.10,22.6%,21.99,21.99,15.41,,1.0%,1.67,—,14.1%,13.6%,9.2,SELLING,$-714K,1,5,—,—,$9.76B,Retail Trade,NYSE
+REXR,"Rexford Industrial Realty, Inc.",36.91,44.38,16.8%,42.75,42.75,32.73,,13.7%,1.03,4.64%,2.7%,6.4%,3.9,SELLING,$-1.5M,3,2,✅ 3/4,↑1 ↓0,$8.33B,Finance,NYSE
+BLDR,"Builders FirstSource, Inc.",72.70,151.03,51.9%,86.34,86.34,56.93,,15.8%,1.95,—,7.0%,—,—,BUYING,$+4.0M,1,1,🔴 2/4,↑0 ↓0,$7.82B,Retail Trade,NYSE
+ICL,ICL Group Ltd.,5.00,7.08,29.4%,5.28,5.28,4.62,,5.3%,1.07,3.71%,4.4%,0.4%,2.0,—,—,0,0,—,↑0 ↓0,$6.45B,Process Industries,NYSE
+RYN,Rayonier Inc.,21.26,27.34,22.2%,23.37,23.37,21.23,15.66,9.0%,1.20,4.77%,12.9%,4.0%,4.4,—,—,0,0,✅ 4/4,↑0 ↓0,$6.43B,Finance,NYSE
+PPLI,People Incorporated,44.72,48.32,7.5%,56.17,56.17,40.95,23.05,20.4%,0.73,—,2.4%,15.4%,7.3,SELLING,$-279K,0,1,—,↑0 ↓0,$3.33B,Technology Services,NASDAQ
+ASH,Ashland Inc.,67.70,69.64,2.8%,74.08,74.08,65.75,42.46,8.6%,1.66,2.45%,-31.0%,14.1%,4.5,—,—,0,0,🔴 1/4,↑0 ↓0,$3.10B,Consumer Non-Durables,NYSE
+FSK,FS KKR Capital Corp.,10.86,22.48,51.7%,11.26,11.26,10.51,,3.5%,0.58,15.37%,-9.3%,5.2%,5.1,BUYING,$+75K,2,0,🔴 0/4,↑0 ↓0,$3.04B,Miscellaneous,NYSE
+FUL,H.B. Fuller Company,55.43,68.63,19.2%,59.11,59.11,51.92,35.03,6.2%,1.43,1.72%,9.4%,5.8%,2.6,BUYING,$+295K,1,0,✅ 4/4,↑0 ↓0,$2.98B,Process Industries,NYSE
+VC,Visteon Corporation,101.61,129.10,21.3%,101.77,101.77,93.12,,0.2%,1.74,1.24%,11.6%,12.1%,3.9,SELLING,$-11.8M,0,8,✅ 3/4,↑0 ↓0,$2.71B,Producer Manufacturing,NASDAQ
+KWR,Quaker Houghton,148.04,183.00,19.1%,166.86,166.86,144.25,83.74,11.3%,1.87,1.35%,0.3%,16.1%,10.5,SELLING,$-107K,0,1,🔴 1/4,↑1 ↓0,$2.57B,Process Industries,NYSE
+PBH,Prestige Consumer Healthcare Inc,50.41,77.45,34.9%,55.55,55.55,50.41,,9.2%,1.26,—,10.2%,8.2%,4.2,SELLING,$-186K,0,5,🔴 0/4,↑0 ↓0,$2.39B,Health Technology,NYSE
+ROG,Rogers Corporation,130.82,169.00,22.6%,146.75,146.75,124.86,82.60,10.9%,1.95,—,-4.5%,4.1%,1.5,SELLING,$-1.6M,0,6,—,↑0 ↓0,$2.33B,Process Industries,NYSE
+CBZ,"CBIZ, Inc.",41.83,77.91,46.3%,44.79,44.79,32.36,19.24,6.6%,1.20,—,8.1%,8.5%,4.7,SELLING,$-116K,2,1,✅ 3/4,↑1 ↓0,$2.24B,Commercial Services,NYSE
+IOSP,Innospec Inc.,83.95,92.14,8.9%,88.91,88.91,73.22,43.90,5.6%,1.54,2.12%,8.8%,2.8%,2.2,SELLING,$-902K,0,13,✅ 4/4,—,$2.07B,Process Industries,NASDAQ
