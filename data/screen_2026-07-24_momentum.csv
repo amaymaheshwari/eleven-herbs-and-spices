@@ -1,0 +1,24 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+SPGI,"S&P Global, Inc.",420.00,4.7%,400.97,363.43,264.34,3.99,0.92%,14.8%,1.2%,1.4,BUYING,$+3.6M,4,0,✅ 3/4,↑0 ↓0,$124.32B,Commercial Services,NYSE
+KKR,KKR & Co Inc,95.97,8.4%,88.50,71.01,49.36,3.05,0.81%,10.2%,2.3%,3.1,BUYING,$+50.9M,8,0,✅ 3/4,↑0 ↓0,$86.17B,Finance,NYSE
+AZO,"AutoZone, Inc.",2923.50,0.6%,2907.35,2348.47,1692.81,,—,—,3.4%,0.9,BUYING,$+319K,1,1,🔴 2/4,↑0 ↓0,$47.73B,Retail Trade,NYSE
+HUM,Humana Inc.,394.50,7.9%,365.52,359.29,294.39,2.55,0.90%,6.2%,4.1%,2.8,BUYING,$+150K,1,0,✅ 4/4,↑0 ↓0,$47.36B,Health Services,NYSE
+WCN,"Waste Connections, Inc.",167.99,9.5%,153.46,134.40,100.13,5.35,0.83%,13.0%,1.3%,1.4,BUYING,$+4.4M,1,7,✅ 4/4,↑0 ↓0,$42.68B,Industrial Services,NYSE
+MSCI,MSCI Inc. Class A,552.51,5.0%,526.24,460.50,310.28,,1.48%,—,2.2%,1.8,BUYING,$+1.4M,3,3,✅ 3/4,↑1 ↓0,$40.17B,Commercial Services,NYSE
+AVB,"AvalonBay Communities, Inc.",190.80,4.9%,181.84,171.58,153.41,,3.73%,—,2.9%,2.4,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$27.11B,Finance,NYSE
+AWK,"American Water Works Company, Inc.",134.41,0.7%,133.50,130.02,102.13,2.38,2.66%,10.2%,7.3%,4.6,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$26.25B,Utilities,NYSE
+SMCI,"Super Micro Computer, Inc.",31.20,0.1%,31.18,21.69,14.03,2.48,—,17.9%,20.8%,1.4,NEUTRAL,—,0,0,🔴 2/4,—,$20.18B,Electronic Technology,NASDAQ
+IP,International Paper Company,37.91,1.0%,37.52,36.22,33.94,1.36,4.88%,-16.0%,18.7%,8.5,BUYING,$+4.3M,4,0,🔴 0/4,↑0 ↓0,$20.07B,Process Industries,NYSE
+RPM,RPM International Inc.,104.77,6.1%,98.72,88.86,70.30,4.04,2.06%,21.3%,3.7%,4.9,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$13.38B,Process Industries,NYSE
+WTRG,"Essential Utilities, Inc.",39.59,4.3%,37.95,37.68,32.33,1.63,3.46%,8.3%,1.9%,2.2,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$11.23B,Utilities,NYSE
+MTDR,Matador Resources Company,51.71,1.7%,50.87,38.88,32.62,1.15,2.90%,8.9%,11.0%,7.0,BUYING,$+720K,12,0,✅ 4/4,↑0 ↓0,$6.42B,Energy Minerals,NYSE
+EXP,Eagle Materials Inc.,207.11,8.4%,191.05,159.62,128.84,4.39,0.48%,28.9%,8.3%,4.1,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$6.40B,Non-Energy Minerals,NYSE
+RLI,RLI Corp.,61.16,3.3%,59.23,51.83,39.56,,1.18%,—,8.9%,6.9,BUYING,$+1.1M,7,0,✅ 4/4,↑0 ↓0,$5.62B,Finance,NYSE
+BCPC,Balchem Corp,161.00,8.9%,147.84,134.43,108.80,4.03,0.60%,12.7%,2.2%,1.9,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$5.17B,Consumer Non-Durables,NASDAQ
+FFIN,First Financial Bankshares Inc,34.50,4.3%,33.07,32.78,26.44,2.48,2.55%,14.4%,8.1%,7.3,BUYING,$+912K,14,0,🟡 2/4,↑1 ↓0,$4.94B,Finance,NASDAQ
+SLGN,Silgan Holdings Inc.,45.46,2.3%,44.44,40.19,33.38,2.07,1.85%,12.9%,10.1%,9.4,NEUTRAL,—,0,0,🟡 2/4,↑1 ↓0,$4.80B,Process Industries,NYSE
+ABG,"Asbury Automotive Group, Inc.",222.14,2.6%,216.52,184.77,137.83,1.05,—,14.5%,10.9%,4.8,BUYING,$+1.2M,3,0,🟡 2/4,↑1 ↓0,$4.14B,Retail Trade,NYSE
+LOPE,"Grand Canyon Education, Inc.",139.21,4.5%,133.25,119.95,98.04,5.34,—,29.8%,6.5%,4.1,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$3.69B,Commercial Services,NASDAQ
+MGEE,"MGE Energy, Inc.",82.40,8.0%,76.31,71.81,60.95,2.24,2.31%,10.9%,6.3%,5.0,BUYING,$+29K,1,0,🟡 2/4,↑0 ↓0,$3.11B,Utilities,NASDAQ
+CXT,"Crane NXT, Co.",52.05,9.2%,47.68,39.92,32.30,2.42,1.38%,11.1%,20.0%,6.0,BUYING,$+1.2M,6,1,✅ 4/4,—,$3.00B,Producer Manufacturing,NYSE
+ASTH,Astrana Health Inc.,40.99,6.4%,38.51,34.50,24.28,2.51,—,3.9%,10.3%,3.8,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$2.03B,Health Services,NASDAQ
