@@ -1,0 +1,16 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+SPGI,"S&P Global, Inc.",426.40,6.2%,401.69,363.91,264.62,4.05,0.91%,14.8%,1.7%,2.0,BUYING,$+3.6M,4,0,✅ 3/4,↑0 ↓0,$126.21B,Commercial Services,NYSE
+AZO,"AutoZone, Inc.",2957.41,1.6%,2911.72,2351.38,1694.55,,—,—,3.4%,1.0,BUYING,$+319K,1,1,🔴 2/4,↑0 ↓0,$48.28B,Retail Trade,NYSE
+HUM,Humana Inc.,389.32,6.6%,365.09,359.00,294.22,2.52,0.91%,6.2%,4.0%,2.8,BUYING,$+150K,1,0,✅ 4/4,↑0 ↓0,$46.74B,Health Services,NYSE
+MSCI,MSCI Inc. Class A,550.79,4.6%,526.73,460.83,310.47,,1.49%,—,2.0%,1.8,BUYING,$+1.4M,3,3,✅ 3/4,↑1 ↓0,$40.04B,Commercial Services,NYSE
+AWK,"American Water Works Company, Inc.",134.66,0.8%,133.53,130.04,102.14,2.38,2.66%,10.2%,7.3%,4.7,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$26.30B,Utilities,NYSE
+RPM,RPM International Inc.,107.00,8.2%,98.91,88.98,70.37,4.12,2.02%,21.3%,3.8%,4.5,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$13.67B,Process Industries,NYSE
+WTRG,"Essential Utilities, Inc.",39.61,4.4%,37.95,37.68,32.33,1.63,3.46%,8.3%,2.0%,2.2,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$11.23B,Utilities,NYSE
+MTDR,Matador Resources Company,50.81,0.1%,50.78,38.82,32.59,1.13,2.95%,8.9%,11.5%,7.3,BUYING,$+720K,12,0,✅ 4/4,↑0 ↓0,$6.31B,Energy Minerals,NYSE
+RLI,RLI Corp.,61.92,4.4%,59.31,51.88,39.59,3.24,1.16%,25.2%,9.4%,8.3,BUYING,$+1.1M,7,0,✅ 4/4,↑0 ↓0,$5.69B,Finance,NYSE
+FFIN,First Financial Bankshares Inc,34.68,4.8%,33.09,32.79,26.45,2.49,2.54%,14.4%,8.0%,7.7,BUYING,$+912K,14,0,🟡 2/4,↑1 ↓0,$4.97B,Finance,NASDAQ
+SLGN,Silgan Holdings Inc.,46.43,4.3%,44.51,40.24,33.41,2.11,1.81%,12.9%,10.2%,9.4,NEUTRAL,—,0,0,🟡 2/4,↑1 ↓0,$4.91B,Process Industries,NYSE
+ABG,"Asbury Automotive Group, Inc.",225.24,3.8%,217.00,185.10,138.02,1.07,—,14.5%,10.5%,4.6,BUYING,$+1.2M,3,0,🟡 2/4,↑1 ↓0,$4.19B,Retail Trade,NYSE
+LOPE,"Grand Canyon Education, Inc.",139.94,4.9%,133.42,120.07,98.11,5.37,—,29.8%,6.6%,4.2,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$3.71B,Commercial Services,NASDAQ
+MGEE,"MGE Energy, Inc.",82.42,8.0%,76.29,71.80,60.95,2.24,2.31%,10.9%,5.7%,4.9,BUYING,$+29K,1,0,🟡 2/4,↑0 ↓0,$3.11B,Utilities,NASDAQ
+TGLS,Tecnoglass Inc,45.30,0.1%,45.26,32.74,22.90,2.73,1.32%,21.0%,9.4%,5.8,BUYING,$+27.0M,4,0,🔴 2/4,—,$2.10B,Producer Manufacturing,NYSE
