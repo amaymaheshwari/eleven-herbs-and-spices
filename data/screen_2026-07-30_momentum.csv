@@ -1,0 +1,17 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+ABT,Abbott Laboratories,108.00,0.1%,107.88,101.61,78.02,3.66,2.33%,10.6%,1.6%,1.8,BUYING,$+1.9M,4,6,🟡 1/4,↑1 ↓0,$186.88B,Health Technology,NYSE
+SPGI,"S&P Global, Inc.",419.64,4.7%,400.95,363.42,264.33,3.93,0.92%,15.2%,1.7%,2.0,BUYING,$+3.6M,4,0,🔴 2/4,↑0 ↓0,$123.71B,Commercial Services,NYSE
+ADSK,"Autodesk, Inc.",245.25,1.2%,242.37,237.58,177.46,16.23,—,50.4%,4.6%,2.9,BUYING,$+2.2M,4,0,✅ 4/4,↑2 ↓0,$51.75B,Technology Services,NASDAQ
+AZO,"AutoZone, Inc.",3142.17,7.7%,2918.29,2355.76,1697.18,,—,—,3.4%,1.0,BUYING,$+319K,1,1,🔴 2/4,↑0 ↓0,$51.30B,Retail Trade,NYSE
+HUM,Humana Inc.,365.41,0.4%,364.07,358.32,293.81,2.28,0.97%,6.8%,4.0%,2.8,BUYING,$+150K,1,0,✅ 4/4,↑0 ↓0,$43.87B,Health Services,NYSE
+KDP,Keurig Dr Pepper Inc.,31.45,0.9%,31.16,29.37,22.64,1.69,2.93%,7.4%,5.2%,3.6,NEUTRAL,—,0,0,🟡 2/4,↑2 ↓0,$42.79B,Consumer Non-Durables,NASDAQ
+AWK,"American Water Works Company, Inc.",138.09,3.3%,133.68,130.14,102.20,2.44,2.59%,10.2%,7.3%,4.7,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$26.97B,Utilities,NYSE
+RPM,RPM International Inc.,108.37,9.6%,98.90,88.98,70.37,4.18,1.99%,21.3%,3.8%,4.5,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$13.84B,Process Industries,NYSE
+WTRG,"Essential Utilities, Inc.",40.70,7.1%,38.00,37.72,32.35,1.67,3.37%,8.3%,2.0%,2.2,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$11.54B,Utilities,NYSE
+EXP,Eagle Materials Inc.,209.91,9.8%,191.19,159.71,128.89,4.35,0.48%,27.0%,8.3%,4.1,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$6.49B,Non-Energy Minerals,NYSE
+FFIN,First Financial Bankshares Inc,35.24,6.4%,33.11,32.81,26.46,2.53,2.50%,14.4%,8.0%,7.7,BUYING,$+936K,15,0,🟡 2/4,↑1 ↓0,$5.05B,Finance,NASDAQ
+MMSI,"Merit Medical Systems, Inc.",80.84,3.7%,77.99,68.44,53.96,2.96,—,9.1%,7.8%,4.2,BUYING,$+260K,5,1,✅ 4/4,↑0 ↓0,$4.82B,Health Technology,NASDAQ
+HRI,"Herc Holdings, Inc.",143.02,5.0%,136.25,108.46,83.82,2.53,1.96%,2.6%,8.9%,3.7,BUYING,$+427K,1,0,✅ 3/4,↑1 ↓0,$4.78B,Finance,NYSE
+MGEE,"MGE Energy, Inc.",80.30,5.4%,76.20,71.74,60.91,2.19,2.37%,10.9%,5.7%,4.9,BUYING,$+29K,1,0,🟡 2/4,↑0 ↓0,$3.03B,Utilities,NASDAQ
+CXT,"Crane NXT, Co.",52.00,9.1%,47.68,39.92,32.30,2.41,1.38%,11.1%,19.8%,6.5,BUYING,$+876K,2,1,✅ 4/4,—,$2.99B,Producer Manufacturing,NYSE
+WDFC,WD-40 Company,222.40,7.9%,206.09,203.64,161.87,10.72,1.83%,33.2%,5.1%,2.2,BUYING,$+105K,1,0,✅ 3/4,↑0 ↓0,$2.98B,Process Industries,NASDAQ
