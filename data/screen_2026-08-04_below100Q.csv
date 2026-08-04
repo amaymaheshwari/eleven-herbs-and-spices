@@ -1,0 +1,25 @@
+Ticker,Company,Price,52W High,% Off 52W High,100Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+PCG,PG&E Corporation,17.43,19.16,9.0%,27.19,14.20,27.82,27.19,35.9%,1.19,1.15%,9.7%,0.0%,—,SELLING,$-7.8M,0,11,✅ 3/4,↑0 ↓0,$46.71B,Utilities,NYSE
+AIG,"American International Group, Inc.",78.79,87.29,9.7%,230.27,56.82,51.81,230.27,65.8%,1.04,2.54%,7.7%,2.0%,2.2,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$41.77B,Finance,NYSE
+FIS,"Fidelity National Information Services, Inc.",44.78,76.49,41.5%,48.24,85.06,77.83,48.24,7.2%,1.45,3.93%,17.2%,4.0%,3.0,BUYING,$+1.1M,3,0,🟡 2/4,↑1 ↓0,$23.15B,Technology Services,NYSE
+VTRS,"Viatris, Inc.",17.63,18.07,2.4%,18.69,11.68,20.90,18.69,5.6%,1.40,2.72%,-2.0%,4.1%,4.7,—,—,0,0,✅ 4/4,↑0 ↓0,$20.69B,Health Technology,NASDAQ
+CDE,"Coeur Mining, Inc.",15.56,27.77,44.0%,17.22,7.38,7.20,17.22,9.6%,1.55,0.26%,12.1%,5.8%,1.3,SELLING,$-715K,1,1,🟡 2/4,↑0 ↓0,$16.03B,Non-Energy Minerals,NYSE
+SIRI,SiriusXM Holdings Inc.,30.37,32.66,7.0%,31.32,40.69,40.05,31.32,3.0%,0.86,3.50%,7.6%,18.3%,8.2,SELLING,$-740K,0,2,🔴 1/4,↑0 ↓0,$10.24B,Consumer Services,NASDAQ
+ARE,"Alexandria Real Estate Equities, Inc.",53.03,88.24,39.9%,66.40,107.41,95.20,66.40,20.1%,0.58,5.43%,-6.3%,6.2%,4.5,BUYING,$+2.2M,5,3,✅ 3/4,↑0 ↓0,$9.24B,Finance,NYSE
+CAG,"Conagra Brands, Inc.",14.91,20.32,26.6%,16.74,23.92,23.36,16.74,10.9%,1.12,4.69%,-25.1%,13.3%,2.0,BUYING,$+761K,2,0,✅ 3/4,↑0 ↓0,$7.14B,Consumer Non-Durables,NYSE
+NOV,NOV Inc.,19.48,21.55,9.6%,27.25,15.61,24.17,27.25,28.5%,1.12,1.85%,1.5%,13.3%,5.8,—,—,0,0,🔴 1/4,↑0 ↓0,$6.94B,Industrial Services,NYSE
+MOS,Mosaic Company,21.81,36.99,41.0%,28.80,29.09,28.04,28.80,24.3%,0.59,4.03%,0.4%,12.4%,3.0,NEUTRAL,—,0,0,🔴 1/4,↑1 ↓0,$6.93B,Process Industries,NYSE
+CPB,Campbell's Company,22.37,34.17,34.5%,27.04,36.20,35.54,27.04,17.3%,1.65,6.97%,15.4%,27.6%,4.0,BUYING,$+6K,1,0,✅ 3/4,↑1 ↓0,$6.67B,Consumer Non-Durables,NASDAQ
+CLF,Cleveland-Cliffs Inc,11.22,16.70,32.8%,19.43,14.08,11.32,19.43,42.3%,1.14,—,-15.2%,14.8%,4.2,SELLING,$-42.0M,1,3,✅ 3/4,↑1 ↓0,$6.40B,Non-Energy Minerals,NYSE
+FLG,"Flagstar Bank, National Association",14.22,15.44,7.9%,20.93,21.42,23.52,20.93,32.1%,0.78,0.28%,0.6%,0.0%,—,NEUTRAL,—,0,0,🟡 1/4,↑0 ↓0,$5.93B,Finance,NYSE
+RIG,Transocean Ltd.,5.15,7.66,32.8%,29.99,4.37,8.14,29.99,82.8%,0.70,—,-30.1%,24.1%,6.2,SELLING,$-325K,1,1,🔴 2/4,↑0 ↓0,$5.75B,Industrial Services,NYSE
+CRK,"Comstock Resources, Inc.",13.41,28.10,52.3%,62.84,11.50,13.42,62.84,78.7%,1.53,—,20.9%,30.7%,8.9,SELLING,$-1.0M,0,1,✅ 3/4,↑0 ↓0,$3.94B,Energy Minerals,NYSE
+AAP,"Advance Auto Parts, Inc.",55.68,65.21,14.6%,77.18,106.36,114.55,77.18,27.9%,1.51,1.80%,3.1%,28.9%,6.0,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$3.36B,Retail Trade,NYSE
+NWL,Newell Brands Inc,6.36,7.13,10.8%,13.99,10.97,16.13,13.99,54.5%,1.10,4.40%,-8.6%,22.7%,4.2,SELLING,$-1.3M,0,4,🟡 2/4,↑0 ↓0,$2.71B,Producer Manufacturing,NASDAQ
+NEOG,Neogen Corp,11.90,12.85,7.4%,14.50,22.89,23.44,14.50,18.0%,1.24,—,-0.4%,6.6%,5.4,BUYING,$+252,1,0,✅ 3/4,↑0 ↓0,$2.59B,Health Technology,NASDAQ
+WHR,Whirlpool Corporation,39.21,96.57,59.4%,76.61,108.41,108.77,76.61,48.8%,0.65,—,6.0%,0.2%,0.0,BUYING,$+199K,1,0,🔴 1/4,↑1 ↓0,$2.54B,Consumer Durables,NYSE
+BXMT,"Blackstone Mortgage Trust, Inc. Class A",14.57,20.66,29.5%,16.21,16.41,14.83,16.21,10.1%,0.75,12.90%,0.4%,7.5%,5.1,SELLING,$-135K,0,5,🔴 0/4,↑0 ↓0,$2.46B,Finance,NYSE
+KSS,Kohl's Corporation,20.10,25.22,20.3%,27.48,23.50,27.67,27.48,26.9%,0.56,2.49%,7.0%,31.7%,6.5,SELLING,$-66K,0,7,✅ 4/4,↑0 ↓0,$2.28B,Retail Trade,NYSE
+HE,"Hawaiian Electric Industries, Inc.",12.70,17.38,26.9%,19.33,26.34,26.04,19.33,34.3%,1.34,—,8.2%,13.0%,8.8,NEUTRAL,—,0,0,🟡 1/4,↑0 ↓0,$2.19B,Utilities,NYSE
+OLN,Olin Corporation,18.62,30.46,38.9%,19.21,32.84,27.55,19.21,3.1%,1.24,4.30%,-7.6%,14.5%,3.6,SELLING,$-212K,0,2,🔴 2/4,↑0 ↓0,$2.12B,Process Industries,NYSE
+GT,Goodyear Tire & Rubber Company,7.03,10.62,33.8%,15.43,11.71,17.29,15.43,54.4%,0.67,—,-52.6%,17.3%,3.3,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$2.02B,Consumer Durables,NASDAQ
