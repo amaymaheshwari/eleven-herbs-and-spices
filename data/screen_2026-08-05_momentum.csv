@@ -1,0 +1,18 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+SPGI,"S&P Global, Inc.",412.53,2.0%,404.39,370.96,269.99,3.86,0.94%,15.2%,1.7%,2.0,BUYING,$+3.6M,4,0,🔴 2/4,↑0 ↓0,$121.61B,Commercial Services,NYSE
+AZO,"AutoZone, Inc.",3028.03,3.4%,2927.13,2373.85,1707.62,,—,—,3.4%,1.0,BUYING,$+319K,1,1,🔴 2/4,↑0 ↓0,$49.43B,Retail Trade,NYSE
+HUM,Humana Inc.,362.16,0.2%,361.46,361.43,296.20,2.26,0.98%,6.8%,4.0%,2.8,BUYING,$+150K,1,0,✅ 4/4,↑0 ↓0,$43.49B,Health Services,NYSE
+WCN,"Waste Connections, Inc.",165.57,6.7%,155.13,136.96,102.89,5.28,0.85%,13.0%,1.4%,1.9,BUYING,$+3.9M,1,9,✅ 4/4,↑0 ↓0,$41.73B,Industrial Services,NYSE
+MSCI,MSCI Inc. Class A,571.47,9.0%,524.29,473.24,321.39,,1.43%,—,2.0%,1.8,BUYING,$+1.4M,3,3,✅ 3/4,↑1 ↓0,$41.55B,Commercial Services,NYSE
+AVB,"AvalonBay Communities, Inc.",189.25,5.0%,180.20,172.29,154.12,2.23,3.76%,8.6%,3.1%,2.8,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$27.02B,Finance,NYSE
+AWK,"American Water Works Company, Inc.",134.01,0.4%,133.48,130.01,102.12,2.28,2.67%,10.1%,7.1%,4.7,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$26.63B,Utilities,NYSE
+SMCI,"Super Micro Computer, Inc.",31.69,1.5%,31.21,21.71,14.04,2.52,—,17.9%,19.6%,1.9,NEUTRAL,—,0,0,🔴 2/4,—,$20.50B,Electronic Technology,NASDAQ
+GGG,Graco Inc.,82.31,8.0%,76.20,69.57,53.59,5.28,1.43%,21.2%,5.2%,4.8,BUYING,$+100K,1,0,🟡 1/4,↑0 ↓0,$13.33B,Producer Manufacturing,NYSE
+TTEK,"Tetra Tech, Inc.",35.03,5.4%,33.24,29.07,20.48,4.84,0.82%,24.3%,5.3%,3.4,BUYING,$+50K,1,0,✅ 4/4,↑0 ↓0,$8.97B,Industrial Services,NASDAQ
+RLI,RLI Corp.,61.82,6.3%,58.13,51.23,39.22,3.24,1.16%,25.2%,9.4%,8.3,BUYING,$+1.1M,7,0,✅ 4/4,↑0 ↓0,$5.67B,Finance,NYSE
+MMSI,"Merit Medical Systems, Inc.",85.82,9.2%,78.60,68.64,54.11,3.05,—,9.2%,7.8%,4.2,BUYING,$+260K,5,1,✅ 4/4,↑0 ↓0,$5.12B,Health Technology,NASDAQ
+NSIT,"Insight Enterprises, Inc.",137.26,3.4%,132.76,111.63,81.29,2.59,—,11.3%,8.0%,3.1,BUYING,$+140K,1,1,🔴 2/4,↑0 ↓0,$4.15B,Technology Services,NASDAQ
+ABG,"Asbury Automotive Group, Inc.",222.85,2.9%,216.56,184.80,137.84,1.02,—,13.2%,10.5%,4.6,BUYING,$+919K,3,1,🟡 2/4,↑1 ↓0,$4.00B,Retail Trade,NYSE
+LOPE,"Grand Canyon Education, Inc.",150.80,10.0%,137.11,121.32,100.32,5.91,—,31.0%,6.7%,4.2,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$3.93B,Commercial Services,NASDAQ
+MGEE,"MGE Energy, Inc.",79.91,4.9%,76.18,71.90,61.15,2.18,2.38%,10.9%,5.7%,4.9,BUYING,$+29K,1,0,🟡 2/4,↑0 ↓0,$3.02B,Utilities,NASDAQ
+TGLS,Tecnoglass Holdings Inc.,46.26,0.4%,46.07,33.99,23.62,2.79,1.30%,21.0%,9.4%,5.8,BUYING,$+27.0M,4,0,🔴 2/4,—,$2.15B,Producer Manufacturing,NYSE
