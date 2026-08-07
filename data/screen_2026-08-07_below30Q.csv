@@ -1,0 +1,25 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+PFE,Pfizer Inc.,26.20,28.75,8.9%,28.18,28.18,25.45,18.15,7.0%,1.75,6.56%,—,2.9%,3.2,BUYING,$+1.8M,2,2,✅ 4/4,↑0 ↓0,$149.33B,Health Technology,NYSE
+MSTR,Strategy Inc Class A,96.85,414.36,76.6%,97.76,97.76,65.06,36.40,0.9%,1.17,—,-63.6%,11.8%,1.5,SELLING,$-28.8M,0,33,🔴 0/4,↑1 ↓0,$37.21B,Technology Services,NASDAQ
+LEN,Lennar Corporation Class A,84.82,144.24,41.2%,94.24,94.24,73.11,48.94,10.0%,0.95,2.36%,7.2%,0.3%,0.2,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$20.39B,Consumer Durables,NYSE
+TSN,"Tyson Foods, Inc. Class A",58.54,69.48,15.8%,59.37,59.37,54.01,33.15,1.4%,1.12,3.48%,3.2%,3.5%,3.0,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$20.18B,Consumer Non-Durables,NYSE
+LYB,LyondellBasell Industries NV,61.44,83.94,26.8%,64.81,64.81,60.22,,5.2%,1.86,4.49%,-2.3%,4.9%,2.2,SELLING,$-27.0M,0,2,✅ 3/4,↑0 ↓0,$19.85B,Process Industries,NYSE
+WY,Weyerhaeuser Company,25.45,27.75,8.3%,26.69,26.69,24.79,18.32,4.7%,1.94,3.30%,5.0%,4.5%,4.8,BUYING,$+615K,2,0,✅ 4/4,↑0 ↓0,$18.34B,Finance,NYSE
+SWK,"Stanley Black & Decker, Inc.",101.04,104.29,3.1%,101.46,101.46,98.45,66.09,0.4%,1.70,3.33%,6.9%,4.8%,3.8,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$15.26B,Consumer Durables,NYSE
+ALB,Albemarle Corporation,125.42,221.00,43.2%,137.92,137.92,111.60,70.05,9.1%,1.84,1.31%,2.2%,0.1%,0.0,SELLING,$-7.4M,0,4,✅ 3/4,↑0 ↓0,$14.80B,Process Industries,NYSE
+COO,"Cooper Companies, Inc.",73.32,89.83,18.4%,85.21,85.21,71.41,42.83,14.0%,1.73,—,2.9%,4.6%,2.7,NEUTRAL,—,0,0,✅ 4/4,↑1 ↓0,$14.30B,Health Technology,NASDAQ
+ICLR,ICON Plc,161.17,203.91,21.0%,207.42,207.42,161.15,90.54,22.3%,1.33,—,0.4%,3.8%,2.8,—,—,0,0,✅ 3/4,↑0 ↓0,$12.43B,Commercial Services,NASDAQ
+BIO,"Bio-Rad Laboratories, Inc. Class A",342.43,352.63,2.9%,420.60,420.60,329.28,204.73,18.6%,1.28,—,3.1%,0.0%,—,SELLING,$-136K,0,1,🔴 2/4,↑0 ↓0,$9.22B,Health Technology,NYSE
+GME,GameStop Corp. Class A,19.23,28.10,31.6%,22.55,22.55,15.65,,14.7%,1.48,—,14.1%,13.5%,12.8,SELLING,$-828K,0,5,✅ 3/3,—,$8.63B,Retail Trade,NYSE
+EMN,Eastman Chemical Company,73.50,83.47,11.9%,75.42,75.42,68.54,45.09,2.5%,1.38,4.57%,7.4%,6.3%,4.1,SELLING,$-234K,0,1,✅ 3/4,↑0 ↓0,$8.41B,Process Industries,NYSE
+REXR,"Rexford Industrial Realty, Inc.",36.50,44.38,17.8%,42.73,42.73,32.72,,14.6%,1.10,4.77%,-4.8%,5.6%,3.4,SELLING,$-1.5M,3,2,✅ 3/4,↑1 ↓0,$8.14B,Finance,NYSE
+BLDR,"Builders FirstSource, Inc.",72.51,151.03,52.0%,86.33,86.33,56.93,,16.0%,1.95,—,2.5%,8.0%,3.1,BUYING,$+4.0M,1,1,🔴 1/4,↑0 ↓0,$7.80B,Retail Trade,NYSE
+ICL,ICL Group Ltd.,5.27,6.97,24.4%,5.29,5.29,4.63,,0.4%,1.11,3.56%,5.0%,0.5%,2.4,—,—,0,0,🟡 1/4,↑0 ↓0,$6.80B,Process Industries,NYSE
+RYN,Rayonier Inc.,21.43,27.34,21.6%,23.34,23.34,21.23,15.73,8.2%,1.23,4.85%,2.0%,4.3%,5.0,SELLING,$-3.7M,0,2,✅ 3/4,↑0 ↓0,$6.48B,Finance,NYSE
+GNTX,Gentex Corporation,23.54,29.38,19.9%,26.83,26.83,22.42,14.58,12.2%,1.95,2.04%,16.1%,7.0%,5.2,SELLING,$-2.8M,0,9,🟡 2/4,↑0 ↓0,$4.96B,Producer Manufacturing,NASDAQ
+ICUI,"ICU Medical, Inc.",166.37,176.27,5.6%,169.39,169.39,163.85,101.80,1.8%,1.97,—,2.3%,8.8%,5.8,SELLING,$-882K,0,3,✅ 4/4,↑1 ↓0,$4.16B,Health Technology,NASDAQ
+ASH,Ashland Inc.,72.46,74.99,3.4%,74.92,74.92,66.24,42.85,3.3%,1.77,2.32%,4.0%,14.0%,5.7,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$3.32B,Consumer Non-Durables,NYSE
+PPLI,People Incorporated,42.94,48.32,11.1%,57.42,57.42,41.94,23.56,25.2%,0.63,—,8.2%,16.2%,9.2,SELLING,$-279K,0,1,🔴 0/4,↑0 ↓0,$3.20B,Technology Services,NASDAQ
+CALY,Callaway Golf Company,17.38,20.28,14.3%,18.15,18.15,15.81,13.00,4.3%,1.44,—,3.0%,6.3%,3.6,SELLING,$-2.8M,0,3,✅ 4/4,↑0 ↓0,$3.10B,Consumer Durables,NYSE
+PBH,Prestige Consumer Healthcare Inc,54.43,71.07,23.4%,56.37,56.37,50.82,,3.4%,1.36,—,10.2%,7.9%,4.5,SELLING,$-186K,0,5,🔴 1/4,↑0 ↓0,$2.58B,Health Technology,NYSE
+ROG,Rogers Corporation,133.73,169.00,20.9%,146.74,146.74,125.26,82.94,8.9%,1.99,—,2.6%,4.0%,1.5,SELLING,$-1.6M,0,6,✅ 3/4,↑0 ↓0,$2.39B,Process Industries,NYSE

@@ -1,0 +1,15 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+ABT,Abbott Laboratories,107.96,0.9%,106.97,102.68,78.90,3.66,2.33%,10.6%,1.6%,1.8,BUYING,$+816K,3,6,🟡 1/4,↑1 ↓0,$186.81B,Health Technology,NYSE
+SPGI,"S&P Global, Inc.",405.24,0.3%,404.02,370.72,269.84,3.79,0.96%,15.2%,1.7%,2.0,BUYING,$+3.6M,4,0,🔴 2/4,↑0 ↓0,$119.46B,Commercial Services,NYSE
+ADSK,"Autodesk, Inc.",242.47,0.1%,242.19,240.38,180.18,16.04,—,50.4%,4.6%,2.9,BUYING,$+2.2M,4,0,✅ 4/4,↑2 ↓0,$51.16B,Technology Services,NASDAQ
+AZO,"AutoZone, Inc.",3069.62,4.8%,2929.21,2375.24,1708.45,,—,—,3.4%,1.0,BUYING,$+319K,1,1,🔴 2/4,↑0 ↓0,$50.11B,Retail Trade,NYSE
+HUM,Humana Inc.,367.24,1.5%,361.72,361.60,296.30,2.30,0.96%,6.8%,4.0%,2.8,BUYING,$+150K,1,0,✅ 4/4,↑0 ↓0,$44.10B,Health Services,NYSE
+WCN,"Waste Connections, Inc.",167.39,8.1%,154.91,136.74,102.71,5.33,0.84%,13.0%,1.4%,1.9,BUYING,$+3.9M,1,9,✅ 4/4,↑0 ↓0,$42.19B,Industrial Services,NYSE
+MSCI,MSCI Inc. Class A,567.23,8.2%,524.08,473.10,321.31,,1.45%,—,2.0%,1.8,BUYING,$+1.4M,3,3,✅ 3/4,↑1 ↓0,$41.24B,Commercial Services,NYSE
+AWK,"American Water Works Company, Inc.",134.82,1.0%,133.52,130.03,102.14,2.30,2.66%,10.1%,7.1%,4.7,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$26.79B,Utilities,NYSE
+AVB,"AvalonBay Communities, Inc.",186.55,3.6%,180.06,172.20,154.06,2.20,3.82%,8.6%,3.1%,2.8,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$26.64B,Finance,NYSE
+IP,International Paper Company,40.53,7.7%,37.65,36.31,34.20,,4.56%,-16.5%,17.8%,8.9,BUYING,$+1.2M,2,1,🔴 1/4,↑0 ↓0,$21.46B,Process Industries,NYSE
+TTEK,"Tetra Tech, Inc.",34.73,4.5%,33.23,29.06,20.48,4.80,0.83%,24.3%,5.3%,3.4,BUYING,$+50K,1,0,✅ 4/4,↑0 ↓0,$8.89B,Industrial Services,NASDAQ
+LOPE,"Grand Canyon Education, Inc.",148.74,8.6%,137.00,121.25,100.28,5.83,—,31.0%,6.7%,4.2,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$3.88B,Commercial Services,NASDAQ
+LRN,"Stride, Inc.",80.00,9.9%,72.78,57.41,41.05,2.03,—,21.7%,22.5%,6.9,NEUTRAL,—,0,0,✅ 4/4,—,$3.32B,Consumer Services,NYSE
+MGEE,"MGE Energy, Inc.",80.85,6.1%,76.23,71.94,61.17,,2.35%,—,5.7%,4.9,BUYING,$+29K,1,0,🟡 2/4,↑0 ↓0,$3.05B,Utilities,NASDAQ
