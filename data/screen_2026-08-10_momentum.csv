@@ -1,0 +1,14 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+ABT,Abbott Laboratories,107.81,0.8%,106.97,102.68,78.90,3.65,2.34%,10.6%,1.6%,1.8,BUYING,$+816K,3,6,🟡 1/4,↑1 ↓0,$186.55B,Health Technology,NYSE
+SPGI,"S&P Global, Inc.",408.19,1.0%,404.17,370.82,269.90,3.82,0.95%,15.2%,1.7%,2.0,BUYING,$+2.6M,3,0,🔴 2/4,↑0 ↓0,$120.33B,Commercial Services,NYSE
+ADSK,"Autodesk, Inc.",249.08,2.7%,242.52,240.60,180.31,16.48,—,50.4%,4.6%,2.9,BUYING,$+2.2M,4,0,✅ 4/4,↑2 ↓0,$52.56B,Technology Services,NASDAQ
+AZO,"AutoZone, Inc.",3127.29,6.7%,2932.09,2377.16,1709.60,,—,—,3.4%,1.0,BUYING,$+319K,1,1,🔴 2/4,↑0 ↓0,$51.05B,Retail Trade,NYSE
+HUM,Humana Inc.,385.00,6.2%,362.61,362.19,296.66,2.41,0.92%,6.8%,4.0%,2.8,BUYING,$+150K,1,0,✅ 4/4,↑0 ↓0,$46.23B,Health Services,NYSE
+WCN,"Waste Connections, Inc.",166.71,7.6%,154.87,136.72,102.70,5.31,0.84%,13.0%,1.4%,1.9,BUYING,$+3.9M,1,9,✅ 4/4,↑0 ↓0,$42.02B,Industrial Services,NYSE
+MSCI,MSCI Inc. Class A,563.17,7.5%,523.87,472.97,321.23,,1.46%,—,2.0%,1.8,BUYING,$+1.4M,3,3,✅ 3/4,↑1 ↓0,$40.94B,Commercial Services,NYSE
+AWK,"American Water Works Company, Inc.",135.31,1.3%,133.55,130.05,102.15,2.31,2.65%,10.1%,7.1%,4.7,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$26.89B,Utilities,NYSE
+AVB,"AvalonBay Communities, Inc.",187.55,4.1%,180.11,172.23,154.08,2.21,3.80%,8.6%,3.1%,2.8,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$26.78B,Finance,NYSE
+TTEK,"Tetra Tech, Inc.",35.44,6.5%,33.26,29.09,20.49,4.90,0.81%,24.3%,5.3%,3.4,BUYING,$+50K,1,0,✅ 4/4,↑0 ↓0,$9.07B,Industrial Services,NASDAQ
+STN,Stantec Inc,73.51,0.1%,73.47,60.05,45.44,3.46,0.95%,15.3%,—,3.5,NEUTRAL,—,0,0,🟡 2/4,—,$8.39B,Industrial Services,NYSE
+MGEE,"MGE Energy, Inc.",81.54,6.9%,76.26,71.96,61.18,2.14,2.33%,11.0%,5.7%,4.9,BUYING,$+29K,1,0,✅ 3/4,↑0 ↓0,$3.08B,Utilities,NASDAQ
+CXT,"Crane NXT, Co.",53.33,8.6%,49.13,40.99,33.08,2.42,1.35%,11.5%,19.8%,6.5,BUYING,$+876K,2,1,✅ 4/4,—,$3.07B,Producer Manufacturing,NYSE

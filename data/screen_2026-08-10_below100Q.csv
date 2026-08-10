@@ -1,0 +1,27 @@
+Ticker,Company,Price,52W High,% Off 52W High,100Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+PCG,PG&E Corporation,17.46,19.16,8.8%,27.19,14.20,27.82,27.19,35.8%,1.19,1.15%,9.7%,0.0%,—,SELLING,$-7.8M,0,11,✅ 3/4,↑0 ↓0,$38.45B,Utilities,NYSE
+FISV,"Fiserv, Inc.",52.41,140.42,62.7%,52.48,114.69,91.64,52.48,0.1%,1.03,—,10.7%,—,—,BUYING,$+1.7M,6,0,🔴 2/4,↑1 ↓0,$27.95B,Commercial Services,NASDAQ
+VTRS,"Viatris, Inc.",16.43,18.39,10.7%,18.67,11.64,20.88,18.67,12.0%,1.33,2.92%,-2.8%,4.1%,4.7,—,—,0,0,✅ 4/4,↑0 ↓0,$19.28B,Health Technology,NASDAQ
+APA,APA Corporation,37.63,45.66,17.6%,42.61,25.55,31.59,42.61,11.7%,1.88,2.66%,25.9%,12.0%,5.3,SELLING,$-833K,0,1,✅ 4/4,↑0 ↓0,$13.18B,Energy Minerals,NASDAQ
+SIRI,SiriusXM Holdings Inc.,29.64,32.66,9.2%,31.32,40.68,40.04,31.32,5.4%,0.84,3.56%,7.6%,18.3%,8.2,SELLING,$-1.2M,0,3,🔴 1/4,↑0 ↓0,$9.99B,Consumer Services,NASDAQ
+ARE,"Alexandria Real Estate Equities, Inc.",49.74,88.24,43.6%,66.37,107.30,95.13,66.37,25.1%,0.55,5.79%,-6.3%,6.2%,4.5,BUYING,$+2.2M,5,3,✅ 3/4,↑0 ↓0,$8.67B,Finance,NYSE
+MOS,Mosaic Company,23.06,36.99,37.7%,28.82,29.14,28.06,28.82,20.0%,0.64,3.82%,-5.3%,12.4%,3.0,NEUTRAL,—,0,0,🔴 1/4,↑1 ↓0,$7.33B,Process Industries,NYSE
+CAG,"Conagra Brands, Inc.",15.11,20.32,25.6%,16.74,23.93,23.37,16.74,9.7%,1.14,4.63%,-25.1%,13.3%,2.0,BUYING,$+761K,2,0,✅ 3/4,↑0 ↓0,$7.23B,Consumer Non-Durables,NYSE
+NOV,NOV Inc.,19.65,21.55,8.8%,27.25,15.62,24.17,27.25,27.9%,1.13,1.83%,1.5%,13.3%,5.8,—,—,0,0,🔴 1/4,↑0 ↓0,$7.00B,Industrial Services,NYSE
+CLF,Cleveland-Cliffs Inc,12.26,16.70,26.6%,19.44,14.11,11.34,19.44,36.9%,1.25,—,-15.2%,14.8%,4.2,SELLING,$-4.8M,1,2,✅ 3/4,↑1 ↓0,$6.99B,Non-Energy Minerals,NYSE
+CPB,Campbell's Company,23.05,34.17,32.6%,27.05,36.22,35.55,27.05,14.8%,1.71,6.77%,15.4%,27.6%,4.0,BUYING,$+6K,1,0,✅ 3/4,↑1 ↓0,$6.87B,Consumer Non-Durables,NASDAQ
+SM,SM Energy Company,28.88,35.88,19.5%,30.02,24.98,26.14,30.02,3.8%,0.88,3.05%,16.1%,7.4%,3.6,SELLING,$-834K,0,1,✅ 3/4,↑1 ↓0,$6.87B,Energy Minerals,NYSE
+RIG,Transocean Ltd.,5.26,7.66,31.3%,29.99,4.37,8.15,29.99,82.5%,0.70,—,-18.7%,24.1%,6.2,SELLING,$-325K,1,1,🔴 2/4,↑0 ↓0,$5.87B,Industrial Services,NYSE
+FLG,"Flagstar Bank, National Association",13.95,15.44,9.7%,20.93,21.42,23.52,20.93,33.3%,0.76,0.29%,0.6%,0.0%,—,NEUTRAL,—,0,0,🟡 1/4,↑0 ↓0,$5.79B,Finance,NYSE
+CRK,"Comstock Resources, Inc.",13.41,28.10,52.3%,62.84,11.50,13.42,62.84,78.7%,1.53,—,20.9%,30.7%,8.9,SELLING,$-1.0M,0,1,✅ 3/4,↑0 ↓0,$3.94B,Energy Minerals,NYSE
+PTEN,"Patterson-UTI Energy, Inc.",9.87,13.08,24.5%,13.30,8.71,11.66,13.30,25.8%,1.21,4.05%,-2.8%,9.0%,2.7,SELLING,$-17.0M,0,9,✅ 3/4,↑0 ↓0,$3.76B,Energy Minerals,NASDAQ
+AAP,"Advance Auto Parts, Inc.",57.80,65.21,11.4%,77.21,106.43,114.60,77.21,25.1%,1.57,1.73%,3.1%,28.9%,6.0,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$3.49B,Retail Trade,NYSE
+WHR,Whirlpool Corporation,43.28,96.57,55.2%,76.65,108.55,108.85,76.65,43.5%,0.72,—,6.0%,0.2%,0.0,BUYING,$+199K,1,0,🔴 1/4,↑1 ↓0,$2.82B,Consumer Durables,NYSE
+HOG,"Harley-Davidson, Inc.",26.01,31.25,16.8%,32.54,30.27,33.95,32.54,20.1%,0.88,2.88%,6.3%,22.0%,5.9,BUYING,$+1.0M,4,7,🟡 2/4,↑0 ↓0,$2.71B,Consumer Durables,NYSE
+NWL,Newell Brands Inc,6.01,7.13,15.7%,13.98,10.96,16.12,13.98,57.0%,1.04,4.66%,-8.6%,22.7%,4.2,SELLING,$-1.3M,0,4,🟡 2/4,↑0 ↓0,$2.56B,Producer Manufacturing,NASDAQ
+NEOG,Neogen Corp,11.47,12.85,10.7%,14.50,22.87,23.44,14.50,20.9%,1.19,—,-0.4%,6.6%,5.4,BUYING,$+5K,2,0,✅ 3/4,↑0 ↓0,$2.50B,Health Technology,NASDAQ
+XRAY,"DENTSPLY SIRONA, Inc.",12.12,14.86,18.4%,32.51,32.84,38.57,32.51,62.7%,1.79,—,-33.0%,16.7%,4.8,BUYING,$+1.6M,10,0,🔴 1/4,↑1 ↓0,$2.42B,Health Technology,NASDAQ
+BXMT,"Blackstone Mortgage Trust, Inc. Class A",14.15,20.66,31.5%,16.21,16.40,14.82,16.21,12.7%,0.73,13.29%,0.4%,7.5%,5.1,BUYING,$+8K,1,5,🔴 0/4,↑0 ↓0,$2.38B,Finance,NYSE
+KSS,Kohl's Corporation,19.30,25.22,23.5%,27.47,23.47,27.65,27.47,29.7%,0.54,2.59%,7.0%,31.7%,6.5,SELLING,$-825K,0,9,✅ 4/4,↑0 ↓0,$2.19B,Retail Trade,NYSE
+HE,"Hawaiian Electric Industries, Inc.",12.40,17.38,28.6%,19.32,26.33,26.04,19.32,35.8%,1.31,—,8.2%,13.0%,8.8,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$2.14B,Utilities,NYSE
+OLN,Olin Corporation,18.59,30.46,39.0%,19.21,32.84,27.55,19.21,3.2%,1.24,4.30%,-7.6%,14.5%,3.6,SELLING,$-212K,0,2,🔴 2/4,↑0 ↓0,$2.12B,Process Industries,NYSE
