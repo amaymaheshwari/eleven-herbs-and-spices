@@ -1,0 +1,29 @@
+Ticker,Company,Price,52W High,% Off 52W High,100Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+AIG,"American International Group, Inc.",77.61,87.29,11.1%,230.26,56.78,51.79,230.26,66.3%,1.00,2.58%,7.2%,—,—,—,—,0,0,—,—,$40.58B,Finance,NYSE
+PCG,PG&E Corporation,17.04,19.16,11.0%,27.19,14.18,27.81,27.19,37.3%,1.16,1.17%,9.7%,—,—,SELLING,$-7.8M,0,11,✅ 3/4,↑0 ↓0,$37.53B,Utilities,NYSE
+FISV,"Fiserv, Inc.",52.22,140.42,62.8%,52.48,114.68,91.64,52.48,0.5%,1.03,—,10.7%,—,—,—,—,0,0,—,—,$27.77B,Commercial Services,NASDAQ
+FIS,"Fidelity National Information Services, Inc.",42.51,72.91,41.7%,48.22,84.98,77.79,48.22,11.8%,1.37,4.14%,—,—,—,—,—,0,0,—,—,$21.92B,Technology Services,NYSE
+VTRS,"Viatris, Inc.",16.28,18.39,11.5%,18.67,11.64,20.87,18.67,12.8%,1.32,2.95%,-2.8%,—,—,—,—,0,0,—,—,$18.70B,Health Technology,NASDAQ
+SIRI,SiriusXM Holdings Inc.,28.78,32.66,11.9%,31.03,40.28,39.66,31.03,7.2%,0.81,3.70%,7.6%,—,—,—,—,0,0,—,—,$9.70B,Consumer Services,NASDAQ
+ARE,"Alexandria Real Estate Equities, Inc.",48.35,88.24,45.2%,66.35,107.26,95.10,66.35,27.1%,0.53,5.96%,-6.3%,—,—,—,—,0,0,—,—,$8.42B,Finance,NYSE
+MOS,Mosaic Company,23.47,36.99,36.6%,28.82,29.15,28.07,28.82,18.6%,0.65,3.75%,-5.3%,—,—,—,—,0,0,—,—,$7.46B,Process Industries,NYSE
+NOV,NOV Inc.,20.70,21.55,3.9%,27.26,15.65,24.19,27.26,24.1%,1.19,1.74%,1.5%,—,—,—,—,0,0,—,—,$7.38B,Industrial Services,NYSE
+CLF,Cleveland-Cliffs Inc,12.49,16.70,25.2%,19.44,14.12,11.35,19.44,35.8%,1.27,—,-15.2%,—,—,—,—,0,0,—,—,$7.13B,Non-Energy Minerals,NYSE
+CAG,"Conagra Brands, Inc.",14.77,20.32,27.3%,16.74,23.91,23.36,16.74,11.8%,1.11,4.74%,-25.1%,13.3%,2.0,BUYING,$+761K,2,0,✅ 3/4,↑0 ↓0,$7.07B,Consumer Non-Durables,NYSE
+CPB,Campbell's Company,22.42,34.17,34.4%,27.04,36.20,35.54,27.04,17.1%,1.66,6.96%,15.4%,—,—,—,—,0,0,—,—,$6.69B,Consumer Non-Durables,NASDAQ
+RIG,Transocean Ltd.,5.72,7.66,25.3%,29.99,4.39,8.16,29.99,80.9%,0.76,—,-18.7%,—,—,—,—,0,0,—,—,$6.39B,Industrial Services,NYSE
+FLG,"Flagstar Bank, National Association",14.01,15.44,9.3%,20.93,21.42,23.52,20.93,33.1%,0.77,0.29%,0.6%,0.0%,—,NEUTRAL,—,0,0,🟡 1/4,↑0 ↓0,$5.82B,Finance,NYSE
+TFX,Teleflex Incorporated,133.00,145.00,8.3%,133.62,245.02,218.30,133.62,0.5%,1.94,1.02%,-10.5%,—,—,—,—,0,0,—,—,$5.64B,Health Technology,NYSE
+CRK,"Comstock Resources, Inc.",14.36,28.10,48.9%,62.85,11.53,13.44,62.85,77.2%,1.63,—,20.9%,30.7%,8.9,SELLING,$-1.0M,0,1,✅ 3/4,↑0 ↓0,$4.22B,Energy Minerals,NYSE
+PTEN,"Patterson-UTI Energy, Inc.",10.99,13.08,16.0%,13.31,8.75,11.68,13.31,17.4%,1.35,3.64%,-2.8%,—,—,—,—,0,0,—,—,$4.19B,Energy Minerals,NASDAQ
+AAP,"Advance Auto Parts, Inc.",55.73,65.21,14.5%,77.19,106.36,114.55,77.19,27.8%,1.51,1.79%,3.1%,—,—,—,—,0,0,—,—,$3.36B,Retail Trade,NYSE
+WHR,Whirlpool Corporation,42.17,96.57,56.3%,76.64,108.51,108.83,76.64,45.0%,0.70,—,6.0%,—,—,—,—,0,0,—,—,$2.75B,Consumer Durables,NYSE
+HOG,"Harley-Davidson, Inc.",26.09,31.25,16.5%,32.54,30.27,33.95,32.54,19.8%,0.88,2.87%,6.3%,—,—,—,—,0,0,—,—,$2.72B,Consumer Durables,NYSE
+NWL,Newell Brands Inc,5.90,7.13,17.2%,13.98,10.96,16.12,13.98,57.8%,1.02,4.75%,-8.6%,22.7%,4.2,SELLING,$-1.9M,0,5,🟡 2/4,↑0 ↓0,$2.51B,Producer Manufacturing,NASDAQ
+NEOG,Neogen Corp,11.40,12.85,11.3%,14.50,22.87,23.43,14.50,21.4%,1.19,—,-0.4%,—,—,—,—,0,0,—,—,$2.49B,Health Technology,NASDAQ
+BXMT,"Blackstone Mortgage Trust, Inc. Class A",14.17,20.66,31.4%,16.21,16.40,14.82,16.21,12.6%,0.73,13.27%,0.4%,7.5%,5.1,BUYING,$+8K,1,5,🔴 0/4,↑0 ↓0,$2.39B,Finance,NYSE
+XRAY,"DENTSPLY SIRONA, Inc.",11.66,14.86,21.5%,32.50,32.83,38.56,32.50,64.1%,1.72,—,-33.0%,—,—,—,—,0,0,—,—,$2.32B,Health Technology,NASDAQ
+KSS,Kohl's Corporation,19.03,25.22,24.5%,27.47,23.46,27.65,27.47,30.7%,0.53,2.63%,7.0%,31.7%,6.5,SELLING,$-825K,0,9,✅ 4/4,↑0 ↓0,$2.16B,Retail Trade,NYSE
+OLN,Olin Corporation,18.82,30.46,38.2%,19.21,32.85,27.55,19.21,2.0%,1.25,4.25%,-7.6%,—,—,—,—,0,0,—,—,$2.15B,Process Industries,NYSE
+INVX,"Innovex International, Inc.",29.17,33.71,13.5%,41.95,26.90,39.96,41.95,30.5%,1.90,—,6.0%,—,—,—,—,0,0,—,—,$2.04B,Industrial Services,NYSE
+HE,"Hawaiian Electric Industries, Inc.",11.68,17.38,32.8%,19.32,26.30,26.02,19.32,39.5%,1.14,—,13.6%,—,—,—,—,0,0,—,—,$2.02B,Utilities,NYSE
