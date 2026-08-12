@@ -1,0 +1,27 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+PFE,Pfizer Inc.,26.62,28.75,7.4%,28.20,28.20,25.46,18.15,5.6%,1.78,6.46%,5.0%,2.8%,3.9,BUYING,$+1.8M,2,2,✅ 4/4,↑0 ↓0,$151.73B,Health Technology,NYSE
+KDP,Keurig Dr Pepper Inc.,29.18,35.94,18.8%,29.53,29.53,23.09,,1.2%,1.59,3.15%,5.7%,5.2%,4.8,NEUTRAL,—,0,0,✅ 3/4,↑2 ↓0,$39.71B,Consumer Non-Durables,NASDAQ
+MSTR,Strategy Inc Class A,96.09,399.44,75.9%,97.73,97.73,65.05,36.39,1.7%,1.16,—,-63.6%,8.9%,1.8,SELLING,$-29.1M,0,34,🔴 0/4,↑1 ↓0,$36.92B,Technology Services,NASDAQ
+LEN,Lennar Corporation Class A,87.55,144.24,39.3%,94.34,94.34,73.17,48.97,7.2%,0.98,2.28%,7.2%,0.3%,0.2,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$21.05B,Consumer Durables,NYSE
+LYB,LyondellBasell Industries NV,63.98,83.94,23.8%,64.90,64.90,60.27,,1.4%,1.94,4.31%,-2.3%,4.8%,2.4,SELLING,$-27.0M,0,2,✅ 3/4,↑0 ↓0,$20.67B,Process Industries,NYSE
+TSN,"Tyson Foods, Inc. Class A",56.43,69.48,18.8%,59.30,59.30,53.97,33.12,4.8%,1.08,3.62%,3.2%,3.1%,2.9,NEUTRAL,—,0,0,✅ 3/4,—,$19.46B,Consumer Non-Durables,NYSE
+RCI,Rogers Communications Inc. Class B,35.31,41.14,14.2%,37.19,37.19,34.82,25.01,5.0%,1.64,3.98%,44.4%,—,8.8,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$19.22B,Communications,NYSE
+WY,Weyerhaeuser Company,25.02,27.75,9.8%,26.68,26.68,24.78,18.32,6.2%,1.91,3.36%,5.0%,4.2%,4.9,BUYING,$+615K,2,0,✅ 4/4,↑0 ↓0,$18.03B,Finance,NYSE
+ALB,Albemarle Corporation,129.36,221.00,41.5%,138.05,138.05,111.68,70.09,6.3%,1.90,1.27%,2.2%,0.1%,0.0,SELLING,$-6.0M,0,3,✅ 3/4,↑0 ↓0,$15.27B,Process Industries,NYSE
+COO,"Cooper Companies, Inc.",76.82,89.83,14.5%,85.32,85.32,71.48,42.86,10.0%,1.82,—,2.9%,4.9%,3.6,NEUTRAL,—,0,0,✅ 4/4,↑1 ↓0,$14.98B,Health Technology,NASDAQ
+CNH,CNH Industrial NV,10.63,13.31,20.1%,10.78,10.78,9.28,,1.4%,1.70,0.94%,4.0%,7.8%,6.2,SELLING,$-490K,0,1,—,—,$13.16B,Producer Manufacturing,NYSE
+ICLR,ICON Plc,165.58,203.91,18.8%,207.57,207.57,161.23,90.58,20.2%,1.36,—,0.4%,3.3%,2.7,—,—,0,0,—,↑0 ↓0,$12.78B,Commercial Services,NASDAQ
+WLK,Westlake Corporation,80.84,124.23,34.9%,90.73,90.73,79.13,,10.9%,1.19,2.62%,-12.9%,14.9%,4.5,SELLING,$-7.2M,0,4,🔴 2/4,↑0 ↓0,$10.33B,Process Industries,NYSE
+BIO,"Bio-Rad Laboratories, Inc. Class A",356.25,358.69,0.7%,421.06,421.06,329.55,204.87,15.4%,1.33,—,3.1%,0.0%,—,SELLING,$-136K,0,1,🔴 2/4,↑0 ↓0,$9.60B,Health Technology,NYSE
+EMN,Eastman Chemical Company,74.77,83.47,10.4%,75.46,75.46,68.56,45.10,0.9%,1.40,4.49%,7.4%,6.2%,4.0,SELLING,$-234K,0,1,✅ 3/4,↑0 ↓0,$8.55B,Process Industries,NYSE
+GME,GameStop Corp. Class A,18.82,28.10,33.0%,22.54,22.54,15.64,,16.5%,1.45,—,14.1%,13.1%,16.2,SELLING,$-828K,0,5,✅ 3/3,—,$8.44B,Retail Trade,NYSE
+REXR,"Rexford Industrial Realty, Inc.",36.19,44.38,18.5%,42.72,42.72,32.71,,15.3%,1.09,4.81%,-4.8%,4.9%,2.8,SELLING,$-1.5M,3,2,✅ 3/4,↑1 ↓0,$8.07B,Finance,NYSE
+RYN,Rayonier Inc.,21.45,27.34,21.5%,23.34,23.34,21.23,15.73,8.1%,1.23,4.85%,2.0%,4.0%,5.4,SELLING,$-3.7M,0,2,✅ 3/4,↑0 ↓0,$6.42B,Finance,NYSE
+PPC,Pilgrim's Pride Corporation,26.86,50.09,46.4%,26.91,26.91,23.73,16.95,0.2%,1.70,—,14.6%,3.1%,4.7,SELLING,$-303K,0,1,🔴 1/4,↑1 ↓0,$6.40B,Process Industries,NASDAQ
+GNTX,Gentex Corporation,23.93,29.38,18.6%,26.84,26.84,22.43,14.59,10.8%,1.99,2.01%,16.1%,—,—,—,—,0,0,🟡 2/4,↑0 ↓0,$5.04B,Producer Manufacturing,NASDAQ
+THO,"Thor Industries, Inc.",81.31,122.83,33.8%,87.12,87.12,78.42,49.97,6.7%,0.98,2.56%,6.1%,13.7%,7.6,BUYING,$+229K,1,0,✅ 3/4,↑0 ↓0,$4.23B,Consumer Durables,NYSE
+POST,"Post Holdings, Inc.",78.49,117.28,33.1%,84.70,84.70,69.77,,7.3%,1.12,—,8.3%,18.4%,8.2,SELLING,$-650K,0,1,✅ 4/4,↑0 ↓0,$3.45B,Consumer Non-Durables,NYSE
+ASH,Ashland Inc.,74.58,78.25,4.7%,74.99,74.99,66.29,42.87,0.6%,1.83,2.25%,4.0%,11.0%,6.2,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$3.42B,Consumer Non-Durables,NYSE
+CALY,Callaway Golf Company,16.86,20.28,16.9%,18.14,18.14,15.80,12.99,7.0%,1.40,—,3.0%,4.8%,3.5,SELLING,$-4.6M,0,5,✅ 4/4,↑0 ↓0,$3.01B,Consumer Durables,NYSE
+PBH,Prestige Consumer Healthcare Inc,53.60,71.07,24.6%,56.35,56.35,50.80,,4.9%,1.32,—,9.1%,—,—,SELLING,$-120K,0,4,🔴 1/4,↑0 ↓0,$2.54B,Health Technology,NYSE
+WERN,"Werner Enterprises, Inc.",36.43,47.49,23.3%,36.63,36.63,31.36,21.77,0.5%,1.61,1.54%,-3.3%,9.2%,3.0,SELLING,$-140K,0,2,🔴 1/4,↑0 ↓0,$2.18B,Transportation,NASDAQ
