@@ -1,0 +1,25 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+PFE,Pfizer Inc.,26.79,28.75,6.8%,28.20,28.20,25.46,18.16,5.0%,1.79,6.42%,5.0%,2.8%,3.9,BUYING,$+2.8M,3,2,✅ 4/4,↑0 ↓0,$152.69B,Health Technology,NYSE
+MSTR,Strategy Inc Class A,93.04,367.57,74.7%,97.63,97.63,64.99,36.36,4.7%,1.12,—,-63.6%,8.9%,1.8,SELLING,$-29.1M,0,34,🔴 0/4,↑1 ↓0,$35.75B,Technology Services,NASDAQ
+LEN,Lennar Corporation Class A,86.83,144.24,39.8%,94.31,94.31,73.15,48.96,7.9%,0.97,2.30%,7.2%,0.3%,0.2,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$20.87B,Consumer Durables,NYSE
+LYB,LyondellBasell Industries NV,63.76,83.94,24.0%,64.89,64.89,60.27,,1.7%,1.93,4.33%,-2.3%,4.8%,2.4,SELLING,$-27.0M,0,2,✅ 3/4,↑0 ↓0,$20.60B,Process Industries,NYSE
+TSN,"Tyson Foods, Inc. Class A",58.17,69.48,16.3%,59.36,59.36,54.00,33.14,2.0%,1.11,3.51%,3.2%,3.1%,2.9,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$20.06B,Consumer Non-Durables,NYSE
+RCI,Rogers Communications Inc. Class B,36.44,41.14,11.4%,37.23,37.23,34.85,25.02,2.1%,1.69,3.86%,44.4%,—,8.8,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$19.72B,Communications,NYSE
+ALB,Albemarle Corporation,136.15,221.00,38.4%,138.28,138.28,111.81,70.15,1.5%,2.00,1.20%,2.2%,0.1%,0.0,SELLING,$-6.0M,0,3,✅ 3/4,↑0 ↓0,$16.07B,Process Industries,NYSE
+COO,"Cooper Companies, Inc.",76.17,89.83,15.2%,85.30,85.30,71.47,42.86,10.7%,1.80,—,2.9%,4.9%,3.6,NEUTRAL,—,0,0,✅ 4/4,↑1 ↓0,$14.86B,Health Technology,NASDAQ
+RVTY,"Revvity, Inc.",116.84,118.34,1.3%,118.91,118.91,95.78,58.17,1.7%,1.80,0.24%,3.2%,9.5%,5.1,SELLING,$-256K,0,4,✅ 4/4,↑0 ↓0,$13.04B,Health Technology,NYSE
+CNH,CNH Industrial NV,10.44,13.31,21.6%,10.77,10.77,9.28,,3.1%,1.67,0.96%,4.0%,7.8%,6.2,SELLING,$-490K,0,1,🟡 2/4,↑0 ↓0,$12.92B,Producer Manufacturing,NYSE
+ICLR,ICON Plc,163.15,203.91,20.0%,207.49,207.49,161.19,90.56,21.4%,1.34,—,0.4%,3.3%,2.7,SELLING,$-1.7M,0,9,✅ 3/4,↑0 ↓0,$12.59B,Commercial Services,NASDAQ
+WLK,Westlake Corporation,79.55,124.23,36.0%,90.69,90.69,79.10,,12.3%,1.17,2.66%,-12.9%,14.9%,4.5,SELLING,$-7.2M,0,4,🔴 2/4,↑0 ↓0,$10.17B,Process Industries,NYSE
+BIO,"Bio-Rad Laboratories, Inc. Class A",356.26,365.00,2.4%,421.06,421.06,329.55,204.87,15.4%,1.33,—,3.1%,0.0%,—,SELLING,$-136K,0,1,🔴 2/4,↑0 ↓0,$9.58B,Health Technology,NYSE
+EMN,Eastman Chemical Company,74.07,83.47,11.3%,75.44,75.44,68.55,45.09,1.8%,1.39,4.54%,7.4%,6.2%,4.0,SELLING,$-234K,0,1,✅ 3/4,↑0 ↓0,$8.47B,Process Industries,NYSE
+GME,GameStop Corp. Class A,18.66,28.10,33.6%,22.53,22.53,15.64,,17.2%,1.43,—,14.1%,13.1%,16.2,SELLING,$-828K,0,5,✅ 3/3,—,$8.37B,Retail Trade,NYSE
+REXR,"Rexford Industrial Realty, Inc.",36.23,44.38,18.4%,42.72,42.72,32.71,,15.2%,1.09,4.80%,-4.8%,4.9%,2.8,SELLING,$-1.5M,3,2,✅ 3/4,↑1 ↓0,$8.08B,Finance,NYSE
+BLDR,"Builders FirstSource, Inc.",72.51,151.03,52.0%,86.33,86.33,56.93,,16.0%,1.95,—,2.5%,8.9%,3.5,BUYING,$+4.0M,1,1,🔴 1/4,↑0 ↓0,$7.80B,Retail Trade,NYSE
+RYN,Rayonier Inc.,21.57,27.34,21.1%,23.34,23.34,21.23,15.73,7.6%,1.24,4.82%,2.0%,4.0%,5.4,SELLING,$-3.7M,0,2,✅ 3/4,↑0 ↓0,$6.45B,Finance,NYSE
+GNTX,Gentex Corporation,23.87,29.38,18.8%,26.84,26.84,22.43,14.59,11.1%,1.98,2.01%,16.1%,7.3%,5.5,SELLING,$-631K,0,4,🟡 2/4,↑0 ↓0,$5.03B,Producer Manufacturing,NASDAQ
+THO,"Thor Industries, Inc.",79.00,122.83,35.7%,87.04,87.04,78.37,49.94,9.2%,0.95,2.63%,6.1%,13.7%,7.6,BUYING,$+229K,1,0,✅ 3/4,↑0 ↓0,$4.11B,Consumer Durables,NYSE
+POST,"Post Holdings, Inc.",80.95,117.28,31.0%,84.78,84.78,69.82,,4.5%,1.16,—,8.3%,18.4%,8.2,SELLING,$-650K,0,1,✅ 4/4,↑0 ↓0,$3.56B,Consumer Non-Durables,NYSE
+ASH,Ashland Inc.,73.71,78.25,5.8%,74.96,74.96,66.27,42.86,1.7%,1.81,2.28%,4.0%,11.0%,6.2,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$3.38B,Consumer Non-Durables,NYSE
+CALY,Callaway Golf Company,16.48,20.28,18.7%,18.12,18.12,15.80,12.99,9.1%,1.36,—,3.0%,4.8%,3.5,SELLING,$-4.6M,0,5,✅ 4/4,↑0 ↓0,$2.94B,Consumer Durables,NYSE
+PBH,Prestige Consumer Healthcare Inc,51.38,71.07,27.7%,56.27,56.27,50.76,,8.7%,1.27,—,9.1%,9.7%,8.0,SELLING,$-120K,0,4,🔴 1/4,—,$2.43B,Health Technology,NYSE
