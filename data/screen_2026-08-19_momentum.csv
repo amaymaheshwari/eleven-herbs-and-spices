@@ -1,0 +1,14 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+ABT,Abbott Laboratories,112.68,5.1%,107.21,102.84,79.00,3.81,2.24%,10.6%,1.5%,1.8,BUYING,$+174K,3,7,🟡 1/4,↑1 ↓0,$194.98B,Health Technology,NYSE
+SPGI,"S&P Global, Inc.",418.04,3.3%,404.66,371.15,270.10,3.91,0.93%,15.2%,3.0%,4.0,BUYING,$+2.6M,3,0,🔴 2/4,↑0 ↓0,$123.24B,Commercial Services,NYSE
+ADSK,"Autodesk, Inc.",246.79,1.8%,242.41,240.52,180.27,16.33,—,50.4%,4.7%,4.0,BUYING,$+2.2M,4,0,✅ 4/4,↑3 ↓0,$52.07B,Technology Services,NASDAQ
+VMRK,Vivmark Residential,64.03,4.1%,61.50,60.17,54.38,2.29,4.39%,8.1%,—,—,NEUTRAL,—,0,0,—,↑1 ↓0,$49.55B,Finance,NYSE
+HUM,Humana Inc.,382.00,5.4%,362.46,362.09,296.60,2.39,0.93%,6.8%,3.5%,2.4,BUYING,$+150K,1,0,✅ 4/4,↑0 ↓0,$45.87B,Health Services,NYSE
+WCN,"Waste Connections, Inc.",165.53,6.9%,154.81,136.68,102.68,5.28,0.85%,13.0%,1.5%,2.4,BUYING,$+3.6M,1,10,✅ 4/4,↑0 ↓0,$41.72B,Industrial Services,NYSE
+MLM,"Martin Marietta Materials, Inc.",522.81,7.1%,487.98,416.36,316.45,2.72,0.64%,8.9%,4.5%,3.7,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$31.40B,Non-Energy Minerals,NYSE
+AWK,"American Water Works Company, Inc.",136.27,2.6%,132.76,129.25,101.51,2.32,2.63%,10.1%,7.8%,5.2,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$27.08B,Utilities,NYSE
+IP,International Paper Company,40.05,7.6%,37.22,35.90,33.82,1.47,4.62%,-16.5%,16.5%,8.4,BUYING,$+157K,2,2,🔴 1/4,↑0 ↓0,$21.21B,Process Industries,NYSE
+TTEK,"Tetra Tech, Inc.",35.40,6.6%,33.20,29.03,20.45,4.89,0.81%,24.3%,5.2%,4.0,BUYING,$+50K,1,0,✅ 4/4,↑0 ↓0,$9.06B,Industrial Services,NASDAQ
+STN,Stantec Inc,74.20,1.0%,73.50,60.07,45.46,3.49,0.95%,15.7%,—,5.0,NEUTRAL,—,0,0,✅ 3/4,—,$8.34B,Industrial Services,NYSE
+LOPE,"Grand Canyon Education, Inc.",146.74,7.2%,136.90,121.18,100.24,5.75,—,31.0%,7.0%,4.8,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$3.82B,Commercial Services,NASDAQ
+MGEE,"MGE Energy, Inc.",81.25,6.6%,76.25,71.95,61.17,2.13,2.34%,11.0%,5.9%,7.3,BUYING,$+29K,1,0,✅ 3/4,↑0 ↓0,$3.07B,Utilities,NASDAQ
