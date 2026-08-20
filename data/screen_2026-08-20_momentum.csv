@@ -1,0 +1,12 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+ABT,Abbott Laboratories,114.43,6.6%,107.30,102.90,79.03,3.87,—,10.6%,1.5%,1.8,BUYING,$+174K,3,7,🟡 1/4,↑1 ↓0,$198.01B,Health Technology,NYSE
+SPGI,"S&P Global, Inc.",426.66,5.3%,405.10,371.44,270.27,3.99,—,15.2%,3.0%,4.0,BUYING,$+2.6M,3,0,🔴 2/4,↑0 ↓0,$125.78B,Commercial Services,NYSE
+ADSK,"Autodesk, Inc.",251.29,3.6%,242.63,240.67,180.36,16.63,—,50.4%,4.7%,4.0,BUYING,$+2.2M,4,0,✅ 4/4,↑3 ↓0,$53.02B,Technology Services,NASDAQ
+HUM,Humana Inc.,378.02,4.4%,362.26,361.95,296.52,2.36,—,6.8%,3.5%,2.4,BUYING,$+150K,1,0,✅ 4/4,↑0 ↓0,$45.39B,Health Services,NYSE
+WCN,"Waste Connections, Inc.",168.75,8.9%,154.98,136.79,102.74,5.38,—,13.0%,1.5%,2.4,BUYING,$+3.6M,1,10,✅ 4/4,↑0 ↓0,$42.53B,Industrial Services,NYSE
+MLM,"Martin Marietta Materials, Inc.",535.53,9.6%,488.62,416.78,316.70,2.79,—,8.9%,4.5%,3.7,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$32.17B,Non-Energy Minerals,NYSE
+AWK,"American Water Works Company, Inc.",138.71,4.4%,132.88,129.33,101.56,2.36,—,10.1%,7.8%,5.2,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$27.57B,Utilities,NYSE
+STN,Stantec Inc,74.80,1.7%,73.53,60.09,45.47,3.52,—,15.7%,—,5.0,NEUTRAL,—,0,0,✅ 3/4,—,$8.41B,Industrial Services,NYSE
+PPC,Pilgrim's Pride Corporation,31.28,1.6%,30.80,27.06,23.82,1.98,—,14.6%,3.1%,4.7,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$7.45B,Process Industries,NASDAQ
+LOPE,"Grand Canyon Education, Inc.",146.92,7.3%,136.91,121.19,100.24,5.76,—,31.0%,7.0%,4.8,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$3.83B,Commercial Services,NASDAQ
+MGEE,"MGE Energy, Inc.",81.24,6.5%,76.25,71.95,61.17,2.13,—,11.0%,5.9%,7.3,BUYING,$+29K,1,0,✅ 3/4,↑0 ↓0,$3.07B,Utilities,NASDAQ
