@@ -1,0 +1,4 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+ADSK,"Autodesk, Inc.",251.02,3.5%,242.62,240.66,180.35,16.61,—,50.4%,4.7%,4.0,BUYING,$+2.2M,4,0,✅ 4/4,↑3 ↓0,$52.97B,Technology Services,NASDAQ
+LOPE,"Grand Canyon Education, Inc.",146.27,6.9%,136.88,121.17,100.23,5.73,—,31.0%,7.0%,4.8,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$3.81B,Commercial Services,NASDAQ
+CXT,"Crane NXT, Co.",49.46,1.1%,48.93,40.86,33.00,2.25,—,11.5%,17.7%,11.1,BUYING,$+986K,2,1,✅ 4/4,—,$2.85B,Producer Manufacturing,NYSE
