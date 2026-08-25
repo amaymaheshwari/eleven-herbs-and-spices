@@ -1,0 +1,23 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+DIS,Walt Disney Company,110.61,119.78,7.7%,115.71,115.71,108.70,68.54,4.4%,1.74,—,7.8%,1.1%,1.8,SELLING,$-1.1M,0,2,✅ 4/4,↑1 ↓0,$190.99B,Consumer Services,NYSE
+PFE,Pfizer Inc.,27.97,28.75,2.7%,28.24,28.24,25.49,18.17,1.0%,1.87,—,5.0%,2.8%,3.9,BUYING,$+2.8M,3,2,✅ 4/4,↑0 ↓0,$159.42B,Health Technology,NYSE
+CTSH,Cognizant Technology Solutions Corporation Class A,62.20,87.03,28.5%,65.80,65.80,61.90,39.24,5.5%,1.94,—,14.9%,10.0%,4.6,SELLING,$-659K,1,9,✅ 3/4,↑1 ↓0,$28.02B,Technology Services,NASDAQ
+LEN,Lennar Corporation Class A,88.16,144.24,38.9%,94.36,94.36,73.18,48.98,6.6%,0.98,—,7.2%,0.3%,0.2,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$21.20B,Consumer Durables,NYSE
+TSN,"Tyson Foods, Inc. Class A",57.87,69.48,16.7%,59.35,59.35,54.00,33.14,2.5%,1.10,—,3.2%,3.1%,2.9,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$19.95B,Consumer Non-Durables,NYSE
+RCI,Rogers Communications Inc. Class B,36.39,41.14,11.5%,37.22,37.22,34.85,25.02,2.2%,1.69,—,44.4%,—,8.8,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$19.73B,Communications,NYSE
+SWK,"Stanley Black & Decker, Inc.",98.51,104.68,5.9%,101.37,101.37,98.40,66.07,2.8%,1.66,—,6.9%,6.2%,4.6,SELLING,$-105K,0,1,✅ 4/4,↑0 ↓0,$14.88B,Consumer Durables,NYSE
+COO,"Cooper Companies, Inc.",75.80,89.83,15.6%,85.29,85.29,71.46,42.85,11.1%,1.79,—,2.9%,4.9%,3.6,NEUTRAL,—,0,0,✅ 4/4,↑1 ↓0,$14.78B,Health Technology,NASDAQ
+ICLR,ICON Plc,173.48,203.91,14.9%,207.83,207.83,161.39,90.66,16.5%,1.43,—,0.4%,3.3%,2.7,SELLING,$-1.7M,0,9,✅ 3/4,↑0 ↓0,$13.38B,Commercial Services,NASDAQ
+BIO,"Bio-Rad Laboratories, Inc. Class A",381.76,385.92,1.1%,421.91,421.91,330.06,205.13,9.5%,1.42,—,3.1%,0.0%,—,SELLING,$-136K,0,1,🔴 2/4,↑0 ↓0,$10.23B,Health Technology,NYSE
+REXR,"Rexford Industrial Realty, Inc.",37.67,44.38,15.1%,42.77,42.77,32.74,,11.9%,1.14,—,-4.8%,4.9%,2.8,SELLING,$-1.5M,3,2,✅ 3/4,↑1 ↓0,$8.40B,Finance,NYSE
+EMN,Eastman Chemical Company,72.69,83.47,12.9%,75.39,75.39,68.52,45.08,3.6%,1.36,—,7.4%,6.2%,4.0,SELLING,$-234K,0,1,✅ 3/4,↑0 ↓0,$8.31B,Process Industries,NYSE
+GME,GameStop Corp. Class A,18.04,28.10,35.8%,22.51,22.51,15.62,,19.9%,1.39,—,14.1%,13.1%,16.2,SELLING,$-828K,0,5,✅ 3/3,—,$8.09B,Retail Trade,NYSE
+BLDR,"Builders FirstSource, Inc.",70.22,151.03,53.5%,86.26,86.26,56.88,,18.6%,1.89,—,2.5%,8.9%,3.5,BUYING,$+4.0M,1,1,🔴 1/4,↑1 ↓0,$7.56B,Retail Trade,NYSE
+DOX,Amdocs Limited,62.10,87.57,29.1%,71.33,71.33,62.09,42.12,12.9%,1.97,—,13.1%,12.4%,7.8,—,—,0,0,🟡 2/4,↑1 ↓0,$6.68B,Technology Services,NASDAQ
+GNTX,Gentex Corporation,23.59,29.38,19.7%,26.83,26.83,22.42,14.58,12.1%,1.96,—,16.1%,7.3%,5.5,SELLING,$-631K,0,4,🟡 2/4,↑0 ↓0,$4.97B,Producer Manufacturing,NASDAQ
+THO,"Thor Industries, Inc.",79.42,122.83,35.3%,87.06,87.06,78.38,49.95,8.8%,0.96,—,6.1%,13.7%,7.6,BUYING,$+229K,1,0,✅ 3/4,↑0 ↓0,$4.13B,Consumer Durables,NYSE
+POST,"Post Holdings, Inc.",82.38,117.28,29.8%,84.83,84.83,69.85,,2.9%,1.18,—,8.3%,18.4%,8.2,SELLING,$-650K,0,1,✅ 4/4,↑0 ↓0,$3.62B,Consumer Non-Durables,NYSE
+ASH,Ashland Inc.,73.71,78.25,5.8%,74.96,74.96,66.27,42.86,1.7%,1.81,—,4.0%,11.0%,6.2,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$3.38B,Consumer Non-Durables,NYSE
+FUL,H.B. Fuller Company,57.99,68.63,15.5%,58.86,58.86,51.77,35.00,1.5%,1.50,—,9.4%,7.1%,3.6,SELLING,$-232K,2,1,✅ 4/4,↑0 ↓0,$3.12B,Process Industries,NYSE
+CALY,Callaway Golf Company,15.79,20.28,22.1%,18.10,18.10,15.78,12.98,12.8%,1.31,—,3.0%,4.8%,3.5,SELLING,$-3.5M,0,3,✅ 4/4,↑0 ↓0,$2.82B,Consumer Durables,NYSE
+PBH,Prestige Consumer Healthcare Inc,52.02,71.07,26.8%,56.29,56.29,50.77,,7.6%,1.29,—,9.1%,9.7%,8.0,SELLING,$-120K,0,4,🔴 1/4,—,$2.46B,Health Technology,NYSE

@@ -1,0 +1,20 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+ABT,Abbott Laboratories,116.67,8.6%,107.41,102.97,79.08,3.95,—,10.6%,1.5%,1.8,BUYING,$+174K,3,7,🟡 1/4,↑1 ↓0,$201.88B,Health Technology,NYSE
+SPGI,"S&P Global, Inc.",435.42,7.4%,405.53,371.73,270.45,4.07,—,15.2%,3.0%,4.0,BUYING,$+2.6M,3,0,🔴 2/4,↑0 ↓0,$128.36B,Commercial Services,NYSE
+ADSK,"Autodesk, Inc.",254.42,4.8%,242.79,240.78,180.42,16.83,—,50.4%,4.7%,4.0,BUYING,$+2.2M,4,0,✅ 4/4,↑3 ↓0,$53.68B,Technology Services,NASDAQ
+HUM,Humana Inc.,386.61,6.6%,362.69,362.24,296.69,2.42,—,6.8%,3.5%,2.4,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$46.42B,Health Services,NYSE
+KDP,Keurig Dr Pepper Inc.,32.51,4.3%,31.18,29.64,23.15,1.77,—,5.7%,5.2%,4.8,NEUTRAL,—,0,0,✅ 3/4,↑2 ↓0,$44.24B,Consumer Non-Durables,NASDAQ
+WCN,"Waste Connections, Inc.",168.97,9.0%,154.99,136.80,102.74,5.39,—,13.0%,1.5%,2.4,BUYING,$+3.1M,1,12,✅ 4/4,↑0 ↓0,$42.59B,Industrial Services,NYSE
+MLM,"Martin Marietta Materials, Inc.",533.11,9.1%,488.50,416.70,316.66,2.77,—,8.9%,4.5%,3.7,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$32.02B,Non-Energy Minerals,NYSE
+AWK,"American Water Works Company, Inc.",139.91,5.2%,132.94,129.37,101.58,2.38,—,10.1%,7.8%,5.2,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$27.80B,Utilities,NYSE
+BR,"Broadridge Financial Solutions, Inc.",185.45,1.7%,182.32,162.41,122.40,7.44,—,40.9%,4.0%,4.0,BUYING,$+736K,2,1,✅ 4/4,↑0 ↓0,$21.15B,Technology Services,NYSE
+RBA,"RB Global, Inc.",84.07,8.3%,77.63,67.04,50.44,2.80,—,8.0%,9.4%,13.3,BUYING,$+51K,2,2,✅ 3/4,↑1 ↓0,$15.56B,Technology Services,NYSE
+TXT,Textron Inc.,82.13,5.2%,78.07,68.30,59.68,1.75,—,12.1%,4.6%,3.9,BUYING,$+754K,1,1,✅ 4/4,↑0 ↓0,$14.13B,Electronic Technology,NYSE
+RPM,RPM International Inc.,106.36,6.8%,99.57,90.20,71.07,4.10,—,21.3%,3.9%,3.7,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$13.59B,Process Industries,NYSE
+JKHY,"Jack Henry & Associates, Inc.",170.51,2.7%,166.07,159.32,130.30,,—,24.0%,7.3%,3.9,BUYING,$+317K,2,0,✅ 4/4,↑1 ↓0,$12.11B,Technology Services,NASDAQ
+STN,Stantec Inc,74.21,1.0%,73.50,60.07,45.46,3.49,—,15.7%,—,5.0,NEUTRAL,—,0,0,✅ 3/4,—,$8.34B,Industrial Services,NYSE
+PPC,Pilgrim's Pride Corporation,31.79,3.1%,30.82,27.08,23.83,2.02,—,14.6%,3.1%,4.7,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$7.57B,Process Industries,NASDAQ
+LOPE,"Grand Canyon Education, Inc.",147.66,7.8%,136.95,121.21,100.26,5.79,—,31.0%,7.0%,4.8,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$3.85B,Commercial Services,NASDAQ
+MGEE,"MGE Energy, Inc.",79.32,4.2%,76.15,71.88,61.14,2.08,—,11.0%,5.9%,7.3,BUYING,$+50K,2,0,✅ 3/4,↑0 ↓0,$3.00B,Utilities,NASDAQ
+CXT,"Crane NXT, Co.",49.80,1.7%,48.95,40.88,33.01,2.26,—,11.5%,17.7%,11.1,BUYING,$+986K,2,1,✅ 4/4,—,$2.87B,Producer Manufacturing,NYSE
+LCII,LCI Industries,104.51,3.3%,101.16,99.10,83.06,1.77,—,15.0%,13.8%,3.9,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$2.54B,Producer Manufacturing,NYSE
