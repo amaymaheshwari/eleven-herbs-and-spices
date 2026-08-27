@@ -1,0 +1,27 @@
+Ticker,Company,Price,52W High,% Off 52W High,100Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+AIG,"American International Group, Inc.",76.63,87.29,12.2%,230.25,56.74,51.77,230.25,66.7%,0.99,—,7.2%,1.8%,2.4,SELLING,$-18.1M,0,1,✅ 4/4,↑0 ↓0,$40.07B,Finance,NYSE
+PCG,PG&E Corporation,17.95,19.16,6.3%,27.20,14.21,27.83,27.20,34.0%,1.22,—,9.7%,0.0%,—,SELLING,$-6.4M,0,9,✅ 3/4,↑0 ↓0,$39.53B,Utilities,NYSE
+FIS,"Fidelity National Information Services, Inc.",40.55,70.38,42.4%,48.20,84.92,77.75,48.20,15.9%,1.30,—,22.3%,3.6%,2.5,BUYING,$+1.1M,3,0,🟡 2/4,↑1 ↓0,$20.91B,Technology Services,NYSE
+VTRS,"Viatris, Inc.",16.89,18.39,8.2%,18.54,11.58,20.73,18.54,8.9%,1.37,—,-2.8%,3.2%,3.4,—,—,0,0,✅ 4/4,—,$19.40B,Health Technology,NASDAQ
+SIRI,SiriusXM Holdings Inc.,28.50,32.66,12.7%,31.02,40.27,39.66,31.02,8.1%,0.81,—,7.6%,17.4%,8.6,SELLING,$-1.2M,0,3,🔴 1/4,↑0 ↓0,$9.61B,Consumer Services,NASDAQ
+ARE,"Alexandria Real Estate Equities, Inc.",52.28,88.24,40.7%,66.39,107.39,95.18,66.39,21.3%,0.57,—,-6.3%,5.5%,3.9,BUYING,$+1.3M,5,2,✅ 3/4,↑0 ↓0,$9.11B,Finance,NYSE
+CAG,"Conagra Brands, Inc.",16.02,20.32,21.1%,16.75,23.96,23.39,16.75,4.4%,1.21,—,-25.1%,10.9%,2.9,BUYING,$+761K,2,0,✅ 3/4,↑0 ↓0,$7.67B,Consumer Non-Durables,NYSE
+MOS,Mosaic Company,23.76,36.99,35.8%,28.82,29.16,28.08,28.82,17.6%,0.66,—,-5.3%,12.1%,3.9,SELLING,$-509K,0,1,🔴 1/4,↑1 ↓0,$7.55B,Process Industries,NYSE
+NOV,NOV Inc.,20.76,21.67,4.2%,27.26,15.65,24.19,27.26,23.8%,1.20,—,1.5%,13.3%,7.4,—,—,0,0,🔴 1/4,↑0 ↓0,$7.40B,Industrial Services,NYSE
+CPB,Campbell's Company,23.28,34.17,31.9%,27.05,36.23,35.56,27.05,13.9%,1.72,—,15.4%,27.1%,7.9,BUYING,$+6K,1,0,✅ 3/4,↑1 ↓0,$6.94B,Consumer Non-Durables,NASDAQ
+CLF,Cleveland-Cliffs Inc,11.83,16.70,29.2%,19.44,14.10,11.34,19.44,39.1%,1.20,—,-15.2%,14.3%,3.4,SELLING,$-2.9M,0,1,✅ 3/4,↑0 ↓0,$6.75B,Non-Energy Minerals,NYSE
+RIG,Transocean Ltd.,5.74,7.66,25.1%,29.99,4.39,8.16,29.99,80.9%,0.77,—,-18.7%,26.4%,6.1,SELLING,$-325K,1,1,🔴 2/4,↑0 ↓0,$6.41B,Industrial Services,NYSE
+FLG,"Flagstar Bank, National Association",13.45,15.44,12.9%,20.92,21.40,23.51,20.92,35.7%,0.73,—,0.6%,0.0%,—,NEUTRAL,—,0,0,🟡 1/4,↑0 ↓0,$5.58B,Finance,NYSE
+PTEN,"Patterson-UTI Energy, Inc.",12.26,13.08,6.3%,13.32,8.79,11.71,13.32,8.0%,1.51,—,-2.8%,9.2%,3.3,SELLING,$-16.1M,0,9,✅ 3/4,↑0 ↓0,$4.68B,Energy Minerals,NASDAQ
+CRK,"Comstock Resources, Inc.",14.62,28.10,48.0%,62.85,11.54,13.44,62.85,76.7%,1.66,—,20.9%,31.3%,10.8,SELLING,$-1.0M,0,1,✅ 3/4,↑0 ↓0,$4.29B,Energy Minerals,NYSE
+HOG,"Harley-Davidson, Inc.",27.84,31.25,10.9%,32.56,30.33,33.99,32.56,14.5%,0.94,—,6.3%,24.4%,7.2,BUYING,$+1.5M,5,6,🟡 2/4,↑0 ↓0,$2.90B,Consumer Durables,NYSE
+ACHC,"Acadia Healthcare Company, Inc.",30.22,35.83,15.7%,30.32,49.57,49.14,30.32,0.3%,1.39,—,-44.5%,34.6%,7.9,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$2.81B,Health Services,NASDAQ
+AAP,"Advance Auto Parts, Inc.",43.67,65.21,33.0%,77.06,105.96,114.31,77.06,43.3%,1.16,—,4.8%,26.9%,6.8,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$2.64B,Retail Trade,NYSE
+WHR,Whirlpool Corporation,39.75,96.57,58.8%,76.62,108.43,108.78,76.62,48.1%,0.66,—,6.0%,0.0%,—,BUYING,$+199K,1,0,🔴 1/4,↑2 ↓0,$2.59B,Consumer Durables,NYSE
+NEOG,Neogen Corp,11.74,12.85,8.6%,14.50,22.88,23.44,14.50,19.1%,1.22,—,-0.4%,6.1%,4.5,BUYING,$+4K,1,0,✅ 3/4,↑0 ↓0,$2.56B,Health Technology,NASDAQ
+NWL,Newell Brands Inc,5.88,7.13,17.5%,13.98,10.96,16.12,13.98,57.9%,1.02,—,-8.6%,16.4%,4.4,SELLING,$-1.9M,0,5,🟡 2/4,↑0 ↓0,$2.50B,Producer Manufacturing,NASDAQ
+BXMT,"Blackstone Mortgage Trust, Inc. Class A",13.81,20.66,33.2%,16.20,16.39,14.81,16.20,14.8%,0.71,—,0.4%,9.6%,4.6,BUYING,$+8K,1,5,🔴 0/4,↑0 ↓0,$2.33B,Finance,NYSE
+PENN,"PENN Entertainment, Inc.",17.33,22.36,22.5%,17.49,32.92,27.61,17.49,0.9%,1.25,—,-37.4%,14.1%,5.1,BUYING,$+121K,1,0,✅ 3/4,↑1 ↓0,$2.32B,Consumer Services,NASDAQ
+SRPT,"Sarepta Therapeutics, Inc.",21.59,25.32,14.7%,47.53,92.96,75.89,47.53,54.6%,1.49,—,-18.4%,30.7%,8.7,SELLING,$-123K,0,1,✅ 3/4,↑0 ↓0,$2.28B,Health Technology,NASDAQ
+XRAY,"DENTSPLY SIRONA, Inc.",11.04,14.86,25.7%,32.50,32.81,38.55,32.50,66.0%,1.63,—,-33.0%,11.0%,3.8,BUYING,$+1.6M,10,0,🔴 1/4,↑1 ↓0,$2.20B,Health Technology,NASDAQ
+INVX,"Innovex International, Inc.",29.84,33.71,11.5%,41.96,26.92,39.97,41.96,28.9%,1.94,—,6.0%,5.2%,3.1,SELLING,$-144.2M,0,3,🔴 1/4,↑1 ↓0,$2.09B,Industrial Services,NYSE
