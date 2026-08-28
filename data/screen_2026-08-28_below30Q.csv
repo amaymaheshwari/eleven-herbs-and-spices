@@ -1,0 +1,18 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+PFE,Pfizer Inc.,27.96,28.75,2.7%,28.24,28.24,25.49,18.17,1.0%,1.87,—,5.0%,2.6%,3.7,BUYING,$+2.8M,3,2,✅ 4/4,↑0 ↓0,$159.36B,Health Technology,NYSE
+LEN,Lennar Corporation Class A,86.33,144.24,40.1%,94.29,94.29,73.14,48.96,8.4%,0.96,—,7.2%,0.3%,0.2,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$20.75B,Consumer Durables,NYSE
+LYB,LyondellBasell Industries NV,63.67,83.94,24.1%,64.25,64.25,59.66,,0.9%,1.93,—,-2.3%,—,—,—,—,0,0,—,—,$20.57B,Process Industries,NYSE
+RCI,Rogers Communications Inc. Class B,36.59,41.14,11.1%,37.23,37.23,34.85,25.02,1.7%,1.70,—,44.4%,—,—,—,—,0,0,—,—,$19.85B,Communications,NYSE
+TSN,"Tyson Foods, Inc. Class A",55.40,69.48,20.3%,59.27,59.27,53.95,33.11,6.5%,1.06,—,3.2%,—,—,—,—,0,0,—,—,$19.10B,Consumer Non-Durables,NYSE
+ICLR,ICON Plc,170.02,203.91,16.6%,207.72,207.72,161.32,90.62,18.1%,1.40,—,0.4%,3.2%,2.8,SELLING,$-1.7M,0,9,✅ 3/4,↑0 ↓0,$13.12B,Commercial Services,NASDAQ
+BIO,"Bio-Rad Laboratories, Inc. Class A",387.70,396.23,2.2%,422.11,422.11,330.18,205.19,8.2%,1.45,—,3.1%,0.0%,—,SELLING,$-136K,0,1,🔴 2/4,↑0 ↓0,$10.42B,Health Technology,NYSE
+EMN,Eastman Chemical Company,73.03,83.47,12.5%,75.40,75.40,68.53,45.08,3.1%,1.37,—,7.4%,—,—,—,—,0,0,—,—,$8.35B,Process Industries,NYSE
+REXR,"Rexford Industrial Realty, Inc.",37.13,44.38,16.3%,42.75,42.75,32.73,,13.2%,1.12,—,-4.8%,4.7%,2.7,SELLING,$-2.0M,0,2,✅ 3/4,↑1 ↓0,$8.28B,Finance,NYSE
+GME,GameStop Corp. Class A,17.87,28.10,36.4%,22.51,22.51,15.62,,20.6%,1.37,—,14.1%,—,—,—,—,0,0,—,—,$8.02B,Retail Trade,NYSE
+BLDR,"Builders FirstSource, Inc.",67.72,151.03,55.2%,86.17,86.17,56.83,,21.4%,1.82,—,2.5%,8.1%,3.2,BUYING,$+4.0M,1,1,🔴 1/4,↑1 ↓0,$7.29B,Retail Trade,NYSE
+DOX,Amdocs Limited,62.91,86.14,27.0%,71.35,71.35,62.11,42.13,11.8%,2.00,—,13.1%,—,—,—,—,0,0,—,—,$6.77B,Technology Services,NASDAQ
+GNTX,Gentex Corporation,22.67,29.38,22.8%,26.80,26.80,22.40,14.57,15.4%,1.88,—,16.1%,7.5%,6.5,SELLING,$-631K,0,4,🟡 2/4,↑0 ↓0,$4.78B,Producer Manufacturing,NASDAQ
+ASH,Ashland Inc.,74.37,78.25,5.0%,74.99,74.99,66.28,42.87,0.8%,1.82,—,4.0%,10.5%,5.4,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$3.41B,Consumer Non-Durables,NYSE
+FUL,H.B. Fuller Company,56.35,68.63,17.9%,58.81,58.81,51.73,34.99,4.2%,1.46,—,9.4%,—,—,—,—,0,0,—,—,$3.03B,Process Industries,NYSE
+PBH,Prestige Consumer Healthcare Inc,52.47,71.07,26.2%,56.31,56.31,50.78,,6.8%,1.30,—,9.1%,10.9%,7.7,SELLING,$-120K,0,4,🔴 1/4,—,$2.49B,Health Technology,NYSE
+ROG,Rogers Corporation,125.52,169.00,25.7%,146.47,146.47,125.10,82.86,14.3%,1.87,—,2.6%,—,—,—,—,0,0,—,—,$2.24B,Process Industries,NYSE
