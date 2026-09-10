@@ -1,0 +1,25 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+AZN,AstraZeneca PLC,158.74,9.0%,145.65,127.77,97.76,4.90,—,22.1%,0.1%,0.5,NEUTRAL,—,0,0,🟡 2/2,↑1 ↓0,$246.19B,Health Technology,NYSE
+SPGI,"S&P Global, Inc.",417.27,3.1%,404.76,373.27,272.81,3.90,—,15.2%,2.6%,3.8,BUYING,$+2.6M,3,0,🔴 2/4,↑0 ↓0,$123.01B,Commercial Services,NYSE
+WCN,"Waste Connections, Inc.",161.56,4.5%,154.60,136.54,102.59,5.15,—,13.0%,1.7%,2.8,BUYING,$+3.3M,1,11,✅ 4/4,↑0 ↓0,$40.72B,Industrial Services,NYSE
+DHI,"D.R. Horton, Inc.",134.49,6.5%,126.33,106.98,76.45,1.59,—,12.8%,4.6%,3.8,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$37.62B,Consumer Durables,NYSE
+MLM,"Martin Marietta Materials, Inc.",496.15,1.1%,490.54,420.09,320.65,2.58,—,8.9%,4.3%,4.0,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$35.24B,Non-Energy Minerals,NYSE
+AWK,"American Water Works Company, Inc.",141.92,6.7%,132.96,129.39,101.59,2.42,—,10.1%,6.9%,4.6,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$28.20B,Utilities,NYSE
+SW,Smurfit Westrock PLC,42.47,6.2%,40.01,38.10,31.01,1.24,—,2.7%,4.6%,4.2,NEUTRAL,—,0,0,🔴 0/4,↑1 ↓0,$22.21B,Process Industries,NYSE
+MKL,Markel Group Inc.,1773.28,8.8%,1629.44,1459.55,1255.42,1.16,—,12.6%,1.9%,3.7,BUYING,$+231K,2,1,🔴 2/4,—,$21.97B,Finance,NYSE
+RBA,"RB Global, Inc.",81.31,3.8%,78.33,68.55,51.54,2.71,—,8.0%,9.8%,8.5,BUYING,$+151K,3,2,✅ 3/4,↑0 ↓0,$15.05B,Technology Services,NYSE
+TXT,Textron Inc.,79.42,0.9%,78.69,69.34,60.61,1.70,—,12.1%,5.0%,4.2,BUYING,$+754K,1,1,✅ 4/4,↑0 ↓0,$13.66B,Electronic Technology,NYSE
+MAS,Masco Corporation,67.58,7.8%,62.66,57.63,45.69,,—,—,4.3%,2.6,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$13.33B,Producer Manufacturing,NYSE
+CSL,Carlisle Companies Incorporated,332.45,3.7%,320.48,264.09,195.45,8.18,—,39.4%,7.3%,4.6,NEUTRAL,—,0,0,✅ 4/4,↑1 ↓0,$13.20B,Producer Manufacturing,NYSE
+MGM,MGM Resorts International,40.95,5.2%,38.90,36.41,31.85,4.10,—,15.4%,14.5%,7.2,BUYING,$+37.0M,1,1,🔴 2/4,↑0 ↓0,$10.30B,Consumer Services,NYSE
+UHS,"Universal Health Services, Inc. Class B",173.22,5.3%,164.49,152.18,137.74,1.36,—,21.0%,6.2%,2.7,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$10.21B,Health Services,NYSE
+TTEK,"Tetra Tech, Inc.",35.62,7.7%,33.09,29.30,20.71,4.93,—,24.3%,4.7%,3.7,BUYING,$+50K,1,0,✅ 4/4,↑0 ↓0,$9.12B,Industrial Services,NASDAQ
+GBCI,"Glacier Bancorp, Inc.",45.51,8.0%,42.13,40.87,34.56,1.37,—,7.9%,7.2%,7.0,BUYING,$+106K,1,0,🟡 1/4,↑0 ↓0,$5.93B,Finance,NYSE
+RLI,RLI Corp.,60.90,1.7%,59.90,52.46,40.14,3.19,—,25.2%,9.6%,9.0,BUYING,$+1.1M,7,0,✅ 4/4,↑0 ↓0,$5.59B,Finance,NYSE
+HRB,"H&R Block, Inc.",44.52,7.8%,41.30,33.22,27.55,47.05,—,707.5%,23.7%,7.2,NEUTRAL,—,0,0,✅ 4/4,↑1 ↓0,$5.49B,Consumer Services,NYSE
+HRI,"Herc Holdings, Inc.",144.83,7.4%,134.83,111.51,84.88,2.56,—,2.6%,8.2%,4.0,BUYING,$+503K,1,0,✅ 3/4,↑1 ↓0,$4.84B,Finance,NYSE
+LRN,"Stride, Inc.",82.19,8.9%,75.48,59.33,42.36,2.09,—,21.7%,26.0%,6.4,NEUTRAL,—,0,0,✅ 4/4,—,$3.42B,Consumer Services,NYSE
+CXT,"Crane NXT, Co.",50.52,3.9%,48.62,40.77,32.93,2.30,—,11.5%,17.4%,12.2,BUYING,$+967K,2,2,✅ 4/4,↑0 ↓0,$2.91B,Producer Manufacturing,NYSE
+MGEE,"MGE Energy, Inc.",76.90,1.7%,75.58,71.43,60.74,2.02,—,11.0%,5.8%,8.8,BUYING,$+21K,1,0,✅ 3/4,↑0 ↓0,$2.91B,Utilities,NASDAQ
+PATK,"Patrick Industries, Inc.",75.69,6.9%,70.79,59.81,45.49,2.15,—,13.0%,20.4%,8.4,BUYING,$+2.5M,8,0,✅ 4/4,↑0 ↓0,$2.43B,Consumer Durables,NASDAQ
+CENT,Central Garden & Pet Company,39.78,8.8%,36.55,34.60,28.59,1.43,—,10.0%,6.9%,3.7,NEUTRAL,—,0,0,✅ 3/4,—,$2.21B,Consumer Non-Durables,NASDAQ
