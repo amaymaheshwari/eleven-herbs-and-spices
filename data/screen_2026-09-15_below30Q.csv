@@ -1,0 +1,23 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+PFE,Pfizer Inc.,27.52,29.21,5.8%,28.54,28.54,25.84,18.36,3.6%,1.84,—,5.0%,2.7%,3.9,BUYING,$+2.8M,3,2,✅ 4/4,↑0 ↓0,$156.83B,Health Technology,NYSE
+EIX,Edison International,55.11,81.62,32.5%,55.52,55.52,51.00,35.19,0.7%,1.22,—,22.6%,5.3%,3.2,SELLING,$-75K,0,2,✅ 4/4,↑0 ↓0,$21.21B,Utilities,NYSE
+RCI,Rogers Communications Inc. Class B,36.12,41.14,12.2%,36.87,36.87,34.51,24.78,2.0%,1.67,—,44.4%,—,17.6,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$19.53B,Communications,NYSE
+AMCR,Amcor PLC,42.20,50.94,17.2%,42.47,42.47,38.95,,0.6%,1.65,—,9.4%,4.5%,4.9,—,—,0,0,🔴 2/4,↑2 ↓0,$19.51B,Process Industries,NYSE
+LEN,Lennar Corporation Class A,79.36,139.44,43.1%,96.12,96.12,74.51,49.74,17.4%,0.88,—,7.2%,0.2%,0.2,NEUTRAL,—,0,0,🔴 1/4,↑1 ↓0,$19.08B,Consumer Durables,NYSE
+IP,International Paper Company,34.41,50.25,31.5%,36.76,36.76,34.31,24.95,6.4%,1.26,—,-16.5%,15.5%,11.6,SELLING,$-843K,1,2,🔴 1/4,↑0 ↓0,$18.22B,Process Industries,NYSE
+ICLR,ICON Plc,170.45,203.91,16.4%,207.75,207.75,161.34,90.63,18.0%,1.40,—,0.4%,3.5%,4.1,SELLING,$-1.7M,0,9,✅ 3/4,↑0 ↓0,$13.15B,Commercial Services,NASDAQ
+GME,GameStop Corp. Class A,21.21,28.10,24.5%,22.62,22.62,15.69,,6.2%,1.55,—,15.8%,13.9%,7.4,BUYING,$+20.9M,4,5,🟡 2/3,—,$10.70B,Retail Trade,NYSE
+BIO,"Bio-Rad Laboratories, Inc. Class A",375.86,396.23,5.1%,424.07,424.07,334.79,207.39,11.4%,1.40,—,3.1%,7.1%,4.2,SELLING,$-136K,0,1,🔴 2/4,↑0 ↓0,$10.09B,Health Technology,NYSE
+REXR,"Rexford Industrial Realty, Inc.",38.99,44.38,12.1%,42.82,42.82,32.77,,8.9%,1.18,—,-4.8%,5.4%,4.1,SELLING,$-1.2M,0,1,✅ 3/4,↑1 ↓0,$8.69B,Finance,NYSE
+BLDR,"Builders FirstSource, Inc.",59.41,141.32,58.0%,87.64,87.64,57.85,,32.2%,1.60,—,2.5%,8.7%,4.1,SELLING,$-391K,0,1,🔴 1/4,↑1 ↓0,$6.39B,Retail Trade,NYSE
+JBTM,JBT Marel Corporation,111.69,170.19,34.4%,113.80,113.80,95.51,,1.9%,1.30,—,4.4%,7.7%,5.1,NEUTRAL,—,0,0,✅ 3/4,↑2 ↓0,$5.79B,Producer Manufacturing,NYSE
+SON,Sonoco Products Company,48.10,60.67,20.7%,48.78,48.78,43.62,30.13,1.4%,1.33,—,18.9%,13.1%,11.2,BUYING,$+974K,3,1,🟡 2/4,↑0 ↓0,$4.76B,Process Industries,NYSE
+UFPI,"UFP Industries, Inc.",80.89,118.00,31.4%,81.26,81.26,58.90,34.45,0.5%,1.47,—,7.7%,5.5%,5.5,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$4.46B,Non-Energy Minerals,NASDAQ
+SLGN,Silgan Holdings Inc.,38.44,49.55,22.4%,40.19,40.19,33.46,21.75,4.4%,1.71,—,11.7%,10.9%,10.5,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$4.06B,Process Industries,NYSE
+POST,"Post Holdings, Inc.",77.22,117.28,34.2%,84.65,84.65,69.74,,8.8%,1.10,—,8.3%,15.4%,5.7,SELLING,$-32.9M,0,2,✅ 4/4,↑0 ↓0,$3.39B,Consumer Non-Durables,NYSE
+ASH,Ashland Inc.,69.68,78.25,11.0%,74.64,74.64,66.62,42.99,6.7%,1.71,—,4.0%,11.9%,7.7,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$3.19B,Consumer Non-Durables,NYSE
+VC,Visteon Corporation,98.60,128.15,23.1%,101.32,101.32,92.73,,2.7%,1.63,—,10.0%,16.6%,10.0,SELLING,$-7.2M,0,7,🔴 2/4,↑0 ↓0,$2.63B,Producer Manufacturing,NASDAQ
+KWR,Quaker Houghton,152.61,183.00,16.6%,172.05,172.05,149.17,86.42,11.3%,1.91,—,7.2%,15.5%,11.2,SELLING,$-208K,0,2,🟡 2/4,↑0 ↓0,$2.63B,Process Industries,NYSE
+ROG,Rogers Corporation,131.44,169.00,22.2%,144.46,144.46,125.12,83.15,9.0%,1.95,—,2.6%,4.5%,2.8,SELLING,$-430K,0,2,✅ 3/4,—,$2.35B,Process Industries,NYSE
+WERN,"Werner Enterprises, Inc.",37.30,47.49,21.5%,37.34,37.34,32.07,22.09,0.1%,1.65,—,-3.3%,12.2%,5.8,SELLING,$-41K,0,1,🔴 1/4,↑0 ↓0,$2.24B,Transportation,NASDAQ
+LCII,LCI Industries,88.45,159.66,44.6%,100.23,100.23,84.22,49.37,11.8%,1.50,—,15.0%,12.8%,8.6,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$2.15B,Producer Manufacturing,NYSE
