@@ -1,0 +1,26 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+PFE,Pfizer Inc.,27.52,29.21,5.8%,28.40,28.40,25.78,18.32,3.1%,1.84,—,5.0%,2.7%,4.6,BUYING,$+2.8M,3,2,✅ 4/4,↑0 ↓0,$156.83B,Health Technology,NYSE
+ROP,"Roper Technologies, Inc.",361.85,521.28,30.6%,434.92,434.92,345.45,200.43,16.8%,1.91,—,13.1%,6.1%,8.1,SELLING,$-3.1M,0,2,✅ 4/4,↑1 ↓0,$35.79B,Technology Services,NASDAQ
+CNC,Centene Corporation,64.03,69.63,8.0%,64.25,64.25,55.24,31.02,0.3%,1.40,—,-20.4%,—,—,—,—,0,0,—,—,$31.63B,Health Services,NYSE
+EIX,Edison International,54.19,81.62,33.6%,55.33,55.33,51.05,35.40,2.1%,1.20,—,22.6%,—,—,—,—,0,0,—,—,$20.85B,Utilities,NYSE
+BRO,"Brown & Brown, Inc.",60.64,96.55,37.2%,66.14,66.14,47.84,28.69,8.3%,1.59,—,9.9%,—,—,—,—,0,0,—,—,$20.29B,Finance,NYSE
+AMCR,Amcor PLC,41.93,50.94,17.7%,42.46,42.46,38.95,,1.3%,1.64,—,9.4%,—,—,—,—,0,0,—,—,$19.38B,Process Industries,NYSE
+LEN,Lennar Corporation Class A,74.22,133.76,44.5%,93.67,93.67,73.05,49.16,20.8%,0.82,—,5.9%,—,—,—,—,0,0,—,—,$17.85B,Consumer Durables,NYSE
+ICLR,ICON Plc,166.18,203.91,18.5%,207.57,207.57,161.24,90.58,19.9%,1.37,—,0.4%,3.9%,3.7,SELLING,$-1.7M,0,9,✅ 3/4,↑0 ↓0,$12.82B,Commercial Services,NASDAQ
+BIO,"Bio-Rad Laboratories, Inc. Class A",381.33,396.23,3.8%,414.54,414.54,328.87,205.02,8.0%,1.42,—,3.1%,—,—,—,—,0,0,—,—,$10.25B,Health Technology,NYSE
+REXR,"Rexford Industrial Realty, Inc.",37.05,44.38,16.5%,42.39,42.39,32.88,,12.6%,1.12,—,-4.8%,6.6%,4.6,SELLING,$-1.2M,0,1,✅ 3/4,↑0 ↓0,$8.26B,Finance,NYSE
+ICL,ICL Group Ltd.,5.07,6.97,27.3%,5.30,5.30,4.58,,4.4%,1.06,—,5.0%,0.5%,3.2,—,—,0,0,🟡 1/4,↑0 ↓0,$6.54B,Process Industries,NYSE
+JBTM,JBT Marel Corporation,110.97,170.19,34.8%,113.32,113.32,97.00,,2.1%,1.29,—,4.4%,9.1%,7.4,NEUTRAL,—,0,0,✅ 3/4,↑2 ↓0,$5.76B,Producer Manufacturing,NYSE
+STWD,"Starwood Property Trust, Inc.",13.05,19.06,31.5%,13.94,13.94,11.77,,6.4%,0.74,—,3.4%,—,—,—,—,0,0,—,—,$4.83B,Finance,NYSE
+UFPI,"UFP Industries, Inc.",78.59,118.00,33.4%,80.40,80.40,58.43,34.27,2.3%,1.43,—,7.7%,—,—,—,—,0,0,—,—,$4.34B,Non-Energy Minerals,NASDAQ
+SLGN,Silgan Holdings Inc.,35.07,49.55,29.2%,40.08,40.08,33.39,21.71,12.5%,1.56,—,11.7%,—,—,—,—,0,0,—,—,$3.71B,Process Industries,NYSE
+IRT,"Independence Realty Trust, Inc.",14.76,17.79,17.1%,14.81,14.81,11.20,,0.4%,1.04,—,1.3%,9.3%,5.1,SELLING,$-9K,1,6,🔴 0/4,↑0 ↓0,$3.57B,Finance,NYSE
+PFSI,"PennyMac Financial Services, Inc.",63.25,160.36,60.6%,66.62,66.62,46.33,,5.1%,0.76,—,9.4%,—,—,—,—,0,0,—,—,$3.29B,Finance,NYSE
+POST,"Post Holdings, Inc.",72.33,117.28,38.3%,84.67,84.67,70.44,,14.6%,1.03,—,8.3%,15.9%,6.4,SELLING,$-32.9M,0,2,—,—,$3.18B,Consumer Non-Durables,NYSE
+ASH,Ashland Inc.,68.94,78.25,11.9%,73.63,73.63,65.89,42.79,6.4%,1.69,—,4.0%,—,—,—,—,0,0,—,—,$3.16B,Consumer Non-Durables,NYSE
+PPLI,People Incorporated,42.08,48.32,12.9%,56.18,56.18,41.49,23.39,25.1%,0.62,—,8.2%,—,—,—,—,0,0,—,—,$3.13B,Technology Services,NASDAQ
+ABG,"Asbury Automotive Group, Inc.",172.07,258.75,33.5%,187.69,187.69,139.77,,8.3%,0.79,—,13.2%,12.5%,6.5,SELLING,$-209K,1,1,🟡 2/4,↑0 ↓0,$3.09B,Retail Trade,NYSE
+CWT,California Water Service Group,45.77,53.82,15.0%,47.53,47.53,40.06,25.85,3.7%,1.57,—,7.7%,—,—,—,—,0,0,—,—,$2.83B,Utilities,NYSE
+MGEE,"MGE Energy, Inc.",70.84,87.94,19.4%,71.21,71.21,61.12,38.57,0.5%,1.86,—,11.0%,6.4%,12.6,BUYING,$+42K,2,0,✅ 3/4,↑1 ↓0,$2.68B,Utilities,NASDAQ
+WERN,"Werner Enterprises, Inc.",34.26,47.49,27.9%,36.35,36.35,31.36,21.78,5.8%,1.52,—,-3.3%,11.4%,6.2,SELLING,$-41K,0,1,🔴 1/4,↑0 ↓0,$2.05B,Transportation,NASDAQ
+LCII,LCI Industries,82.82,159.66,48.1%,96.55,96.55,82.25,48.52,14.2%,1.41,—,15.0%,—,—,—,—,0,0,—,—,$2.01B,Producer Manufacturing,NYSE
