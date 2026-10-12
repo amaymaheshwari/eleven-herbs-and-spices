@@ -1,0 +1,28 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+DIS,Walt Disney Company,108.80,117.09,7.1%,114.88,114.88,108.16,68.67,5.3%,1.71,—,7.8%,1.1%,2.3,SELLING,$-1.5M,0,3,✅ 4/4,↑0 ↓0,$187.85B,Consumer Services,NYSE
+ROP,"Roper Technologies, Inc.",367.06,519.10,29.3%,435.07,435.07,345.54,200.47,15.6%,1.94,—,13.1%,5.3%,5.4,SELLING,$-3.1M,0,2,✅ 4/4,↑0 ↓0,$36.30B,Technology Services,NASDAQ
+BRO,"Brown & Brown, Inc.",63.66,95.25,33.2%,66.24,66.24,47.89,28.72,3.9%,1.67,—,9.9%,5.6%,6.4,BUYING,$+164K,2,0,✅ 3/4,↑1 ↓0,$21.30B,Finance,NYSE
+AMCR,Amcor PLC,41.58,50.94,18.4%,42.45,42.45,38.94,,2.1%,1.63,—,9.4%,5.0%,6.5,—,—,0,0,🔴 2/4,↑2 ↓0,$19.22B,Process Industries,NYSE
+TSN,"Tyson Foods, Inc. Class A",53.55,69.48,22.9%,57.74,57.74,53.48,33.06,7.3%,1.02,—,3.2%,3.1%,2.3,BUYING,$+1.0M,1,0,✅ 3/4,↑0 ↓0,$18.46B,Consumer Non-Durables,NYSE
+LEN,Lennar Corporation Class A,74.78,133.76,44.1%,93.10,93.10,72.60,48.86,19.7%,0.83,—,5.9%,10.8%,3.9,BUYING,$+451.7M,3,0,🔴 1/4,↑3 ↓0,$17.77B,Consumer Durables,NYSE
+ICLR,ICON Plc,164.53,203.91,19.3%,207.53,207.53,161.21,90.57,20.7%,1.35,—,0.4%,4.1%,2.7,SELLING,$-1.7M,0,9,✅ 3/4,↑0 ↓0,$12.69B,Commercial Services,NASDAQ
+BIO,"Bio-Rad Laboratories, Inc. Class A",365.00,396.23,7.9%,414.02,414.02,328.56,204.87,11.8%,1.36,—,3.1%,7.4%,4.4,SELLING,$-136K,0,1,🔴 2/4,↑0 ↓0,$9.80B,Health Technology,NYSE
+REXR,"Rexford Industrial Realty, Inc.",37.47,44.38,15.6%,42.41,42.41,32.89,,11.7%,1.13,—,-4.8%,7.2%,4.3,SELLING,$-1.2M,0,1,✅ 3/4,↑0 ↓0,$8.35B,Finance,NYSE
+ICL,ICL Group Ltd.,4.95,6.97,29.0%,5.30,5.30,4.58,,6.5%,1.04,—,5.0%,0.6%,3.4,—,—,0,0,🟡 1/4,↑0 ↓0,$6.39B,Process Industries,NYSE
+LEA,Lear Corporation,117.47,150.33,21.9%,118.01,118.01,115.29,,0.5%,1.12,—,10.8%,8.4%,4.3,SELLING,$-9.4M,0,6,✅ 3/4,↑0 ↓0,$5.79B,Producer Manufacturing,NYSE
+JBTM,JBT Marel Corporation,106.98,170.19,37.1%,113.20,113.20,96.93,,5.5%,1.24,—,4.4%,9.4%,7.3,NEUTRAL,—,0,0,✅ 3/4,↑2 ↓0,$5.55B,Producer Manufacturing,NYSE
+WFG,West Fraser Timber Co. Ltd.,64.09,76.99,16.8%,66.45,66.45,57.09,,3.5%,0.90,—,-19.3%,—,11.9,—,—,0,0,🔴 1/4,↑0 ↓0,$5.02B,Non-Energy Minerals,NYSE
+STWD,"Starwood Property Trust, Inc.",12.54,19.06,34.2%,13.93,13.93,11.76,,9.9%,0.72,—,3.4%,6.7%,5.0,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$4.64B,Finance,NYSE
+UFPI,"UFP Industries, Inc.",75.81,118.00,35.8%,80.32,80.32,58.38,34.24,5.6%,1.38,—,7.7%,5.8%,5.0,NEUTRAL,—,0,0,🔴 1/4,↑1 ↓0,$4.18B,Non-Energy Minerals,NASDAQ
+SLGN,Silgan Holdings Inc.,35.26,49.55,28.8%,40.09,40.09,33.40,21.72,12.1%,1.57,—,11.7%,10.2%,6.6,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$3.73B,Process Industries,NYSE
+IRT,"Independence Realty Trust, Inc.",14.80,17.79,16.8%,14.82,14.82,11.20,,0.1%,1.04,—,1.3%,11.4%,4.8,SELLING,$-9K,1,6,🔴 0/4,↑0 ↓0,$3.58B,Finance,NYSE
+POST,"Post Holdings, Inc.",76.84,117.28,34.5%,84.81,84.81,70.53,,9.4%,1.10,—,8.3%,15.0%,5.7,SELLING,$-32.9M,0,2,✅ 4/4,↑0 ↓0,$3.38B,Consumer Non-Durables,NYSE
+ASH,Ashland Inc.,71.06,78.25,9.2%,73.70,73.70,65.93,42.81,3.6%,1.74,—,4.0%,11.4%,6.8,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$3.25B,Consumer Non-Durables,NYSE
+PFSI,"PennyMac Financial Services, Inc.",58.92,160.36,63.3%,66.49,66.49,46.25,,11.4%,0.71,—,9.4%,11.3%,5.6,SELLING,$-1.6M,0,4,🔴 2/4,↑0 ↓0,$3.06B,Finance,NYSE
+FSK,FS KKR Capital Corp.,10.88,16.31,33.3%,10.95,10.95,10.18,,0.6%,0.59,—,-6.6%,4.4%,7.3,BUYING,$+23K,2,0,🔴 1/4,↑0 ↓0,$3.01B,Miscellaneous,NYSE
+ABG,"Asbury Automotive Group, Inc.",164.76,258.75,36.3%,187.40,187.40,139.59,,12.1%,0.75,—,13.2%,12.9%,5.3,SELLING,$-209K,1,1,🟡 2/4,↑0 ↓0,$2.96B,Retail Trade,NYSE
+CWT,California Water Service Group,45.96,53.82,14.6%,47.53,47.53,40.06,25.86,3.3%,1.57,—,7.7%,5.6%,5.0,SELLING,$-420K,0,4,🔴 2/4,↑1 ↓0,$2.84B,Utilities,NYSE
+GPI,"Group 1 Automotive, Inc.",230.14,461.27,50.1%,232.03,232.03,165.31,99.13,0.8%,0.93,—,9.4%,17.6%,5.2,BUYING,$+187.3M,6,0,🔴 0/4,↑0 ↓0,$2.74B,Retail Trade,NYSE
+KWR,Quaker Houghton,157.63,183.00,13.9%,166.16,166.16,146.25,85.29,5.1%,1.97,—,7.2%,15.4%,11.5,SELLING,$-208K,0,2,🟡 2/4,↑0 ↓0,$2.71B,Process Industries,NYSE
+MGEE,"MGE Energy, Inc.",70.58,87.94,19.7%,71.20,71.20,61.11,38.57,0.9%,1.85,—,11.0%,5.8%,8.0,BUYING,$+42K,2,0,✅ 3/4,↑1 ↓0,$2.67B,Utilities,NASDAQ
+KBH,KB Home,41.72,67.57,38.3%,44.72,44.72,33.92,27.43,6.7%,0.67,—,5.9%,26.2%,5.6,SELLING,$-17.9M,0,4,🔴 1/4,↑2 ↓0,$2.53B,Consumer Durables,NYSE
