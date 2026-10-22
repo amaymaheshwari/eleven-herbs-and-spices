@@ -1,0 +1,26 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+DIS,Walt Disney Company,112.59,117.09,3.8%,115.04,115.04,108.25,68.71,2.1%,1.77,—,7.8%,1.1%,2.3,SELLING,$-1.9M,0,4,✅ 4/4,↑0 ↓0,$194.41B,Consumer Services,NYSE
+LYB,LyondellBasell Industries NV,63.54,83.94,24.3%,64.33,64.33,59.78,,1.2%,1.92,—,-2.3%,4.8%,3.5,SELLING,$-742K,0,1,✅ 3/4,↑2 ↓0,$20.53B,Process Industries,NYSE
+LEN,Lennar Corporation Class A,83.39,133.76,37.7%,93.38,93.38,72.78,48.94,10.7%,0.92,—,5.9%,10.8%,3.9,BUYING,$+451.7M,3,0,🔴 1/4,↑3 ↓0,$19.82B,Consumer Durables,NYSE
+TSN,"Tyson Foods, Inc. Class A",56.76,69.48,18.3%,57.85,57.85,53.54,33.10,1.9%,1.08,—,3.2%,3.1%,2.3,BUYING,$+1.0M,1,0,✅ 3/4,↑0 ↓0,$19.57B,Consumer Non-Durables,NYSE
+IP,International Paper Company,33.88,50.25,32.6%,35.80,35.80,33.58,24.56,5.4%,1.24,—,-16.5%,15.5%,8.4,SELLING,$-843K,1,2,🔴 1/4,↑0 ↓0,$17.94B,Process Industries,NYSE
+ICLR,ICON Plc,186.09,203.91,8.7%,208.21,208.21,161.62,90.77,10.6%,1.53,—,0.4%,4.1%,2.7,SELLING,$-1.7M,0,9,✅ 3/4,↑0 ↓0,$14.36B,Commercial Services,NASDAQ
+BIO,"Bio-Rad Laboratories, Inc. Class A",366.82,396.23,7.4%,414.10,414.10,328.60,204.89,11.4%,1.37,—,3.1%,7.4%,4.4,SELLING,$-136K,0,1,🔴 2/4,↑0 ↓0,$9.85B,Health Technology,NYSE
+REXR,"Rexford Industrial Realty, Inc.",36.03,42.92,16.1%,42.35,42.35,32.86,,14.9%,1.09,—,-4.8%,7.2%,4.3,SELLING,$-1.2M,0,1,✅ 3/4,↑0 ↓0,$8.03B,Finance,NYSE
+DOX,Amdocs Limited,62.83,85.63,26.6%,71.07,71.07,61.99,42.09,11.6%,2.00,—,13.1%,10.8%,9.6,—,—,0,0,🟡 2/4,—,$6.76B,Technology Services,NASDAQ
+ICL,ICL Group Ltd.,4.66,6.97,33.1%,5.29,5.29,4.57,,11.9%,0.98,—,5.0%,0.6%,3.4,—,—,0,0,🟡 1/4,↑0 ↓0,$6.01B,Process Industries,NYSE
+AVAV,"AeroVironment, Inc.",118.23,408.25,71.0%,126.78,126.78,93.38,,6.7%,1.37,—,-4.6%,12.8%,2.2,SELLING,$-305K,0,8,🔴 2/4,↑4 ↓0,$6.01B,Electronic Technology,NASDAQ
+LEA,Lear Corporation,117.30,150.33,22.0%,118.01,118.01,115.29,,0.6%,1.12,—,10.8%,8.4%,4.3,SELLING,$-9.4M,0,6,✅ 3/4,↑0 ↓0,$5.79B,Producer Manufacturing,NYSE
+JBTM,JBT Marel Corporation,108.64,170.19,36.2%,113.27,113.27,96.97,,4.1%,1.26,—,4.4%,9.4%,7.3,NEUTRAL,—,0,0,✅ 3/4,↑2 ↓0,$5.64B,Producer Manufacturing,NYSE
+STWD,"Starwood Property Trust, Inc.",12.49,18.80,33.5%,13.93,13.93,11.76,,10.3%,0.71,—,3.4%,6.7%,5.0,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$4.63B,Finance,NYSE
+SLGN,Silgan Holdings Inc.,39.98,49.55,19.3%,40.25,40.25,33.49,21.76,0.7%,1.78,—,11.7%,10.2%,6.6,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$4.23B,Process Industries,NYSE
+POST,"Post Holdings, Inc.",81.08,117.28,30.9%,84.95,84.95,70.61,,4.6%,1.16,—,8.3%,15.0%,5.7,SELLING,$-32.9M,0,2,✅ 4/4,↑0 ↓0,$3.56B,Consumer Non-Durables,NYSE
+ASH,Ashland Inc.,72.66,78.25,7.1%,73.76,73.76,65.97,42.83,1.5%,1.78,—,4.0%,11.4%,6.8,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$3.33B,Consumer Non-Durables,NYSE
+PFSI,"PennyMac Financial Services, Inc.",62.90,160.36,60.8%,66.63,66.63,46.33,,5.6%,0.75,—,9.4%,11.3%,5.6,SELLING,$-1.6M,0,4,🔴 2/4,↑0 ↓0,$3.27B,Finance,NYSE
+ABG,"Asbury Automotive Group, Inc.",168.10,258.75,35.0%,187.59,187.59,139.70,,10.4%,0.77,—,13.2%,12.9%,5.3,SELLING,$-209K,1,1,🟡 2/4,↑0 ↓0,$3.02B,Retail Trade,NYSE
+CWT,California Water Service Group,47.13,53.82,12.4%,47.58,47.58,40.09,25.87,0.9%,1.61,—,7.7%,5.6%,5.0,SELLING,$-420K,0,4,🔴 2/4,↑1 ↓0,$2.91B,Utilities,NYSE
+FSK,FS KKR Capital Corp.,10.44,16.31,36.0%,10.93,10.93,10.17,,4.6%,0.57,—,-6.6%,4.4%,7.3,BUYING,$+23K,2,0,🔴 1/4,↑0 ↓0,$2.88B,Miscellaneous,NYSE
+FUL,H.B. Fuller Company,51.67,68.63,24.7%,58.68,58.68,51.54,35.06,12.0%,1.28,—,9.6%,7.3%,3.1,BUYING,$+553K,9,1,✅ 4/4,↑0 ↓0,$2.78B,Process Industries,NYSE
+KWR,Quaker Houghton,157.03,183.00,14.2%,165.61,165.61,145.76,85.01,5.2%,1.96,—,7.2%,15.4%,11.5,SELLING,$-208K,0,2,🟡 2/4,↑0 ↓0,$2.70B,Process Industries,NYSE
+ROG,Rogers Corporation,127.82,169.00,24.4%,146.03,146.03,126.55,83.81,12.5%,1.90,—,2.6%,3.9%,1.9,SELLING,$-430K,0,2,✅ 3/4,↑0 ↓0,$2.28B,Process Industries,NYSE
+LCII,LCI Industries,87.21,159.66,45.4%,96.70,96.70,82.35,48.57,9.8%,1.48,—,15.0%,11.5%,6.0,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$2.12B,Producer Manufacturing,NYSE

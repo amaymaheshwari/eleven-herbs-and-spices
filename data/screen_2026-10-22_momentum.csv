@@ -1,0 +1,24 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+PFE,Pfizer Inc.,30.34,6.4%,28.51,28.50,25.83,2.03,—,5.0%,2.6%,4.5,BUYING,$+2.8M,3,2,✅ 4/4,↑0 ↓0,$172.90B,Health Technology,NYSE
+ELV,"Elevance Health, Inc.",448.06,6.8%,419.58,377.92,292.10,2.17,—,11.6%,2.5%,3.9,BUYING,$+542K,2,3,✅ 4/4,↑0 ↓0,$97.17B,Health Services,NYSE
+MLM,"Martin Marietta Materials, Inc.",510.79,6.3%,480.49,414.77,316.91,2.66,—,8.9%,5.0%,3.6,NEUTRAL,—,0,0,✅ 3/4,↑1 ↓0,$36.28B,Non-Energy Minerals,NYSE
+ON,ON Semiconductor Corporation,73.23,7.8%,67.96,54.89,38.78,3.95,—,8.3%,10.6%,2.7,NEUTRAL,—,0,0,✅ 4/4,↑2 ↓0,$28.51B,Electronic Technology,NASDAQ
+AWK,"American Water Works Company, Inc.",139.91,6.9%,130.93,130.36,103.41,2.38,—,10.1%,8.9%,7.3,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$27.80B,Utilities,NYSE
+SW,Smurfit Westrock PLC,41.82,4.6%,39.96,38.07,30.99,1.22,—,2.7%,5.7%,5.9,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$21.87B,Process Industries,NYSE
+RBA,"RB Global, Inc.",84.72,7.9%,78.48,68.65,51.60,2.82,—,8.0%,11.8%,9.8,BUYING,$+152K,3,2,✅ 3/4,↑0 ↓0,$15.68B,Technology Services,NYSE
+RPM,RPM International Inc.,101.93,3.7%,98.34,89.77,71.09,3.74,—,21.0%,3.8%,2.5,NEUTRAL,—,0,0,✅ 3/4,↑2 ↓0,$13.00B,Process Industries,NYSE
+GME,GameStop Corp. Class A,25.31,9.2%,23.18,22.76,15.77,1.85,—,15.8%,9.2%,4.3,BUYING,$+80.8M,9,5,🟡 2/3,—,$12.77B,Retail Trade,NYSE
+ELS,"Equity LifeStyle Properties, Inc.",61.16,0.3%,60.97,60.10,48.48,6.79,—,22.3%,7.2%,6.3,NEUTRAL,—,0,0,🟡 1/4,↑0 ↓0,$11.87B,Finance,NYSE
+JEF,Jefferies Financial Group Inc.,44.99,4.0%,43.27,35.61,27.34,0.96,—,8.5%,4.6%,3.1,BUYING,$+995.3M,3,1,🔴 2/4,↑0 ↓0,$10.33B,Finance,NYSE
+TFII,TFI International Inc.,115.56,4.8%,110.29,91.77,63.37,3.48,—,12.3%,—,6.2,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$9.50B,Transportation,NYSE
+ADC,Agree Realty Corporation,66.18,5.5%,62.72,59.40,48.05,1.27,—,3.8%,7.1%,4.9,BUYING,$+5.6M,8,0,🟡 2/4,↑0 ↓0,$8.61B,Finance,NYSE
+NNN,"NNN REIT, Inc.",41.34,8.8%,37.99,35.96,32.45,1.78,—,8.7%,5.2%,3.6,NEUTRAL,—,0,0,🟡 1/4,↑1 ↓0,$7.93B,Finance,NYSE
+MTDR,Matador Resources Company,56.09,9.4%,51.27,39.79,32.93,1.17,—,12.8%,12.5%,8.2,BUYING,$+1.9M,16,0,✅ 4/4,↑2 ↓0,$6.94B,Energy Minerals,NYSE
+STAG,"STAG Industrial, Inc.",35.99,9.8%,32.80,30.60,24.73,1.91,—,7.0%,5.3%,4.4,NEUTRAL,—,0,0,🟡 1/4,↑0 ↓0,$6.94B,Finance,NYSE
+SON,Sonoco Products Company,50.51,3.7%,48.70,47.96,43.21,,—,-6.9%,14.4%,9.1,BUYING,$+574K,2,1,🟡 2/4,↑0 ↓0,$4.99B,Process Industries,NYSE
+OPCH,Option Care Health Inc,31.34,7.9%,29.04,24.93,20.01,3.73,—,16.0%,8.0%,4.1,BUYING,$+1.9M,4,0,✅ 3/4,↑0 ↓0,$4.70B,Health Services,NASDAQ
+SLM,SLM Corp,22.41,8.8%,20.60,17.53,13.81,1.89,—,30.3%,10.4%,8.4,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$4.21B,Finance,NASDAQ
+LRN,"Stride, Inc.",77.97,3.5%,75.31,59.22,42.29,1.96,—,20.9%,27.5%,11.1,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$3.24B,Consumer Services,NYSE
+CALM,"Cal-Maine Foods, Inc.",64.22,1.9%,63.02,51.98,44.61,1.17,—,2.2%,14.2%,4.9,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$3.00B,Process Industries,NASDAQ
+HTO,H2O America,57.97,2.8%,56.41,56.40,48.87,1.32,—,6.5%,6.4%,4.3,BUYING,$+7.0M,7,4,🟡 2/4,↑0 ↓0,$2.43B,Utilities,NASDAQ
+PATK,"Patrick Industries, Inc.",70.81,3.1%,68.67,58.35,44.72,2.01,—,13.0%,26.3%,10.0,BUYING,$+2.5M,8,0,✅ 4/4,↑0 ↓0,$2.27B,Consumer Durables,NASDAQ
