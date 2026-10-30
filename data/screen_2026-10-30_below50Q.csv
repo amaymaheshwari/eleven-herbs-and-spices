@@ -1,0 +1,58 @@
+Ticker,Company,Price,52W High,% Off 52W High,50Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+CMCSA,Comcast Corporation Class A,23.23,32.85,29.3%,29.30,32.63,29.30,18.56,20.7%,0.89,—,11.9%,2.5%,2.4,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$82.47B,Consumer Services,NASDAQ
+BIIB,Biogen Inc.,254.67,258.78,1.6%,262.76,235.99,262.76,174.04,3.1%,1.99,—,1.9%,4.2%,4.5,SELLING,$-240K,0,1,✅ 4/4,↑0 ↓0,$37.65B,Health Technology,NASDAQ
+GPN,Global Payments Inc.,95.77,101.32,5.5%,103.67,119.60,103.67,61.04,7.6%,1.10,—,2.2%,6.6%,6.5,NEUTRAL,—,0,0,✅ 4/4,↑2 ↓0,$25.34B,Finance,NYSE
+IFF,International Flavors & Fragrances Inc.,90.97,94.65,3.9%,94.85,91.64,94.85,63.73,4.1%,1.66,—,1.8%,8.9%,8.7,BUYING,$+19.0M,1,3,🔴 2/4,↑1 ↓0,$23.21B,Consumer Non-Durables,NYSE
+VTRS,"Viatris, Inc.",19.11,19.50,2.1%,20.14,11.49,20.14,18.52,5.2%,1.55,—,-2.8%,3.3%,4.1,—,—,0,0,✅ 4/4,↑2 ↓0,$21.94B,Health Technology,NASDAQ
+CHTR,"Charter Communications, Inc. Class A",111.60,254.11,56.1%,350.13,405.18,350.13,,68.1%,0.79,—,29.7%,43.9%,5.5,SELLING,$-11.3M,1,1,🔴 2/4,↑0 ↓0,$19.66B,Consumer Services,NASDAQ
+BCE,BCE Inc.,20.46,26.52,22.8%,27.23,28.96,27.23,19.58,24.8%,1.31,—,30.6%,—,4.9,—,—,0,0,✅ 3/4,↑0 ↓0,$19.08B,Communications,NYSE
+ZBH,"Zimmer Biomet Holdings, Inc.",95.44,103.70,8.0%,109.41,114.00,109.41,82.58,12.8%,1.44,—,6.4%,5.5%,3.6,SELLING,$-1.2M,0,3,✅ 4/4,↑1 ↓0,$18.20B,Health Technology,NYSE
+RCI,Rogers Communications Inc. Class B,32.74,41.14,20.4%,34.53,36.39,34.53,25.01,5.2%,1.52,—,5.4%,—,10.3,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$17.75B,Communications,NYSE
+STLA,Stellantis N.V.,4.62,12.22,62.2%,9.57,11.62,9.57,,51.7%,0.21,—,—,6.1%,6.1,—,—,0,0,🟡 2/3,↑0 ↓0,$17.41B,Consumer Durables,NYSE
+TU,TELUS Corporation,8.89,14.95,40.5%,12.88,14.46,12.88,8.69,31.0%,1.50,—,-6.4%,—,7.5,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$14.13B,Communications,NYSE
+FLUT,Flutter Entertainment Plc,81.25,235.77,65.5%,137.30,164.53,137.30,,40.8%,1.61,—,-8.0%,11.2%,5.0,SELLING,$-189K,7,18,✅ 3/4,↑2 ↓0,$14.10B,Consumer Services,NYSE
+DOC,"Healthpeak Properties, Inc.",19.13,22.95,16.6%,19.21,19.64,19.21,15.22,0.4%,1.68,—,3.1%,4.1%,3.5,SELLING,$-214K,0,1,✅ 3/4,↑0 ↓0,$13.52B,Finance,NYSE
+MKC,"McCormick & Company, Incorporated",47.69,72.41,34.1%,59.23,70.32,59.23,36.82,19.5%,1.83,—,23.4%,—,—,BUYING,$+100K,2,0,✅ 3/4,↑0 ↓0,$12.83B,Consumer Non-Durables,NYSE
+CSGP,"CoStar Group, Inc.",29.80,70.62,57.8%,53.19,70.24,53.19,29.55,44.0%,1.50,—,2.2%,3.8%,2.5,BUYING,$+2.2M,1,2,✅ 4/4,↑0 ↓0,$11.99B,Technology Services,NASDAQ
+HRL,Hormel Foods Corporation,21.36,26.60,19.7%,30.25,32.47,30.25,18.77,29.4%,1.50,—,4.3%,7.6%,4.0,SELLING,$-294K,1,1,✅ 4/4,↑0 ↓0,$11.75B,Consumer Non-Durables,NYSE
+QXO,"QXO, Inc.",11.03,27.61,60.1%,23.42,28.40,23.42,,52.9%,0.86,—,-4.6%,14.7%,5.6,NEUTRAL,—,0,0,🟡 0/4,↑1 ↓0,$11.44B,Distribution Services,NYSE
+COO,"Cooper Companies, Inc.",59.71,89.83,33.5%,71.29,84.11,71.29,43.04,16.2%,1.36,—,6.8%,5.5%,2.0,BUYING,$+1.9M,4,0,✅ 4/4,↑1 ↓0,$11.35B,Health Technology,NASDAQ
+BMRN,BioMarin Pharmaceutical Inc.,58.28,70.98,17.9%,84.09,78.07,84.09,54.18,30.7%,1.78,—,1.2%,6.2%,5.2,SELLING,$-1.3M,0,2,🔴 1/4,↑1 ↓0,$11.28B,Health Technology,NASDAQ
+ALB,Albemarle Corporation,90.83,221.00,58.9%,109.53,134.59,109.53,68.99,17.1%,1.33,—,2.2%,0.1%,0.0,SELLING,$-3.0M,0,1,✅ 3/4,↑1 ↓0,$10.72B,Process Industries,NYSE
+BXP,BXP Inc,62.80,74.94,16.2%,74.71,69.13,74.71,56.65,16.0%,1.94,—,5.7%,10.4%,8.3,SELLING,$-2.2M,0,3,✅ 4/4,↑0 ↓0,$10.03B,Finance,NYSE
+APTV,Aptiv PLC,44.05,78.49,43.9%,82.40,91.91,82.40,,46.5%,1.05,—,2.9%,6.1%,2.7,BUYING,$+8.2M,5,2,✅ 3/4,↑1 ↓0,$9.15B,Producer Manufacturing,NYSE
+SKYD,Skydance Corporation Class B,7.84,16.80,53.3%,30.12,20.61,30.12,,74.0%,0.75,—,-4.4%,3.3%,4.0,NEUTRAL,—,0,0,🔴 2/4,↑1 ↓0,$8.82B,Consumer Services,NYSE
+WLK,Westlake Corporation,67.52,124.23,45.6%,78.32,89.66,78.32,,13.8%,0.99,—,-12.9%,13.1%,4.7,SELLING,$-3.1M,0,1,🔴 2/4,↑2 ↓0,$8.63B,Process Industries,NYSE
+KMX,"CarMax, Inc.",55.16,65.28,15.5%,73.70,81.39,73.70,48.03,25.2%,1.24,—,4.7%,8.0%,2.7,BUYING,$+1.3M,5,0,✅ 3/4,↑0 ↓0,$7.83B,Retail Trade,NYSE
+EMN,Eastman Chemical Company,66.09,83.47,20.8%,67.62,74.29,67.62,44.67,2.3%,1.24,—,7.4%,7.3%,4.5,SELLING,$-234K,0,1,✅ 3/4,↑2 ↓0,$7.56B,Process Industries,NYSE
+TAP,Molson Coors Beverage Company Class B,40.09,54.82,26.9%,51.53,44.91,51.53,39.20,22.2%,0.70,—,-19.6%,20.7%,4.2,SELLING,$-53K,0,1,✅ 3/4,↑0 ↓0,$7.51B,Consumer Non-Durables,NYSE
+ZG,"Zillow Group, Inc. Class A",31.80,74.80,57.5%,50.55,59.30,50.55,,37.1%,1.66,—,1.2%,21.7%,3.9,—,—,0,0,✅ 3/4,↑0 ↓0,$6.95B,Technology Services,NASDAQ
+VNO,Vornado Realty Trust,34.92,41.60,16.1%,40.32,32.28,40.32,34.64,13.4%,1.42,—,1.1%,0.0%,0.0,SELLING,$-7.9M,0,2,✅ 3/4,↑0 ↓0,$6.52B,Finance,NYSE
+OTEX,Open Text Corporation,26.55,39.15,32.2%,29.14,32.16,29.14,17.98,8.9%,1.60,—,16.1%,4.2%,7.1,—,—,0,0,✅ 4/4,↑0 ↓0,$6.43B,Technology Services,NASDAQ
+ST,Sensata Technologies Holding PLC,40.23,53.89,25.3%,42.00,41.05,42.00,,4.2%,1.91,—,12.7%,5.5%,5.8,SELLING,$-437K,0,2,✅ 4/4,↑0 ↓0,$5.86B,Electronic Technology,NYSE
+RYN,Rayonier Inc.,19.46,24.82,21.6%,20.90,22.96,20.90,15.60,6.9%,1.11,—,2.0%,5.0%,3.8,SELLING,$-124K,0,3,✅ 3/4,↑0 ↓0,$5.82B,Finance,NYSE
+CE,Celanese Corporation,48.24,70.70,31.8%,87.67,99.10,87.67,,45.0%,1.27,—,-24.6%,8.3%,3.1,BUYING,$+230K,3,0,🔴 2/4,↑2 ↓0,$5.29B,Process Industries,NYSE
+LKQ,LKQ Corporation,18.43,37.13,50.4%,32.34,36.03,32.34,,43.0%,0.74,—,4.1%,8.7%,5.2,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$4.66B,Consumer Durables,NASDAQ
+HHH,Howard Hughes Holdings Inc.,76.38,91.07,16.1%,94.02,78.07,94.02,,18.8%,1.15,—,6.8%,14.7%,5.1,BUYING,$+664K,2,2,✅ 3/4,↑0 ↓0,$4.56B,Finance,NYSE
+KRC,Kilroy Realty Corporation,36.52,43.58,16.2%,41.42,38.52,41.42,31.43,11.8%,0.82,—,0.5%,15.2%,8.5,SELLING,$-2.7M,0,6,🟡 2/4,↑0 ↓0,$4.29B,Finance,NYSE
+AQN,Algonquin Power & Utilities Corp.,5.46,7.11,23.2%,7.07,7.90,7.07,,22.8%,0.98,—,4.2%,—,3.2,—,—,0,0,✅ 3/4,↑0 ↓0,$4.20B,Utilities,NYSE
+PVH,PVH Corp.,90.73,100.75,9.9%,95.04,83.58,95.04,72.32,4.5%,0.87,—,-3.5%,13.4%,5.1,BUYING,$+1.0M,1,0,✅ 4/4,↑0 ↓0,$4.19B,Consumer Non-Durables,NYSE
+ICUI,"ICU Medical, Inc.",164.00,192.85,15.0%,165.81,165.54,165.81,103.05,1.1%,1.91,—,1.4%,8.2%,6.8,SELLING,$-7.5M,0,10,✅ 4/4,↑0 ↓0,$4.10B,Health Technology,NASDAQ
+ALK,"Alaska Air Group, Inc.",34.88,60.63,42.5%,54.88,47.70,54.88,33.09,36.4%,1.10,—,-10.5%,12.5%,3.9,BUYING,$+738K,1,1,🔴 2/4,↑0 ↓0,$3.89B,Transportation,NYSE
+THO,"Thor Industries, Inc.",73.80,122.83,39.9%,76.54,83.97,76.54,49.17,3.6%,0.89,—,4.2%,13.9%,5.3,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$3.81B,Consumer Durables,NYSE
+MCHB,Mechanics Bancorp. Class A,14.62,17.38,15.9%,19.25,19.53,19.25,,24.0%,1.32,—,10.2%,10.1%,7.2,SELLING,$-30,0,1,🟡 2/4,↑0 ↓0,$3.38B,Finance,NASDAQ
+MMS,"MAXIMUS, Inc.",63.63,100.00,36.4%,64.58,71.97,64.58,38.74,1.5%,1.91,—,21.1%,11.9%,4.4,—,—,0,0,✅ 3/4,—,$3.33B,Commercial Services,NYSE
+IPGP,IPG Photonics Corporation,72.57,155.82,53.4%,122.99,118.13,122.99,,41.0%,1.45,—,1.3%,24.9%,9.4,SELLING,$-23.2M,1,13,✅ 3/4,↑0 ↓0,$3.09B,Electronic Technology,NASDAQ
+COTY,Coty Inc. Class A,3.34,4.16,19.6%,11.46,7.53,11.46,,70.9%,0.98,—,-18.5%,9.8%,8.0,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$2.94B,Consumer Non-Durables,NYSE
+CALY,Callaway Golf Company,15.13,20.28,25.4%,15.58,17.58,15.58,12.81,2.8%,1.25,—,3.0%,5.6%,3.3,SELLING,$-3.5M,0,3,✅ 4/4,↑0 ↓0,$2.70B,Consumer Durables,NYSE
+LBTYA,Liberty Global Ltd. Class A,7.83,13.52,42.0%,13.69,11.28,13.69,,42.8%,0.29,—,-27.3%,9.2%,3.6,SELLING,$-895K,0,3,🔴 2/4,↑0 ↓0,$2.70B,Communications,NASDAQ
+LBTYK,Liberty Global Ltd. Class C,7.71,13.12,41.2%,13.64,11.49,13.64,,43.5%,0.29,—,-27.3%,10.1%,6.1,SELLING,$-1.4M,0,3,—,—,$2.69B,Communications,NASDAQ
+FUL,H.B. Fuller Company,49.59,68.63,27.7%,51.50,58.62,51.50,35.04,3.7%,1.23,—,9.6%,6.0%,2.3,BUYING,$+553K,9,1,✅ 4/4,↑0 ↓0,$2.67B,Process Industries,NYSE
+LBTYB,Liberty Global Ltd. Class B,11.00,29.01,62.1%,25.14,19.09,25.14,,56.2%,0.41,—,-27.3%,0.1%,0.1,—,—,0,0,—,—,$2.65B,Communications,NASDAQ
+PPLI,People Incorporated,35.06,48.32,27.4%,41.35,55.94,41.35,23.33,15.2%,0.51,—,8.2%,22.2%,8.5,SELLING,$-279K,0,1,🔴 1/4,↑0 ↓0,$2.61B,Technology Services,NASDAQ
+MARA,"MARA Holdings, Inc.",6.62,18.69,64.6%,22.64,14.36,22.64,,70.8%,1.52,—,-107.1%,33.2%,2.7,SELLING,$-2.7M,0,14,🔴 2/4,↑0 ↓0,$2.56B,Technology Services,NASDAQ
+PEB,Pebblebrook Hotel Trust,21.18,21.90,3.3%,21.76,16.74,21.76,,2.7%,0.98,—,-1.8%,26.0%,9.0,BUYING,$+971K,3,1,✅ 4/4,↑0 ↓0,$2.39B,Finance,NYSE
+PBH,Prestige Consumer Healthcare Inc,49.09,71.07,30.9%,50.71,56.20,50.71,,3.2%,1.21,—,9.1%,10.1%,6.3,SELLING,$-120K,0,4,🔴 1/4,—,$2.33B,Health Technology,NYSE
+UAA,"Under Armour, Inc. Class A",5.04,8.15,38.1%,18.75,11.64,18.75,,73.1%,1.52,—,-29.8%,43.2%,5.9,BUYING,$+6.0M,2,0,✅ 3/4,↑0 ↓0,$2.14B,Consumer Non-Durables,NYSE
+VET,Vermilion Energy Inc.,13.66,14.82,7.8%,15.71,10.49,15.71,,13.0%,1.37,—,-18.5%,—,8.6,NEUTRAL,—,0,0,🔴 1/4,—,$2.09B,Energy Minerals,NYSE
+GLOB,Globant SA,46.45,72.10,35.6%,111.25,156.84,111.25,,58.2%,0.93,—,5.4%,20.3%,9.9,BUYING,$+486K,1,2,🔴 0/4,↑0 ↓0,$2.01B,Technology Services,NYSE
