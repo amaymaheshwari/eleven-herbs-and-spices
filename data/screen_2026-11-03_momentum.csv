@@ -1,0 +1,23 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+MELI,"MercadoLibre, Inc.",1675.71,2.9%,1628.94,1473.92,983.81,10.84,—,27.5%,2.0%,1.6,BUYING,$+1.2M,2,0,🔴 2/4,↑0 ↓0,$84.95B,Retail Trade,NASDAQ
+AON,Aon Plc Class A,329.12,2.8%,320.07,286.37,218.00,6.91,—,43.6%,1.6%,1.6,BUYING,$+4.9M,1,3,✅ 4/4,↑0 ↓0,$69.83B,Finance,NYSE
+ON,ON Semiconductor Corporation,72.70,6.0%,68.56,56.54,40.03,3.92,—,8.3%,10.7%,2.5,NEUTRAL,—,0,0,✅ 3/3,↑2 ↓0,$28.30B,Electronic Technology,NASDAQ
+SW,Smurfit Westrock PLC,42.49,6.2%,40.02,38.10,31.01,1.24,—,2.6%,5.1%,5.4,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$22.22B,Process Industries,NYSE
+BG,Bunge Global SA,94.89,2.8%,92.27,80.49,69.55,1.12,—,7.2%,5.9%,4.1,BUYING,$+689K,1,0,✅ 4/4,↑0 ↓0,$18.23B,Process Industries,NYSE
+RPM,RPM International Inc.,106.22,6.1%,100.11,91.15,72.04,3.89,—,21.0%,4.7%,3.5,NEUTRAL,—,0,0,✅ 3/4,↑2 ↓0,$13.55B,Process Industries,NYSE
+JEF,Jefferies Financial Group Inc.,48.54,9.8%,44.21,36.42,27.98,1.04,—,8.5%,4.9%,2.8,BUYING,$+642.7M,2,0,🔴 2/4,↑0 ↓0,$11.15B,Finance,NYSE
+UHS,"Universal Health Services, Inc. Class B",179.37,9.5%,163.77,150.87,137.01,,—,19.8%,6.4%,3.6,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$10.57B,Health Services,NYSE
+ADC,Agree Realty Corporation,68.77,7.7%,63.86,60.56,49.02,1.32,—,3.8%,0.0%,—,BUYING,$+5.6M,8,0,🟡 2/4,↑0 ↓0,$8.95B,Finance,NYSE
+STN,Stantec Inc,76.86,3.1%,74.53,61.70,46.31,3.62,—,15.7%,—,7.1,NEUTRAL,—,0,0,✅ 3/4,—,$8.64B,Industrial Services,NYSE
+DSGX,Descartes Systems Group Inc.,91.21,8.0%,84.45,75.62,54.91,4.74,—,11.9%,—,2.5,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$7.80B,Technology Services,NASDAQ
+MTDR,Matador Resources Company,55.03,5.4%,52.20,41.24,33.63,1.15,—,12.8%,12.5%,9.4,BUYING,$+1.9M,16,0,✅ 4/4,↑2 ↓0,$6.81B,Energy Minerals,NYSE
+JBTM,JBT Marel Corporation,117.02,2.6%,114.10,113.59,97.16,1.36,—,4.4%,9.6%,8.1,NEUTRAL,—,0,0,✅ 3/4,↑2 ↓0,$6.07B,Producer Manufacturing,NYSE
+MIDD,Middleby Corporation,122.78,6.2%,115.57,113.19,105.48,2.51,—,-9.9%,4.5%,2.6,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$5.55B,Producer Manufacturing,NASDAQ
+FCN,"FTI Consulting, Inc.",196.57,9.0%,180.40,162.22,117.59,4.05,—,15.2%,18.2%,5.9,BUYING,$+1.9M,3,1,🔴 2/4,↑0 ↓0,$5.36B,Commercial Services,NYSE
+SON,Sonoco Products Company,48.96,0.6%,48.67,47.66,43.14,1.73,—,-6.9%,15.5%,11.4,BUYING,$+234K,1,1,🟡 2/4,↑0 ↓0,$4.84B,Process Industries,NYSE
+OPCH,Option Care Health Inc,31.73,7.6%,29.48,25.63,20.06,3.77,—,16.0%,6.6%,1.1,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$4.75B,Health Services,NASDAQ
+BMI,"Badger Meter, Inc.",155.41,2.6%,151.46,126.47,90.58,6.82,—,18.7%,22.5%,10.7,BUYING,$+102K,1,0,🔴 1/4,↑0 ↓0,$4.44B,Producer Manufacturing,NYSE
+LOPE,"Grand Canyon Education, Inc.",148.13,5.7%,140.17,122.53,102.36,5.80,—,31.0%,8.7%,7.2,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$3.86B,Commercial Services,NASDAQ
+CALM,"Cal-Maine Foods, Inc.",65.68,4.1%,63.08,52.01,44.63,1.20,—,2.2%,15.8%,4.2,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$3.07B,Process Industries,NASDAQ
+DX,"Dynex Capital, Inc.",10.34,10.0%,9.40,8.95,7.88,0.94,—,-2.0%,6.7%,2.1,BUYING,$+245K,4,0,✅ 3/4,↑0 ↓0,$2.68B,Finance,NYSE
+LCII,LCI Industries,102.21,1.3%,100.86,99.93,84.36,1.74,—,15.0%,12.8%,5.8,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$2.48B,Producer Manufacturing,NYSE
