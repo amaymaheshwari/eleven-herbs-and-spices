@@ -1,0 +1,19 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+LEN,Lennar Corporation Class A,91.14,133.76,31.9%,95.40,95.40,73.92,49.39,4.5%,1.01,—,5.9%,0.3%,0.1,BUYING,$+451.7M,3,0,🔴 1/4,↑3 ↓0,$21.62B,Consumer Durables,NYSE
+LYB,LyondellBasell Industries NV,62.12,83.94,26.0%,64.29,64.29,59.75,,3.4%,1.78,—,12.3%,4.5%,3.2,SELLING,$-742K,0,1,🔴 2/4,↑2 ↓0,$20.08B,Process Industries,NYSE
+ICLR,ICON Plc,198.95,219.04,9.2%,210.50,210.50,165.08,92.96,5.5%,1.63,—,5.0%,4.5%,3.1,SELLING,$-3.9M,0,14,✅ 3/4,↑0 ↓0,$14.90B,Commercial Services,NASDAQ
+AES,AES Corporation,14.88,17.65,15.7%,15.82,15.82,13.05,10.45,6.0%,1.86,—,24.2%,2.9%,2.2,—,—,0,0,✅ 3/4,—,$10.61B,Utilities,NYSE
+BIO,"Bio-Rad Laboratories, Inc. Class A",370.98,396.23,6.4%,423.42,423.42,334.97,208.44,12.4%,1.38,—,3.1%,6.9%,4.2,SELLING,$-136K,0,1,🔴 2/4,—,$9.97B,Health Technology,NYSE
+REXR,"Rexford Industrial Realty, Inc.",38.21,42.41,9.9%,42.43,42.43,32.90,,9.9%,1.17,—,-5.9%,7.6%,3.9,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$8.11B,Finance,NYSE
+BLDR,"Builders FirstSource, Inc.",64.98,131.50,50.6%,87.84,87.84,57.97,,26.0%,1.71,—,1.0%,11.0%,2.8,NEUTRAL,—,0,0,🔴 1/4,↑1 ↓0,$6.99B,Retail Trade,NYSE
+RYN,Rayonier Inc.,21.52,24.82,13.3%,23.05,23.05,20.98,15.70,6.7%,1.23,—,2.0%,5.0%,3.8,SELLING,$-124K,0,3,✅ 3/4,↑0 ↓0,$6.44B,Finance,NYSE
+GIL,Gildan Activewear Inc.,33.48,73.69,54.6%,36.24,36.24,32.11,20.77,7.6%,1.86,—,8.6%,7.6%,6.0,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$6.20B,Consumer Non-Durables,NYSE
+ICL,ICL Group Ltd.,4.64,6.97,33.4%,5.29,5.29,4.57,,12.2%,0.97,—,5.0%,0.5%,3.1,—,—,0,0,🟡 1/4,—,$5.99B,Process Industries,NYSE
+AVAV,"AeroVironment, Inc.",102.10,408.25,75.0%,126.22,126.22,93.04,,19.1%,1.18,—,-4.6%,13.0%,3.2,SELLING,$-305K,0,8,🔴 2/4,↑4 ↓0,$5.19B,Electronic Technology,NASDAQ
+STWD,"Starwood Property Trust, Inc.",12.70,18.66,31.9%,13.96,13.96,11.86,,9.0%,0.72,—,3.4%,6.4%,3.7,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$4.70B,Finance,NYSE
+THO,"Thor Industries, Inc.",81.68,122.83,33.5%,87.26,87.26,78.49,50.26,6.4%,0.99,—,4.2%,13.9%,5.3,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$4.23B,Consumer Durables,NYSE
+POST,"Post Holdings, Inc.",84.14,117.28,28.3%,85.06,85.06,70.68,,1.1%,1.20,—,8.3%,15.3%,6.6,SELLING,$-32.9M,0,2,✅ 4/4,↑0 ↓0,$3.70B,Consumer Non-Durables,NYSE
+PFSI,"PennyMac Financial Services, Inc.",66.40,160.36,58.6%,68.10,68.10,47.38,,2.5%,0.79,—,5.6%,12.6%,5.1,SELLING,$-1.6M,0,4,🔴 1/4,↑0 ↓0,$3.45B,Finance,NYSE
+DIOD,Diodes Incorporated,67.83,125.99,46.2%,70.18,70.18,53.04,35.67,3.3%,1.59,—,4.5%,9.4%,5.0,SELLING,$-6.6M,0,12,✅ 3/4,↑1 ↓0,$3.12B,Electronic Technology,NASDAQ
+CALY,Callaway Golf Company,15.99,20.28,21.1%,18.01,18.01,15.94,13.00,11.2%,1.32,—,3.0%,5.6%,3.3,SELLING,$-3.5M,0,3,✅ 4/4,↑0 ↓0,$2.86B,Consumer Durables,NYSE
+KWR,Quaker Houghton,152.62,183.00,16.6%,167.35,167.35,148.12,86.36,8.8%,1.86,—,7.0%,15.2%,12.3,SELLING,$-208K,0,2,🟡 2/4,↑0 ↓0,$2.62B,Process Industries,NYSE

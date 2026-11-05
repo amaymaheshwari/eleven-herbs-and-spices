@@ -1,0 +1,30 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+ELV,"Elevance Health, Inc.",426.26,1.9%,418.48,377.19,291.66,2.06,—,11.6%,2.7%,4.0,BUYING,$+542K,2,3,✅ 4/4,↑0 ↓0,$92.10B,Health Services,NYSE
+AON,Aon Plc Class A,343.17,7.0%,320.74,286.82,218.27,7.21,—,43.6%,1.6%,1.6,BUYING,$+4.9M,1,3,✅ 4/4,↑0 ↓0,$72.81B,Finance,NYSE
+LHX,L3Harris Technologies Inc,256.44,9.5%,234.29,215.55,168.83,2.36,—,10.3%,2.6%,2.7,NEUTRAL,—,0,0,✅ 4/4,↑1 ↓0,$47.75B,Electronic Technology,NYSE
+MLM,"Martin Marietta Materials, Inc.",522.96,5.6%,495.40,425.89,324.52,,—,6.0%,5.1%,3.8,NEUTRAL,—,0,0,🔴 2/4,↑1 ↓0,$37.14B,Non-Energy Minerals,NYSE
+ADM,Archer-Daniels-Midland Company,70.80,8.4%,65.34,58.45,48.45,1.42,—,10.7%,3.4%,3.6,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$33.70B,Process Industries,NYSE
+SW,Smurfit Westrock PLC,42.95,7.2%,40.06,38.13,31.03,1.25,—,2.6%,5.1%,5.4,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$22.46B,Process Industries,NYSE
+BG,Bunge Global SA,98.15,6.2%,92.41,80.58,69.60,1.16,—,7.2%,5.9%,4.1,BUYING,$+689K,1,0,✅ 4/4,↑0 ↓0,$18.86B,Process Industries,NYSE
+RPM,RPM International Inc.,105.41,5.3%,100.07,91.12,72.02,3.86,—,21.0%,4.7%,3.5,NEUTRAL,—,0,0,✅ 3/4,↑2 ↓0,$13.44B,Process Industries,NYSE
+JKHY,"Jack Henry & Associates, Inc.",180.84,8.8%,166.18,160.22,132.27,,—,24.3%,6.3%,4.4,BUYING,$+317K,2,0,✅ 4/4,↑3 ↓0,$12.68B,Technology Services,NASDAQ
+ELS,"Equity LifeStyle Properties, Inc.",62.55,1.3%,61.76,61.25,49.41,6.94,—,22.3%,7.7%,5.9,NEUTRAL,—,0,0,🟡 1/4,↑0 ↓0,$12.18B,Finance,NYSE
+AMH,American Homes 4 Rent Class A,32.60,1.9%,31.98,30.62,25.05,1.72,—,6.8%,5.4%,4.0,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$11.73B,Finance,NYSE
+JEF,Jefferies Financial Group Inc.,48.56,9.8%,44.22,36.43,27.98,1.04,—,8.5%,4.9%,2.8,BUYING,$+642.7M,2,0,🔴 2/4,↑0 ↓0,$11.15B,Finance,NYSE
+ADC,Agree Realty Corporation,69.97,9.5%,63.92,60.60,49.05,1.35,—,3.8%,0.0%,—,BUYING,$+5.6M,8,0,🟡 2/4,↑0 ↓0,$9.10B,Finance,NYSE
+STN,Stantec Inc,74.92,0.7%,74.40,61.61,46.25,3.52,—,15.7%,—,7.1,NEUTRAL,—,0,0,✅ 3/4,—,$8.42B,Industrial Services,NYSE
+NNN,"NNN REIT, Inc.",41.38,9.5%,37.80,35.88,32.36,1.76,—,8.9%,4.9%,2.7,NEUTRAL,—,0,0,🟡 0/4,↑1 ↓0,$7.94B,Finance,NYSE
+SPXC,"SPX Technologies, Inc.",141.34,7.9%,131.03,104.23,72.30,2.90,—,13.2%,3.8%,2.5,NEUTRAL,—,0,0,✅ 4/4,↑1 ↓0,$7.08B,Producer Manufacturing,NYSE
+JBTM,JBT Marel Corporation,124.48,8.8%,114.39,113.78,97.28,1.44,—,4.4%,9.8%,8.1,NEUTRAL,—,0,0,✅ 3/4,↑2 ↓0,$6.36B,Producer Manufacturing,NYSE
+DY,"Dycom Industries, Inc.",191.53,0.8%,190.03,147.83,117.97,2.80,—,19.2%,5.4%,2.0,BUYING,$+551K,3,0,✅ 4/4,↑1 ↓0,$5.78B,Industrial Services,NYSE
+FCN,"FTI Consulting, Inc.",196.16,8.7%,180.38,162.20,117.58,4.04,—,15.2%,18.2%,5.9,BUYING,$+1.1M,3,2,🔴 2/4,↑0 ↓0,$5.35B,Commercial Services,NYSE
+MUR,Murphy Oil Corporation,37.23,9.7%,33.94,27.71,25.48,1.01,—,5.6%,10.4%,6.0,NEUTRAL,—,0,0,✅ 3/4,↑2 ↓0,$5.34B,Energy Minerals,NYSE
+NXE,NexGen Energy Ltd.,7.73,9.6%,7.05,5.62,3.97,3.99,—,-17.7%,—,9.3,NEUTRAL,—,0,0,🔴 0/4,↑1 ↓0,$5.18B,Non-Energy Minerals,NYSE
+SON,Sonoco Products Company,50.48,3.5%,48.76,47.72,43.17,1.78,—,-6.9%,15.5%,11.4,BUYING,$+234K,1,1,🟡 2/4,↑0 ↓0,$4.99B,Process Industries,NYSE
+HRI,"Herc Holdings, Inc.",148.42,9.2%,135.97,115.79,86.72,2.50,—,6.3%,11.8%,3.5,BUYING,$+503K,1,0,✅ 4/4,↑0 ↓0,$4.97B,Finance,NYSE
+OPCH,Option Care Health Inc,31.66,7.4%,29.48,25.63,20.06,3.58,—,16.0%,6.6%,1.1,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$4.74B,Health Services,NASDAQ
+DOO,"BRP, Inc.",64.55,1.1%,63.84,62.80,47.70,19.71,—,28.2%,—,4.3,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$4.59B,Producer Manufacturing,NASDAQ
+BMI,"Badger Meter, Inc.",157.46,3.9%,151.60,126.56,90.63,6.91,—,18.7%,22.5%,10.7,BUYING,$+102K,1,0,🔴 1/4,↑0 ↓0,$4.50B,Producer Manufacturing,NYSE
+CALM,"Cal-Maine Foods, Inc.",65.41,3.7%,63.07,52.01,44.63,1.19,—,2.2%,15.8%,4.2,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$3.06B,Process Industries,NASDAQ
+MGEE,"MGE Energy, Inc.",78.25,3.2%,75.83,71.74,61.62,2.00,—,11.6%,5.8%,7.6,BUYING,$+42K,2,0,✅ 3/4,↑2 ↓0,$2.96B,Utilities,NASDAQ
+LCII,LCI Industries,101.66,0.8%,100.89,99.95,84.37,1.73,—,15.0%,12.8%,5.8,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$2.47B,Producer Manufacturing,NYSE
