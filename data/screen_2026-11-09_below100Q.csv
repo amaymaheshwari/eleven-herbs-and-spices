@@ -1,0 +1,26 @@
+Ticker,Company,Price,52W High,% Off 52W High,100Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+AIG,"American International Group, Inc.",79.63,87.29,8.8%,220.98,57.67,52.36,220.98,64.0%,1.06,—,8.2%,2.3%,2.2,SELLING,$-18.1M,0,1,✅ 4/4,↑0 ↓0,$41.28B,Finance,NYSE
+PCG,PG&E Corporation,13.14,19.16,31.4%,27.04,13.84,27.10,27.04,51.4%,0.88,—,9.3%,0.0%,—,SELLING,$-3.4M,1,5,🟡 2/4,↑0 ↓0,$28.94B,Utilities,NYSE
+CDE,"Coeur Mining, Inc.",16.45,27.77,40.8%,17.27,7.69,7.32,17.27,4.8%,1.61,—,10.3%,6.0%,1.6,SELLING,$-1.8M,1,5,🔴 1/4,↑0 ↓0,$16.81B,Non-Energy Minerals,NYSE
+FIS,"Fidelity National Information Services, Inc.",28.34,68.37,58.5%,47.82,81.48,76.57,47.82,40.7%,0.90,—,23.0%,4.3%,3.0,BUYING,$+57K,1,0,🟡 1/4,↑1 ↓0,$14.61B,Technology Services,NYSE
+ARE,"Alexandria Real Estate Equities, Inc.",45.88,59.76,23.2%,65.58,103.29,93.45,65.58,30.0%,0.53,—,-9.1%,5.8%,3.4,SELLING,$-987K,2,3,🔴 2/4,↑0 ↓0,$7.99B,Finance,NYSE
+CAG,"Conagra Brands, Inc.",15.29,20.32,24.7%,16.62,23.45,23.10,16.62,8.0%,1.14,—,-24.9%,11.2%,2.9,BUYING,$+511K,1,0,✅ 3/4,↑0 ↓0,$7.30B,Consumer Non-Durables,NYSE
+MOS,Mosaic Company,22.77,32.25,29.4%,28.66,28.78,27.48,28.66,20.6%,0.64,—,-9.3%,14.1%,3.7,SELLING,$-509K,0,1,🔴 0/4,↑1 ↓0,$7.24B,Process Industries,NYSE
+CLF,Cleveland-Cliffs Inc,12.26,15.35,20.1%,19.57,14.24,11.31,19.57,37.3%,1.23,—,-8.3%,13.5%,4.4,SELLING,$-2.9M,0,1,✅ 4/4,↑0 ↓0,$7.00B,Non-Energy Minerals,NYSE
+SM,SM Energy Company,29.10,41.56,30.0%,30.16,25.90,25.44,30.16,3.5%,0.88,—,15.0%,7.2%,4.0,SELLING,$-1.6M,0,3,🟡 2/4,↑2 ↓0,$6.84B,Energy Minerals,NYSE
+CPB,Campbell's Company,22.86,32.04,28.7%,26.79,35.43,34.99,26.79,14.7%,1.77,—,10.3%,25.2%,4.9,BUYING,$+6K,1,0,🟡 2/4,↑0 ↓0,$6.82B,Consumer Non-Durables,NASDAQ
+NOV,NOV Inc.,17.69,21.93,19.3%,27.23,15.45,23.05,27.23,35.0%,1.01,—,2.3%,14.3%,8.0,—,—,0,0,🔴 1/4,↑0 ↓0,$6.31B,Industrial Services,NYSE
+RIG,Transocean Ltd.,5.17,7.66,32.5%,29.77,4.40,7.56,29.77,82.6%,0.68,—,3.5%,30.8%,7.6,BUYING,$+173K,1,0,🔴 1/4,↑0 ↓0,$5.77B,Industrial Services,NYSE
+MAT,"Mattel, Inc.",15.59,22.48,30.6%,17.89,17.91,18.98,17.89,12.9%,1.90,—,21.8%,15.2%,3.2,SELLING,$-587K,0,1,🔴 1/4,↑0 ↓0,$4.45B,Consumer Durables,NASDAQ
+FLG,"Flagstar Bank, National Association",10.58,15.44,31.5%,20.86,20.79,23.12,20.86,49.3%,0.59,—,1.2%,0.0%,—,BUYING,$+203K,2,0,🔴 1/4,↑0 ↓0,$4.24B,Finance,NYSE
+CRK,"Comstock Resources, Inc.",13.77,28.10,51.0%,62.67,11.79,11.52,62.67,78.0%,1.55,—,16.8%,32.4%,10.0,NEUTRAL,—,0,0,🔴 2/4,↑3 ↓0,$4.04B,Energy Minerals,NYSE
+PTEN,"Patterson-UTI Energy, Inc.",9.86,13.39,26.4%,13.25,8.77,11.30,13.25,25.6%,1.22,—,-0.8%,8.5%,3.6,SELLING,$-16.9M,0,8,✅ 3/4,↑0 ↓0,$3.74B,Energy Minerals,NASDAQ
+KSS,Kohl's Corporation,24.92,25.60,2.7%,27.25,23.10,27.47,27.25,8.6%,0.68,—,6.7%,34.1%,7.9,SELLING,$-1.3M,0,4,✅ 4/4,↑0 ↓0,$2.83B,Retail Trade,NYSE
+AAP,"Advance Auto Parts, Inc.",45.94,65.20,29.5%,76.96,102.57,112.51,76.96,40.3%,1.22,—,5.6%,28.9%,6.4,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$2.77B,Retail Trade,NYSE
+NEOG,Neogen Corp,12.08,14.26,15.3%,14.61,22.10,23.36,14.61,17.3%,1.26,—,-2.7%,7.3%,2.3,SELLING,$-110K,1,1,✅ 4/4,↑0 ↓0,$2.64B,Health Technology,NASDAQ
+NWL,Newell Brands Inc,5.89,7.13,17.4%,13.76,10.67,15.64,13.76,57.2%,1.06,—,-12.8%,15.0%,8.0,SELLING,$-1.0M,0,3,🟡 2/4,↑0 ↓0,$2.51B,Producer Manufacturing,NASDAQ
+DXC,DXC Technology Co.,15.18,16.38,7.3%,23.72,22.65,33.44,23.72,36.0%,0.77,—,3.7%,20.1%,6.9,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$2.36B,Technology Services,NYSE
+PRGO,Perrigo Co. Plc,16.95,17.02,0.4%,42.93,28.51,47.93,42.93,60.5%,0.96,—,-50.2%,26.7%,8.1,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$2.35B,Health Technology,NYSE
+WHR,Whirlpool Corporation,31.89,94.82,66.4%,76.49,105.62,107.39,76.49,58.3%,0.56,—,-4.0%,0.1%,0.0,NEUTRAL,—,0,0,🔴 0/4,↑1 ↓0,$2.10B,Consumer Durables,NYSE
+MAN,ManpowerGroup Inc.,44.57,63.88,30.2%,49.04,62.00,63.94,49.04,9.1%,0.97,—,5.8%,13.1%,4.4,—,—,0,0,✅ 3/4,↑0 ↓0,$2.07B,Commercial Services,NYSE
+OLN,Olin Corporation,17.56,30.46,42.4%,19.10,32.48,27.20,19.10,8.0%,1.16,—,-9.1%,15.2%,3.7,NEUTRAL,—,0,0,🔴 2/4,↑2 ↓0,$2.00B,Process Industries,NYSE
