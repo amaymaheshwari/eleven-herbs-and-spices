@@ -1,0 +1,29 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+CTSH,Cognizant Technology Solutions Corporation Class A,64.49,87.03,25.9%,66.19,66.19,62.40,39.90,2.6%,1.96,—,17.4%,5.2%,3.3,SELLING,$-806K,1,9,✅ 3/4,↑0 ↓0,$28.83B,Technology Services,NASDAQ
+LYB,LyondellBasell Industries NV,64.16,83.94,23.6%,64.36,64.36,59.79,,0.3%,1.84,—,12.3%,4.2%,3.2,NEUTRAL,—,0,0,🔴 2/4,↑2 ↓0,$20.74B,Process Industries,NYSE
+LEN,Lennar Corporation Class A,84.40,133.76,36.9%,95.15,95.15,73.77,49.31,11.3%,0.93,—,5.9%,0.3%,0.1,BUYING,$+451.7M,3,0,🔴 1/4,↑3 ↓0,$20.01B,Consumer Durables,NYSE
+IP,International Paper Company,34.43,50.25,31.5%,35.93,35.93,33.89,24.78,4.2%,1.39,—,-22.3%,16.0%,7.8,SELLING,$-1.2M,0,2,🟡 2/4,↑0 ↓0,$18.23B,Process Industries,NYSE
+ICLR,ICON Plc,197.86,219.04,9.7%,210.49,210.49,165.08,92.95,6.0%,1.62,—,5.0%,3.6%,2.1,SELLING,$-3.9M,0,14,✅ 3/4,↑0 ↓0,$14.82B,Commercial Services,NASDAQ
+AES,AES Corporation,14.93,17.65,15.4%,15.82,15.82,13.05,10.45,5.7%,1.86,—,24.2%,3.7%,2.7,—,—,0,0,✅ 3/4,—,$10.65B,Utilities,NYSE
+BIO,"Bio-Rad Laboratories, Inc. Class A",373.39,396.23,5.8%,423.54,423.54,335.04,208.48,11.8%,1.32,—,14.3%,7.2%,5.1,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$10.04B,Health Technology,NYSE
+REXR,"Rexford Industrial Realty, Inc.",37.74,42.41,11.0%,42.41,42.41,32.89,,11.0%,1.16,—,-5.9%,7.8%,4.1,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$8.01B,Finance,NYSE
+BLDR,"Builders FirstSource, Inc.",60.53,131.50,54.0%,87.68,87.68,57.87,,31.0%,1.60,—,1.0%,9.8%,3.3,NEUTRAL,—,0,0,🔴 1/4,↑1 ↓0,$6.51B,Retail Trade,NYSE
+GIL,Gildan Activewear Inc.,35.03,73.69,52.5%,36.26,36.26,32.12,20.78,3.4%,1.81,—,13.3%,7.4%,7.7,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$6.49B,Consumer Non-Durables,NYSE
+RYN,Rayonier Inc.,21.41,24.82,13.7%,23.05,23.05,20.97,15.69,7.1%,1.21,—,4.1%,5.0%,3.8,SELLING,$-124K,0,3,✅ 3/4,↑0 ↓0,$6.41B,Finance,NYSE
+PPC,Pilgrim's Pride Corporation,26.80,44.84,40.2%,27.11,27.11,23.95,17.15,1.1%,1.65,—,8.6%,2.4%,4.8,—,—,0,0,🔴 0/4,↑0 ↓0,$6.38B,Process Industries,NASDAQ
+AVAV,"AeroVironment, Inc.",122.12,408.25,70.1%,126.90,126.90,93.45,,3.8%,1.41,—,-4.6%,13.3%,3.6,SELLING,$-265K,0,7,🔴 2/4,↑4 ↓0,$6.21B,Electronic Technology,NASDAQ
+ICL,ICL Group Ltd.,4.62,6.97,33.6%,5.29,5.29,4.57,,12.5%,0.97,—,5.0%,0.5%,2.2,—,—,0,0,🟡 0/4,—,$5.97B,Process Industries,NYSE
+INGR,Ingredion Incorporated,92.89,123.49,24.8%,93.10,93.10,88.05,56.39,0.2%,1.27,—,12.8%,8.2%,6.7,SELLING,$-170K,0,1,🔴 1/4,↑0 ↓0,$5.79B,Consumer Non-Durables,NYSE
+WFG,West Fraser Timber Co. Ltd.,66.75,76.99,13.3%,67.59,67.59,57.68,,1.2%,0.96,—,-17.7%,—,12.3,—,—,0,0,🔴 1/4,↑0 ↓0,$5.23B,Non-Energy Minerals,NYSE
+UFPI,"UFP Industries, Inc.",79.28,118.00,32.8%,82.03,82.03,59.72,34.93,3.4%,1.43,—,7.2%,5.8%,4.7,NEUTRAL,—,0,0,🔴 1/4,↑1 ↓0,$4.33B,Non-Energy Minerals,NASDAQ
+IRT,"Independence Realty Trust, Inc.",14.96,17.79,15.9%,15.00,15.00,11.39,,0.3%,1.05,—,1.8%,12.1%,5.7,SELLING,$-48K,0,6,🔴 0/4,↑0 ↓0,$3.62B,Finance,NYSE
+POST,"Post Holdings, Inc.",80.23,117.28,31.6%,84.92,84.92,70.59,,5.5%,1.15,—,8.3%,14.1%,8.1,SELLING,$-32.3M,0,1,✅ 4/4,↑0 ↓0,$3.53B,Consumer Non-Durables,NYSE
+MMS,"MAXIMUS, Inc.",64.71,100.00,35.3%,72.01,72.01,64.61,38.76,10.1%,1.95,—,21.1%,10.5%,4.6,—,—,0,0,✅ 3/4,—,$3.39B,Commercial Services,NYSE
+PPLI,People Incorporated,43.76,48.32,9.4%,57.21,57.21,42.44,23.88,23.5%,0.75,—,-5.5%,21.1%,10.9,NEUTRAL,—,0,0,🔴 1/4,↑0 ↓0,$3.28B,Technology Services,NASDAQ
+PFSI,"PennyMac Financial Services, Inc.",61.89,160.36,61.4%,67.94,67.94,47.29,,8.9%,0.74,—,5.6%,13.0%,5.5,SELLING,$-430K,0,2,🔴 1/4,↑0 ↓0,$3.22B,Finance,NYSE
+SLM,SLM Corp,16.82,31.06,45.9%,17.44,17.44,13.79,10.94,3.6%,1.53,—,24.7%,10.2%,4.3,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$3.07B,Finance,NASDAQ
+CALY,Callaway Golf Company,16.75,20.28,17.4%,18.03,18.03,15.96,13.00,7.1%,1.36,—,5.7%,5.2%,3.9,SELLING,$-1.8M,0,2,✅ 4/4,↑0 ↓0,$2.93B,Consumer Durables,NYSE
+KWR,Quaker Houghton,155.16,183.00,15.2%,167.41,167.41,148.16,86.38,7.3%,1.89,—,7.0%,14.5%,11.4,SELLING,$-208K,0,2,🟡 2/4,↑0 ↓0,$2.67B,Process Industries,NYSE
+BCC,Boise Cascade Co.,68.47,91.97,25.5%,70.15,70.15,50.47,,2.4%,1.16,—,5.7%,6.1%,4.6,SELLING,$-262K,0,2,✅ 3/4,↑0 ↓0,$2.38B,Distribution Services,NYSE
+LCII,LCI Industries,96.96,159.66,39.3%,99.77,99.77,84.26,49.64,2.8%,1.62,—,14.1%,11.1%,3.3,—,—,0,0,✅ 4/4,↑0 ↓0,$2.36B,Producer Manufacturing,NYSE
+ROG,Rogers Corporation,131.49,169.00,22.2%,145.81,145.81,126.73,83.94,9.8%,1.92,—,3.7%,3.4%,1.5,NEUTRAL,—,0,0,✅ 3/4,↑0 ↓0,$2.34B,Process Industries,NYSE
