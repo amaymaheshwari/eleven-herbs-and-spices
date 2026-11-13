@@ -1,0 +1,28 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+CTSH,Cognizant Technology Solutions Corporation Class A,63.26,87.03,27.3%,66.15,66.15,62.37,39.88,4.4%,1.92,—,17.4%,—,—,—,—,0,0,—,—,$28.28B,Technology Services,NASDAQ
+LYB,LyondellBasell Industries NV,63.76,83.94,24.0%,64.35,64.35,59.79,,0.9%,1.83,—,12.3%,—,—,—,—,0,0,—,—,$20.61B,Process Industries,NYSE
+LEN,Lennar Corporation Class A,83.75,133.76,37.4%,95.13,95.13,73.76,49.31,12.0%,0.92,—,5.9%,—,—,—,—,0,0,—,—,$19.87B,Consumer Durables,NYSE
+IP,International Paper Company,34.41,50.25,31.5%,35.93,35.93,33.90,24.78,4.2%,1.39,—,-22.3%,—,—,—,—,0,0,—,—,$18.22B,Process Industries,NYSE
+ICLR,ICON Plc,194.99,219.04,11.0%,210.38,210.38,165.01,92.92,7.3%,1.60,—,5.0%,—,—,—,—,0,0,—,—,$14.61B,Commercial Services,NASDAQ
+DOC,"Healthpeak Properties, Inc.",19.89,22.95,13.3%,19.95,19.95,19.45,15.46,0.3%,1.74,—,4.9%,—,—,—,—,0,0,—,—,$14.06B,Finance,NYSE
+AES,AES Corporation,14.92,17.65,15.5%,15.82,15.82,13.05,10.45,5.7%,1.86,—,24.2%,—,—,—,—,0,0,—,—,$10.65B,Utilities,NYSE
+BIO,"Bio-Rad Laboratories, Inc. Class A",365.31,396.23,7.8%,423.26,423.26,334.87,208.40,13.7%,1.29,—,14.3%,—,—,—,—,0,0,—,—,$9.86B,Health Technology,NYSE
+UHAL,U-Haul Holding Company,54.82,76.45,28.3%,55.92,55.92,47.47,27.25,2.0%,1.38,—,0.8%,—,—,—,—,0,0,—,—,$9.49B,Finance,NYSE
+REXR,"Rexford Industrial Realty, Inc.",37.52,42.41,11.5%,42.40,42.40,32.89,,11.5%,1.15,—,-5.9%,—,—,—,—,0,0,—,—,$7.96B,Finance,NYSE
+BLDR,"Builders FirstSource, Inc.",60.37,131.50,54.1%,87.68,87.68,57.87,,31.1%,1.59,—,1.0%,—,—,—,—,0,0,—,—,$6.50B,Retail Trade,NYSE
+GIL,Gildan Activewear Inc.,34.87,73.69,52.7%,36.26,36.26,32.12,20.78,3.8%,1.80,—,13.3%,—,—,—,—,0,0,—,—,$6.46B,Consumer Non-Durables,NYSE
+RYN,Rayonier Inc.,21.38,24.82,13.9%,23.04,23.04,20.97,15.69,7.2%,1.21,—,4.1%,—,—,—,—,0,0,—,—,$6.34B,Finance,NYSE
+AVAV,"AeroVironment, Inc.",117.36,408.25,71.3%,126.77,126.77,93.37,,7.4%,1.36,—,-4.6%,—,—,—,—,0,0,—,—,$5.96B,Electronic Technology,NASDAQ
+WFG,West Fraser Timber Co. Ltd.,66.16,76.99,14.1%,67.58,67.58,57.67,,2.1%,0.95,—,-17.7%,—,—,—,—,0,0,—,—,$5.18B,Non-Energy Minerals,NYSE
+UFPI,"UFP Industries, Inc.",79.20,118.00,32.9%,82.04,82.04,59.72,34.93,3.5%,1.42,—,7.2%,—,—,—,—,0,0,—,—,$4.32B,Non-Energy Minerals,NASDAQ
+SLGN,Silgan Holdings Inc.,40.63,49.55,18.0%,40.73,40.73,33.91,22.15,0.2%,1.73,—,11.0%,—,—,—,—,0,0,—,—,$4.29B,Process Industries,NYSE
+IRT,"Independence Realty Trust, Inc.",14.91,17.79,16.2%,15.00,15.00,11.39,,0.5%,1.05,—,1.8%,—,—,—,—,0,0,—,—,$3.61B,Finance,NYSE
+POST,"Post Holdings, Inc.",81.14,117.28,30.8%,84.95,84.95,70.61,,4.5%,1.16,—,8.3%,—,—,—,—,0,0,—,—,$3.57B,Consumer Non-Durables,NYSE
+MMS,"MAXIMUS, Inc.",65.00,100.00,35.0%,72.02,72.02,64.61,38.76,9.7%,1.96,—,21.1%,—,—,—,—,0,0,—,—,$3.40B,Commercial Services,NYSE
+PPLI,People Incorporated,43.77,48.32,9.4%,57.21,57.21,42.44,23.88,23.5%,0.75,—,-5.5%,—,—,—,—,0,0,—,—,$3.28B,Technology Services,NASDAQ
+PFSI,"PennyMac Financial Services, Inc.",60.99,160.36,62.0%,67.92,67.92,47.27,,10.2%,0.73,—,5.6%,—,—,—,—,0,0,—,—,$3.17B,Finance,NYSE
+SLM,SLM Corp,17.08,31.06,45.0%,17.45,17.45,13.80,10.94,2.1%,1.56,—,24.7%,—,—,—,—,0,0,—,—,$3.12B,Finance,NASDAQ
+CALY,Callaway Golf Company,16.91,20.28,16.6%,18.04,18.04,15.96,13.00,6.2%,1.38,—,5.7%,—,—,—,—,0,0,—,—,$2.96B,Consumer Durables,NYSE
+KWR,Quaker Houghton,153.70,183.00,16.0%,167.38,167.38,148.14,86.37,8.2%,1.87,—,7.0%,—,—,—,—,0,0,—,—,$2.64B,Process Industries,NYSE
+LCII,LCI Industries,98.85,159.66,38.1%,99.84,99.84,84.30,49.66,1.0%,1.65,—,14.1%,—,—,—,—,0,0,—,—,$2.40B,Producer Manufacturing,NYSE
+BCC,Boise Cascade Co.,67.60,91.97,26.5%,70.14,70.14,50.46,,3.6%,1.15,—,5.7%,—,—,—,—,0,0,—,—,$2.35B,Distribution Services,NYSE
