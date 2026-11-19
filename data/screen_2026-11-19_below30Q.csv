@@ -1,0 +1,27 @@
+Ticker,Company,Price,52W High,% Off 52W High,30Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+PFE,Pfizer Inc.,27.63,31.44,12.1%,27.99,27.99,25.41,18.06,1.3%,1.77,—,4.4%,2.4%,4.5,BUYING,$+2.8M,3,2,✅ 4/4,↑0 ↓0,$157.49B,Health Technology,NYSE
+MSTR,Strategy Inc Class A,87.38,198.40,56.0%,101.45,101.45,67.26,37.61,13.9%,0.67,—,-21.6%,6.7%,1.4,SELLING,$-22.6M,0,19,🔴 1/4,↑1 ↓0,$36.90B,Finance,NASDAQ
+AMCR,Amcor PLC,42.32,50.94,16.9%,42.81,42.81,39.35,,1.1%,1.67,—,9.3%,5.0%,7.4,—,—,0,0,🔴 2/4,↑0 ↓0,$19.57B,Process Industries,NYSE
+LEN,Lennar Corporation Class A,80.33,133.76,39.9%,95.01,95.01,73.69,49.27,15.5%,0.89,—,5.9%,0.3%,0.1,BUYING,$+451.7M,3,0,🔴 1/4,↑3 ↓0,$19.04B,Consumer Durables,NYSE
+ICLR,ICON Plc,191.22,219.04,12.7%,210.26,210.26,164.94,92.88,9.1%,1.57,—,5.0%,3.6%,2.1,SELLING,$-5.9M,0,15,✅ 3/4,↑0 ↓0,$14.33B,Commercial Services,NASDAQ
+AES,AES Corporation,15.02,17.65,14.9%,15.83,15.83,13.05,10.45,5.1%,1.88,—,24.2%,3.7%,2.7,—,—,0,0,✅ 3/4,—,$10.72B,Utilities,NYSE
+BIO,"Bio-Rad Laboratories, Inc. Class A",368.89,396.23,6.9%,423.36,423.36,334.93,208.42,12.9%,1.30,—,14.3%,7.2%,5.1,SELLING,$-1.2M,0,3,🔴 2/4,↑0 ↓0,$9.97B,Health Technology,NYSE
+UHAL,U-Haul Holding Company,53.39,76.45,30.2%,55.86,55.86,47.44,27.24,4.4%,1.34,—,0.8%,10.8%,6.9,—,—,0,0,🔴 0/4,—,$9.26B,Finance,NYSE
+REXR,"Rexford Industrial Realty, Inc.",35.49,42.05,15.6%,42.34,42.34,32.85,,16.2%,1.09,—,-5.9%,7.8%,4.1,—,—,0,0,✅ 3/4,↑0 ↓0,$7.53B,Finance,NYSE
+GIL,Gildan Activewear Inc.,34.19,73.69,53.6%,36.24,36.24,32.11,20.77,5.7%,1.77,—,13.3%,7.4%,7.7,NEUTRAL,—,0,0,🟡 2/4,↑0 ↓0,$6.33B,Consumer Non-Durables,NYSE
+INGR,Ingredion Incorporated,88.14,123.49,28.6%,92.94,92.94,87.95,56.34,5.2%,1.21,—,12.8%,8.2%,6.7,SELLING,$-170K,0,1,🔴 1/4,↑0 ↓0,$5.49B,Consumer Non-Durables,NYSE
+AVAV,"AeroVironment, Inc.",97.56,408.25,76.1%,126.11,126.11,92.97,,22.6%,1.13,—,-4.6%,13.3%,3.6,SELLING,$-265K,0,7,🔴 2/4,↑4 ↓0,$4.96B,Electronic Technology,NASDAQ
+WFG,West Fraser Timber Co. Ltd.,63.13,76.99,18.0%,67.47,67.47,57.60,,6.4%,0.91,—,-17.7%,—,12.3,—,—,0,0,🔴 1/4,↑0 ↓0,$4.94B,Non-Energy Minerals,NYSE
+SON,Sonoco Products Company,46.22,60.67,23.8%,47.07,47.07,42.63,29.59,1.8%,1.63,—,-6.9%,15.1%,9.0,BUYING,$+234K,1,1,🟡 2/4,↑0 ↓0,$4.57B,Process Industries,NYSE
+UFPI,"UFP Industries, Inc.",79.28,118.00,32.8%,82.03,82.03,59.72,34.93,3.4%,1.43,—,7.2%,5.8%,4.7,NEUTRAL,—,0,0,🔴 1/4,↑1 ↓0,$4.33B,Non-Energy Minerals,NASDAQ
+SLGN,Silgan Holdings Inc.,39.62,49.55,20.0%,40.69,40.69,33.88,22.14,2.6%,1.69,—,11.0%,10.6%,8.0,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$4.19B,Process Industries,NYSE
+IRT,"Independence Realty Trust, Inc.",14.52,17.79,18.4%,14.99,14.99,11.39,,3.1%,1.02,—,1.8%,12.1%,5.7,SELLING,$-48K,0,6,🔴 0/4,↑0 ↓0,$3.51B,Finance,NYSE
+POST,"Post Holdings, Inc.",79.73,117.28,32.0%,84.90,84.90,70.58,,6.1%,1.14,—,8.3%,14.1%,8.1,SELLING,$-32.3M,0,1,✅ 4/4,↑0 ↓0,$3.50B,Consumer Non-Durables,NYSE
+PFSI,"PennyMac Financial Services, Inc.",59.29,160.36,63.0%,67.53,67.53,47.01,,12.2%,0.71,—,5.6%,13.0%,5.5,SELLING,$-430K,0,2,🔴 1/4,↑0 ↓0,$3.08B,Finance,NYSE
+CALY,Callaway Golf Company,16.75,20.28,17.4%,18.03,18.03,15.96,13.00,7.1%,1.36,—,5.7%,5.2%,3.9,SELLING,$-1.8M,0,2,✅ 4/4,↑0 ↓0,$2.93B,Consumer Durables,NYSE
+SLM,SLM Corp,15.80,31.06,49.1%,17.41,17.41,13.77,10.93,9.2%,1.44,—,24.7%,10.6%,4.3,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$2.89B,Finance,NASDAQ
+KWR,Quaker Houghton,151.45,183.00,17.2%,167.29,167.29,148.09,86.34,9.5%,1.84,—,7.0%,14.5%,11.4,SELLING,$-208K,0,2,🟡 2/4,↑0 ↓0,$2.60B,Process Industries,NYSE
+LCII,LCI Industries,99.48,159.66,37.7%,99.86,99.86,84.32,49.66,0.4%,1.66,—,14.1%,11.1%,3.3,—,—,0,0,✅ 4/4,↑0 ↓0,$2.42B,Producer Manufacturing,NYSE
+BCC,Boise Cascade Co.,64.61,91.97,29.7%,70.03,70.03,50.40,,7.7%,1.10,—,5.7%,6.1%,4.6,SELLING,$-262K,0,2,✅ 3/4,↑0 ↓0,$2.25B,Distribution Services,NYSE
+VCYT,"Veracyte, Inc.",25.50,60.91,58.1%,32.12,32.12,23.25,,20.6%,1.43,—,9.4%,14.0%,8.1,SELLING,$-11.0M,0,14,✅ 4/4,↑0 ↓0,$2.06B,Health Technology,NASDAQ
+WAFD,"WaFd, Inc.",27.61,39.49,30.1%,27.82,27.82,25.34,18.78,0.7%,0.76,—,8.5%,11.2%,5.8,—,—,0,0,🟡 1/4,↑0 ↓0,$2.04B,Finance,NASDAQ
