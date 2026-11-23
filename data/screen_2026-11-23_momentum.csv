@@ -1,0 +1,23 @@
+Ticker,Company,Price,% Above 20Q SMA,20Q SMA,30Q SMA,50Q SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+AON,Aon Plc Class A,331.86,3.7%,320.17,286.44,218.04,6.97,—,43.6%,1.8%,2.2,BUYING,$+4.9M,1,3,✅ 4/4,↑0 ↓0,$70.41B,Finance,NYSE
+LHX,L3Harris Technologies Inc,254.83,8.8%,234.23,215.50,168.80,2.34,—,10.3%,2.6%,2.4,NEUTRAL,—,0,0,✅ 4/4,↑1 ↓0,$47.45B,Electronic Technology,NYSE
+F,Ford Motor Company,11.65,9.8%,10.61,9.74,8.75,1.33,—,-18.5%,0.0%,—,BUYING,$+149K,1,0,✅ 3/4,↑0 ↓0,$46.52B,Consumer Durables,NYSE
+MLM,"Martin Marietta Materials, Inc.",521.31,5.3%,495.28,425.82,324.48,2.10,—,6.0%,5.3%,4.2,NEUTRAL,—,0,0,🔴 2/4,↑0 ↓0,$37.07B,Non-Energy Minerals,NYSE
+ADM,Archer-Daniels-Midland Company,67.47,4.3%,64.70,57.92,48.03,1.35,—,10.7%,3.4%,4.5,BUYING,$+197K,1,0,✅ 4/4,↑0 ↓0,$32.11B,Process Industries,NYSE
+SW,Smurfit Westrock PLC,39.55,0.2%,39.47,37.62,30.63,1.15,—,2.6%,5.3%,5.2,NEUTRAL,—,0,0,🔴 0/4,↑0 ↓0,$20.68B,Process Industries,NYSE
+BG,Bunge Global SA,91.97,0.6%,91.46,79.81,68.99,1.08,—,7.2%,5.9%,5.1,BUYING,$+689K,1,0,✅ 4/4,↑0 ↓0,$17.67B,Process Industries,NYSE
+AMH,American Homes 4 Rent Class A,32.10,0.5%,31.95,30.60,25.04,1.71,—,6.6%,5.7%,5.2,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$11.48B,Finance,NYSE
+NNN,"NNN REIT, Inc.",40.94,8.4%,37.77,35.86,32.35,1.74,—,8.9%,5.8%,3.0,NEUTRAL,—,0,0,🟡 0/4,↑1 ↓0,$7.94B,Finance,NYSE
+DSGX,Descartes Systems Group Inc.,90.25,6.9%,84.39,75.59,54.89,4.69,—,11.9%,—,2.7,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$7.72B,Technology Services,NASDAQ
+JBTM,JBT Marel Corporation,124.16,8.5%,114.39,113.78,97.27,1.43,—,4.4%,9.5%,8.8,NEUTRAL,—,0,0,✅ 3/4,↑2 ↓0,$6.34B,Producer Manufacturing,NYSE
+CMC,Commercial Metals Company,57.23,8.0%,52.97,42.83,31.69,1.34,—,14.8%,7.8%,5.5,BUYING,$+604K,2,0,✅ 3/4,↑0 ↓0,$6.29B,Non-Energy Minerals,NYSE
+AN,"AutoNation, Inc.",180.03,9.7%,164.10,134.86,101.01,2.57,—,30.2%,13.8%,4.7,BUYING,$+1.5M,5,1,✅ 4/4,↑0 ↓0,$5.76B,Retail Trade,NYSE
+HRB,"H&R Block, Inc.",45.98,9.5%,41.98,33.57,27.77,,—,—,18.9%,9.5,NEUTRAL,—,0,0,✅ 4/4,↑0 ↓0,$5.59B,Consumer Services,NYSE
+HRI,"Herc Holdings, Inc.",140.46,3.6%,135.59,115.53,86.57,2.36,—,6.3%,12.3%,4.0,BUYING,$+503K,1,0,✅ 4/4,↑0 ↓0,$4.70B,Finance,NYSE
+BMI,"Badger Meter, Inc.",163.10,7.4%,151.89,126.75,90.75,7.15,—,18.7%,19.4%,7.5,BUYING,$+102K,1,0,🔴 1/4,↑0 ↓0,$4.66B,Producer Manufacturing,NYSE
+KAI,Kadant Inc.,277.97,4.1%,266.90,224.49,160.81,3.12,—,11.7%,10.5%,6.2,NEUTRAL,—,0,0,✅ 4/4,—,$3.28B,Producer Manufacturing,NYSE
+LRN,"Stride, Inc.",76.47,1.6%,75.23,59.17,42.26,1.92,—,20.9%,20.5%,7.8,BUYING,$+39.6M,5,0,✅ 4/4,↑0 ↓0,$3.22B,Consumer Services,NYSE
+NHI,"National Health Investors, Inc.",61.78,4.6%,59.04,54.98,49.66,1.45,—,39.0%,4.6%,7.5,BUYING,$+258K,3,0,🔴 1/4,↑0 ↓0,$3.03B,Finance,NYSE
+CXT,"Crane NXT, Co.",52.58,4.8%,50.17,41.92,33.74,2.34,—,10.2%,21.7%,15.1,BUYING,$+878K,1,3,✅ 4/4,↑1 ↓0,$3.03B,Producer Manufacturing,NYSE
+MGEE,"MGE Energy, Inc.",78.90,4.0%,75.86,71.76,61.64,2.01,—,11.6%,5.3%,9.0,BUYING,$+42K,2,0,✅ 3/4,↑2 ↓0,$2.98B,Utilities,NASDAQ
+DX,"Dynex Capital, Inc.",9.77,4.3%,9.37,8.93,7.87,0.89,—,-2.0%,7.0%,2.4,BUYING,$+371K,7,0,✅ 3/4,↑0 ↓0,$2.54B,Finance,NYSE
