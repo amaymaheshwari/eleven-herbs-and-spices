@@ -1,0 +1,27 @@
+Ticker,Company,Price,52W High,% Off 52W High,100Q SMA,30Q SMA,50Q SMA,100Q SMA,% Below SMA,P/B Ratio,Div Yield,ROE,Short % Float,Short Ratio (Days),Insider Signal,Insider Net Value (6mo),Insider Buys,Insider Sells,EPS Beats (4Q),Analyst (90d),Market Cap,Sector,Exchange
+AIG,"American International Group, Inc.",82.23,87.29,5.8%,221.01,57.76,52.41,221.01,62.8%,1.10,—,8.2%,—,—,—,—,0,0,—,—,$42.63B,Finance,NYSE
+PCG,PG&E Corporation,14.26,19.16,25.6%,27.05,13.88,27.12,27.05,47.3%,0.95,—,9.3%,—,—,—,—,0,0,—,—,$31.41B,Utilities,NYSE
+FIS,"Fidelity National Information Services, Inc.",27.64,68.37,59.6%,47.82,81.46,76.56,47.82,42.2%,0.88,—,23.0%,—,—,—,—,0,0,—,—,$14.25B,Technology Services,NYSE
+CDE,"Coeur Mining, Inc.",11.75,27.77,57.7%,17.23,7.54,7.23,17.23,31.8%,1.15,—,10.3%,5.3%,1.4,SELLING,$-1.8M,1,5,🔴 1/4,↑0 ↓0,$12.01B,Non-Energy Minerals,NYSE
+AA,Alcoa Corporation,35.07,84.38,58.4%,37.64,34.88,33.41,37.64,6.8%,1.12,—,21.1%,—,—,—,—,0,0,—,—,$9.26B,Non-Energy Minerals,NYSE
+ARE,"Alexandria Real Estate Equities, Inc.",43.09,59.76,27.9%,65.56,103.20,93.40,65.56,34.3%,0.50,—,-9.1%,—,—,—,—,0,0,—,—,$7.50B,Finance,NYSE
+CAG,"Conagra Brands, Inc.",15.67,20.32,22.9%,16.62,23.46,23.10,16.62,5.7%,1.17,—,-24.9%,—,—,—,—,0,0,—,—,$7.48B,Consumer Non-Durables,NYSE
+CPB,Campbell's Company,24.11,30.73,21.6%,26.80,35.47,35.01,26.80,10.0%,1.87,—,10.3%,22.7%,6.0,BUYING,$+6K,1,0,🟡 2/4,↑0 ↓0,$7.19B,Consumer Non-Durables,NASDAQ
+SM,SM Energy Company,28.85,41.56,30.6%,30.16,25.89,25.43,30.16,4.3%,0.87,—,15.0%,6.7%,4.3,SELLING,$-788K,0,2,🟡 2/4,↑2 ↓0,$6.78B,Energy Minerals,NYSE
+VNO,Vornado Realty Trust,34.91,41.60,16.1%,35.11,32.44,40.47,35.11,0.6%,1.40,—,0.2%,—,—,—,—,0,0,—,—,$6.53B,Finance,NYSE
+MOS,Mosaic Company,20.35,32.25,36.9%,28.64,28.70,27.43,28.64,28.9%,0.57,—,-9.3%,—,—,—,—,0,0,—,—,$6.47B,Process Industries,NYSE
+CLF,Cleveland-Cliffs Inc,11.27,15.35,26.6%,19.56,14.21,11.29,19.56,42.4%,1.13,—,-8.3%,10.3%,2.4,SELLING,$-2.9M,0,1,✅ 4/4,↑0 ↓0,$6.43B,Non-Energy Minerals,NYSE
+NOV,NOV Inc.,17.05,21.93,22.3%,27.22,15.43,23.04,27.22,37.4%,0.97,—,2.3%,13.5%,6.5,—,—,0,0,🔴 1/4,↑0 ↓0,$6.08B,Industrial Services,NYSE
+RIG,Transocean Ltd.,5.03,7.66,34.3%,29.77,4.39,7.55,29.77,83.1%,0.66,—,3.5%,30.7%,7.0,BUYING,$+173K,1,0,🔴 1/4,↑0 ↓0,$5.62B,Industrial Services,NYSE
+FLG,"Flagstar Bank, National Association",10.61,15.44,31.3%,20.86,20.79,23.12,20.86,49.1%,0.60,—,1.2%,0.0%,—,BUYING,$+749K,4,0,🔴 1/4,↑0 ↓0,$4.23B,Finance,NYSE
+MAT,"Mattel, Inc.",13.99,22.48,37.8%,17.88,17.86,18.95,17.88,21.7%,1.71,—,21.8%,15.0%,4.9,SELLING,$-587K,0,1,🔴 1/4,↑0 ↓0,$3.99B,Consumer Durables,NASDAQ
+PTEN,"Patterson-UTI Energy, Inc.",9.99,13.39,25.4%,13.25,8.77,11.30,13.25,24.6%,1.23,—,-0.8%,—,—,—,—,0,0,—,—,$3.79B,Energy Minerals,NASDAQ
+CRK,"Comstock Resources, Inc.",12.75,28.10,54.6%,62.66,11.75,11.50,62.66,79.7%,1.43,—,16.8%,—,—,—,—,0,0,—,—,$3.74B,Energy Minerals,NYSE
+FBP,First Bancorp,24.28,29.88,18.7%,49.67,14.72,10.87,49.67,51.1%,1.95,—,19.4%,—,—,—,—,0,0,—,—,$3.63B,Finance,NYSE
+SBCF,Seacoast Banking Corporation of Florida,32.13,36.27,11.4%,33.50,26.63,23.33,33.50,4.1%,1.20,—,6.7%,—,—,—,—,0,0,—,—,$3.10B,Finance,NASDAQ
+AAP,"Advance Auto Parts, Inc.",46.25,65.20,29.1%,76.96,102.58,112.51,76.96,39.9%,1.23,—,5.6%,—,—,—,—,0,0,—,—,$2.79B,Retail Trade,NYSE
+NWL,Newell Brands Inc,5.94,7.13,16.7%,13.76,10.68,15.64,13.76,56.8%,1.07,—,-12.8%,—,—,—,—,0,0,—,—,$2.53B,Producer Manufacturing,NASDAQ
+DXC,DXC Technology Co.,14.96,16.38,8.7%,23.71,22.65,33.43,23.71,36.9%,0.76,—,3.7%,—,—,—,—,0,0,—,—,$2.33B,Technology Services,NYSE
+NEOG,Neogen Corp,10.49,14.26,26.4%,14.60,22.05,23.33,14.60,28.1%,1.10,—,-2.7%,—,—,—,—,0,0,—,—,$2.29B,Health Technology,NASDAQ
+PRGO,Perrigo Co. Plc,16.30,17.07,4.5%,42.92,28.49,47.91,42.92,62.0%,0.93,—,-50.2%,—,—,—,—,0,0,—,—,$2.26B,Health Technology,NYSE
+MAN,ManpowerGroup Inc.,46.93,63.88,26.5%,49.06,62.08,63.98,49.06,4.3%,1.02,—,5.8%,—,—,—,—,0,0,—,—,$2.18B,Commercial Services,NYSE
